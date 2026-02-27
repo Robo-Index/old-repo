@@ -532,6 +532,11 @@ tbody tr:last-child td {
   margin-top: 22px;
   display: grid;
   gap: 14px;
+  max-width: 100%;
+}
+
+.guide-deep-dive * {
+  min-width: 0;
 }
 
 .guide-deep-head {
@@ -597,6 +602,8 @@ tbody tr:last-child td {
   margin: 10px 0 0;
   font-size: 0.89rem;
   color: var(--muted);
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .guide-phase-alert {
@@ -606,6 +613,8 @@ tbody tr:last-child td {
   background: rgba(221, 106, 47, 0.12);
   border-radius: 10px;
   padding: 8px 10px;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .guide-phase-meter {
@@ -646,13 +655,16 @@ tbody tr:last-child td {
   margin-top: 12px;
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   gap: 10px;
-  overflow-x: auto;
+  overflow: hidden;
   padding-bottom: 6px;
+  max-width: 100%;
 }
 
 .guide-flow-node {
-  min-width: 190px;
+  min-width: 0;
+  flex: 1 1 210px;
   border-radius: 12px;
   border: 1px solid rgba(208, 219, 211, 0.88);
   background: #fff;
@@ -681,9 +693,15 @@ tbody tr:last-child td {
   margin: 0;
   color: var(--muted);
   font-size: 0.82rem;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .guide-flow-arrow {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 2px;
   color: var(--primary-strong);
   font-weight: 700;
   flex: 0 0 auto;
@@ -711,6 +729,8 @@ tbody tr:last-child td {
   margin: 8px 0 0;
   color: var(--muted);
   font-size: 0.9rem;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .emoji-list {
@@ -744,6 +764,8 @@ tbody tr:last-child td {
   margin: 0;
   color: var(--ink);
   font-size: 0.87rem;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .guide-links-shell {
@@ -801,12 +823,16 @@ tbody tr:last-child td {
 .guide-link-top h4 {
   margin: 0;
   font-size: 0.9rem;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .guide-link-card p {
   margin: 0;
   color: var(--muted);
   font-size: 0.82rem;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .guide-link-cta {
@@ -972,6 +998,16 @@ tbody tr:last-child td {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
+  .guide-flow {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+
+  .guide-flow-arrow {
+    display: none;
+  }
+
   .site-header {
     border-radius: 22px;
     flex-wrap: wrap;
@@ -1021,6 +1057,6 @@ tbody tr:last-child td {
   }
 
   .guide-flow-node {
-    min-width: 220px;
+    min-width: 0;
   }
 }
