@@ -1,0 +1,11 @@
+title: "C2F-EFIO"
+venue: "RA-L"
+year: 2025
+authors: []
+abstract: "Event-frame-inertial odometry using point and line features based on coarse-to-fine motion compensation."
+tags:
+  - odometry
+  - event-camera
+  - slam
+repo: "https://github.com/choibottle/C2F-EFIO"
+date_added: "2026-03-08"

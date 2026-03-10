@@ -1,0 +1,11 @@
+title: "Flow4D"
+venue: "RA-L"
+year: 2025
+authors: []
+abstract: "Point cloud scene flow estimation with a unified codebase covering 13 methods and 6 public datasets."
+tags:
+  - scene-flow
+  - point-cloud
+  - perception
+repo: "https://github.com/KTH-RPL/OpenSceneFlow"
+date_added: "2026-03-08"

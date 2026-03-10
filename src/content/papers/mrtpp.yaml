@@ -1,0 +1,11 @@
+title: "MRTPP"
+venue: "RA-L"
+year: 2025
+authors: []
+abstract: "An efficient multi-robot task and path planning method for heterogeneous multi-robot systems."
+tags:
+  - multi-robot
+  - task-planning
+  - path-planning
+repo: "https://github.com/wuuya1/MRTPP"
+date_added: "2026-03-08"

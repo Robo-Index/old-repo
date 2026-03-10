@@ -1,0 +1,11 @@
+title: "UniT"
+venue: "RA-L"
+year: 2025
+authors: []
+abstract: "Data efficient tactile representation with generalization to unseen objects via VQGAN-based latent space learning."
+tags:
+  - tactile
+  - representation-learning
+  - manipulation
+repo: "https://github.com/ZhengtongXu/UniT"
+date_added: "2026-03-08"

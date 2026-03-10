@@ -1,0 +1,12 @@
+title: "EquiMus"
+venue: "RA-L"
+year: 2025
+authors:
+  - "Zhu Yinglei"
+abstract: "Energy-equivalent modeling and simulation for musculoskeletal robots."
+tags:
+  - musculoskeletal
+  - simulation
+  - modeling
+repo: "https://github.com/fly-pigTH/EquiMus"
+date_added: "2026-02-27"

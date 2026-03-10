@@ -1,0 +1,11 @@
+title: "FlowDreamer"
+venue: "RA-L"
+year: 2026
+authors: []
+abstract: "A RGB-D world model with flow-based motion representations for robot manipulation."
+tags:
+  - world-model
+  - manipulation
+  - rgb-d
+repo: "https://github.com/sharinka0715/FlowDreamer"
+date_added: "2026-03-08"

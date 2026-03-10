@@ -1,0 +1,11 @@
+title: "ARP: Autoregressive Policy"
+venue: "RA-L"
+year: 2025
+authors: []
+abstract: "Autoregressive action sequence learning for robot imitation learning, with strong results on Push-T, ALOHA, RLBench, and real robot experiments."
+tags:
+  - imitation-learning
+  - manipulation
+  - autoregressive
+repo: "https://github.com/mlzxy/arp"
+date_added: "2026-03-08"

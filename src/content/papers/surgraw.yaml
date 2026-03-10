@@ -1,0 +1,11 @@
+title: "SurgRAW"
+venue: "RA-L"
+year: 2026
+authors: []
+abstract: "Multi-agent workflow with chain of thought reasoning for surgical intelligence."
+tags:
+  - surgical
+  - multi-agent
+  - llm
+repo: "https://github.com/jinlab-imvr/SurgRAW"
+date_added: "2026-03-08"

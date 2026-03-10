@@ -1,0 +1,11 @@
+title: "STAR-Searcher"
+venue: "RA-L"
+year: 2024
+authors: []
+abstract: "An efficient autonomous target search system for complex unknown environments."
+tags:
+  - target-search
+  - uav
+  - exploration
+repo: "https://github.com/Robotics-STAR-Lab/STAR-Searcher"
+date_added: "2026-02-27"

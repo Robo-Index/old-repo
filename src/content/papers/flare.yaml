@@ -1,0 +1,11 @@
+title: "FLARE"
+venue: "RA-L"
+year: 2026
+authors: []
+abstract: "Agile flights for quadrotor cable-suspended payload system via reinforcement learning."
+tags:
+  - uav
+  - reinforcement-learning
+  - aerial
+repo: "https://github.com/BEI11HAI/Flare"
+date_added: "2026-03-08"

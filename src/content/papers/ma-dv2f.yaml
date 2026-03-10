@@ -1,0 +1,11 @@
+title: "MA-DV2F"
+venue: "RA-L"
+year: 2025
+authors: []
+abstract: "A multi-agent navigation framework using dynamic velocity vector field for cooperative robots."
+tags:
+  - multi-agent
+  - navigation
+  - multi-robot
+repo: "https://github.com/yininghase/MA-DV2F"
+date_added: "2026-03-08"

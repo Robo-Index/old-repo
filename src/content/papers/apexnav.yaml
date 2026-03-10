@@ -1,0 +1,11 @@
+title: "ApexNav"
+venue: "RA-L"
+year: 2025
+authors: []
+abstract: "A reliable and efficient framework for zero-shot object navigation."
+tags:
+  - navigation
+  - zero-shot
+  - object-goal
+repo: "https://github.com/Robotics-STAR-Lab/ApexNav"
+date_added: "2026-03-08"

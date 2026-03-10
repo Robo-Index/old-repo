@@ -1,0 +1,11 @@
+title: "Quadruped-PyMPC"
+venue: "RA-L"
+year: 2025
+authors: []
+abstract: "Model predictive controller for quadruped robots based on single rigid body model, gradient-based (acados) or sampling-based (JAX)."
+tags:
+  - quadruped
+  - mpc
+  - locomotion
+repo: "https://github.com/iit-DLSLab/Quadruped-PyMPC"
+date_added: "2026-03-08"

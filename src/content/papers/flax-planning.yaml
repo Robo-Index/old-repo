@@ -1,0 +1,11 @@
+title: "FLAX"
+venue: "RA-L"
+year: 2026
+authors: []
+abstract: "Fast task planning with neuro-symbolic relaxation for efficient robotic task execution."
+tags:
+  - task-planning
+  - neuro-symbolic
+  - planning
+repo: "https://github.com/sair-lab/flax"
+date_added: "2026-03-08"

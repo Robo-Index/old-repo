@@ -1,0 +1,11 @@
+title: "MTIL"
+venue: "RA-L"
+year: 2025
+authors: []
+abstract: "Encoding full history with Mamba for temporal imitation learning."
+tags:
+  - imitation-learning
+  - mamba
+  - temporal
+repo: "https://github.com/yulinzhouZYL/MTIL"
+date_added: "2026-03-08"

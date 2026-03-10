@@ -1,0 +1,11 @@
+title: "ManiVID-3D"
+venue: "RA-L"
+year: 2026
+authors: []
+abstract: "Generalizable view-invariant reinforcement learning for robotic manipulation via disentangled 3D representations."
+tags:
+  - manipulation
+  - reinforcement-learning
+  - 3d-representation
+repo: "https://github.com/Zheng-Joe-Lee/ManiVID-3D"
+date_added: "2026-03-08"

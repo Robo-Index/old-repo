@@ -1,0 +1,14 @@
+title: "REBot"
+venue: "RA-L"
+year: 2025
+authors:
+  - "Ce Hao"
+abstract: "Reflexive Evasion Robot - a quadruped robot with reflexive evasion capabilities."
+tags:
+  - quadruped
+  - evasion
+  - locomotion
+project_page: "https://rebot-2025.github.io/"
+preview_image: "/paper-previews/rebot.png"
+preview_video: "/paper-previews/rebot.mp4"
+date_added: "2026-02-27"

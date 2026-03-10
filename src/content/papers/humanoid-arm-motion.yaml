@@ -1,0 +1,11 @@
+title: "Learning Humanoid Arm Motion"
+venue: "RA-L"
+year: 2025
+authors: []
+abstract: "Multi-agent reinforcement learning for humanoid arm motion control."
+tags:
+  - humanoid
+  - reinforcement-learning
+  - multi-agent
+repo: "https://github.com/hojae-io/LearningHumanoidArmMotion-RAL2025-Code"
+date_added: "2026-02-27"

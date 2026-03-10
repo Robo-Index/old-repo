@@ -1,0 +1,8 @@
+.DS_Store
+*.log
+.vscode/
+node_modules/
+dist/
+.astro/
+__pycache__/
+.claude/

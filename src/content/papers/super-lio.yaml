@@ -1,0 +1,11 @@
+title: "Super-LIO"
+venue: "RA-L"
+year: 2026
+authors: []
+abstract: "A robust and efficient LiDAR-inertial odometry system with a compact mapping strategy."
+tags:
+  - lidar
+  - odometry
+  - slam
+repo: "https://github.com/Liansheng-Wang/Super-LIO"
+date_added: "2026-03-08"

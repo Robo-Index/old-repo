@@ -1,0 +1,11 @@
+title: "HybridTrack"
+venue: "RA-L"
+year: 2025
+authors: []
+abstract: "A hybrid approach for robust multi-object tracking combining classical and learning-based methods."
+tags:
+  - tracking
+  - multi-object
+  - perception
+repo: "https://github.com/leandro-svg/HybridTrack"
+date_added: "2026-03-08"

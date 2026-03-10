@@ -1,0 +1,14 @@
+title: "GAMMA"
+venue: "RA-L"
+year: 2024
+authors:
+  - "Ce Hao"
+abstract: "Generalizable Articulation Modeling and Manipulation for Articulated Objects."
+tags:
+  - articulation
+  - manipulation
+  - generalization
+project_page: "https://sites.google.com/view/gamma-articulation"
+preview_image: "/paper-previews/gamma.png"
+preview_video: "/paper-previews/gamma.mp4"
+date_added: "2026-02-27"
