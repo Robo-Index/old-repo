@@ -1,0 +1,13 @@
+title: "LinK3D: Linear Keypoint Representation for 3D LiDAR Point Cloud"
+venue: RA-L
+year: 2024
+authors: []
+abstract: A linear keypoints representation method for 3D LiDAR point clouds for
+  place recognition and registration.
+tags:
+  - LiDAR
+  - 3D-features
+  - keypoints
+  - point-cloud
+repo: https://github.com/YungeCui/LinK3D
+date_added: 2026-03-11

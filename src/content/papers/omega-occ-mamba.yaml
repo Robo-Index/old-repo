@@ -1,0 +1,13 @@
+title: "OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot via
+  State Space Model"
+venue: RA-L
+year: 2025
+authors: []
+abstract: Occlusion-aware navigation for air-ground robots in dynamic
+  environments via state space model.
+tags:
+  - navigation
+  - air-ground-robot
+  - dynamic-environments
+repo: https://github.com/jmwang0117/Occ-Mamba
+date_added: 2026-03-11

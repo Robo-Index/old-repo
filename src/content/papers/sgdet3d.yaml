@@ -1,0 +1,13 @@
+title: "SGDet3D: Semantics and Geometry Fusion for 3D Object Detection Using 4D
+  Radar and Camera"
+venue: RA-L
+year: 2025
+authors: []
+abstract: 3D object detection fusing semantics and geometry from 4D radar and camera.
+tags:
+  - 3D-detection
+  - radar
+  - sensor-fusion
+  - perception
+repo: https://github.com/shawnnnkb/SGDet3D
+date_added: 2026-03-11

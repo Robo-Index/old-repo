@@ -1,0 +1,12 @@
+title: "HeteroMRTA: Heterogeneous Multi-Robot Task Allocation"
+venue: RA-L
+year: 2024
+authors: []
+abstract: Reinforcement learning-based task allocation and scheduling for
+  heterogeneous multi-robot systems.
+tags:
+  - multi-robot
+  - task-allocation
+  - reinforcement-learning
+repo: https://github.com/marmotlab/HeteroMRTA
+date_added: 2026-03-11

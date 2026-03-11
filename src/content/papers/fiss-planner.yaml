@@ -1,0 +1,13 @@
+title: "FISS: A Trajectory Planning Framework using Fast Iterative Search and
+  Sampling"
+venue: RA-L
+year: 2022
+authors: []
+abstract: A trajectory planning framework for autonomous driving using fast
+  iterative search and sampling strategy.
+tags:
+  - trajectory-planning
+  - autonomous-driving
+  - motion-planning
+repo: https://github.com/SS47816/fiss_planner
+date_added: 2026-03-11

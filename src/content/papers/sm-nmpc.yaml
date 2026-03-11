@@ -1,0 +1,13 @@
+title: "SM-NMPC: Sliding Mode Nonlinear MPC for UAVs under Degraded Motor"
+venue: RA-L
+year: 2024
+authors: []
+abstract: Nonlinear model predictive control with sliding mode for UAV flight
+  under degraded motor conditions.
+tags:
+  - UAV
+  - control
+  - MPC
+  - fault-tolerance
+repo: https://github.com/aralab-unr/SM-NMPC
+date_added: 2026-03-11

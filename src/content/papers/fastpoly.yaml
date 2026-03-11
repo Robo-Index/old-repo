@@ -1,0 +1,12 @@
+title: "FastPoly: A Fast Polyhedral Framework for 3D Multi-Object Tracking"
+venue: RA-L
+year: 2024
+authors: []
+abstract: A fast and effective filter-based method for 3D multi-object tracking
+  addressing rotational anisotropy.
+tags:
+  - 3D-tracking
+  - autonomous-driving
+  - perception
+repo: https://github.com/lixiaoyu2000/FastPoly
+date_added: 2026-03-11

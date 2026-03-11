@@ -1,0 +1,12 @@
+title: "iSLAM: Imperative SLAM using Self-supervised Learning"
+venue: RA-L
+year: 2024
+authors: []
+abstract: A visual-inertial SLAM framework using self-supervised learning for
+  reciprocal front-end and back-end correction.
+tags:
+  - SLAM
+  - self-supervised-learning
+  - visual-inertial
+repo: https://github.com/sair-lab/iSLAM
+date_added: 2026-03-11

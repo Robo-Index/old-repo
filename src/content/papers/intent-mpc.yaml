@@ -1,0 +1,14 @@
+title: "Intent-MPC: Intent Prediction-Driven Model Predictive Control for UAV
+  Navigation"
+venue: RA-L
+year: 2025
+authors: []
+abstract: MPC framework with intent prediction for safe UAV navigation in
+  dynamic environments.
+tags:
+  - UAV
+  - MPC
+  - planning
+  - navigation
+repo: https://github.com/Zhefan-Xu/Intent-MPC
+date_added: 2026-03-11

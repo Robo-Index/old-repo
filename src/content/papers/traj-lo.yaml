@@ -1,0 +1,14 @@
+title: "Traj-LO: In Defense of LiDAR-Only Odometry Using an Effective
+  Continuous-Time Trajectory"
+venue: RA-L
+year: 2024
+authors: []
+abstract: A LiDAR-only odometry system using continuous-time trajectory
+  parameterization that matches state-of-the-art LIO performance.
+tags:
+  - LiDAR
+  - odometry
+  - continuous-time
+repo: https://github.com/kevin2431/Traj-LO
+arxiv: https://arxiv.org/abs/2309.13842
+date_added: 2026-03-11

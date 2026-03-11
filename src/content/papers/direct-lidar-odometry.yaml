@@ -1,0 +1,14 @@
+title: "Direct LiDAR Odometry: Fast Localization with Dense Point Clouds"
+venue: RA-L
+year: 2022
+authors: []
+abstract: A lightweight and computationally-efficient frontend LiDAR odometry
+  solution for aerial and legged robots.
+tags:
+  - LiDAR
+  - odometry
+  - real-time
+  - aerial
+repo: https://github.com/vectr-ucla/direct_lidar_odometry
+arxiv: https://arxiv.org/abs/2110.00605
+date_added: 2026-03-11

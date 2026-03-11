@@ -1,0 +1,13 @@
+title: "Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification
+  for Visual Place Recognition"
+venue: RA-L
+year: 2025
+authors: []
+abstract: Two-stage visual place recognition using vision transformers with
+  place-aware pre-training.
+tags:
+  - place-recognition
+  - visual-localization
+  - vision-transformer
+repo: https://github.com/csiro-robotics/Pair-VPR
+date_added: 2026-03-11

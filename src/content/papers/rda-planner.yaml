@@ -1,0 +1,12 @@
+title: "RDA: An Accelerated Collision Free Motion Planner for Autonomous Navigation"
+venue: RA-L
+year: 2023
+authors: []
+abstract: An accelerated collision-free motion planner for autonomous robot
+  navigation in cluttered environments.
+tags:
+  - motion-planning
+  - navigation
+  - collision-avoidance
+repo: https://github.com/hanruihua/RDA-planner
+date_added: 2026-03-11

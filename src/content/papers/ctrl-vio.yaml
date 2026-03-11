@@ -1,0 +1,15 @@
+title: "Ctrl-VIO: Continuous-Time Visual-Inertial Odometry for Rolling Shutter
+  Cameras"
+venue: RA-L
+year: 2022
+authors: []
+abstract: A continuous-time VIO system with online calibration for rolling
+  shutter cameras.
+tags:
+  - visual-inertial
+  - rolling-shutter
+  - calibration
+  - odometry
+repo: https://github.com/APRIL-ZJU/Ctrl-VIO
+arxiv: https://arxiv.org/abs/2208.12008
+date_added: 2026-03-11

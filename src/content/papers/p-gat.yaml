@@ -1,0 +1,12 @@
+title: "P-GAT: Pose-Graph Attentional Network for LiDAR Place Recognition"
+venue: RA-L
+year: 2024
+authors: []
+abstract: A pose-graph attentional graph neural network for LiDAR-based place
+  recognition.
+tags:
+  - place-recognition
+  - LiDAR
+  - graph-neural-network
+repo: https://github.com/csiro-robotics/P-GAT
+date_added: 2026-03-11

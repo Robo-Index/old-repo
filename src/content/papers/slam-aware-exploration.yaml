@@ -1,0 +1,13 @@
+title: Graph-based SLAM-Aware Exploration with Prior Topo-Metric Information
+venue: RA-L
+year: 2024
+authors: []
+abstract: A SLAM-aware exploration method exploiting prior topo-metric
+  information for fast exploration.
+tags:
+  - SLAM
+  - exploration
+  - graph-based
+  - planning
+repo: https://github.com/bairuofei/Graph-Based_SLAM-Aware_Exploration
+date_added: 2026-03-11

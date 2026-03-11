@@ -1,0 +1,12 @@
+title: "FGTP: Fine-Grained Task Planning for Service Robot via Large Language Models"
+venue: RA-L
+year: 2024
+authors: []
+abstract: Fine-grained task planning for service robots based on object ontology
+  knowledge via LLMs.
+tags:
+  - task-planning
+  - LLM
+  - service-robot
+repo: https://github.com/Li-XD-Pro/FGTP
+date_added: 2026-03-11

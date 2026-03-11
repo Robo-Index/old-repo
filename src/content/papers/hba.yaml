@@ -1,0 +1,13 @@
+title: "HBA: A Globally Consistent LiDAR Map Optimization Module"
+venue: RA-L
+year: 2023
+authors: []
+abstract: A hierarchical bundle adjustment module for globally consistent LiDAR
+  map optimization.
+tags:
+  - LiDAR
+  - mapping
+  - bundle-adjustment
+  - SLAM
+repo: https://github.com/hku-mars/HBA
+date_added: 2026-03-11

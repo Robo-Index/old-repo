@@ -1,0 +1,13 @@
+title: "ERASOR: Egocentric Ratio of Pseudo Occupancy-Based Dynamic Object Removal"
+venue: RA-L
+year: 2021
+authors: []
+abstract: A method for building static 3D point cloud maps by removing dynamic
+  objects using pseudo occupancy-based analysis.
+tags:
+  - LiDAR
+  - dynamic-object-removal
+  - mapping
+  - SLAM
+repo: https://github.com/LimHyungTae/ERASOR
+date_added: 2026-03-11

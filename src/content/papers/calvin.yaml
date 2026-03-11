@@ -1,0 +1,16 @@
+title: "CALVIN: A Benchmark for Language-Conditioned Policy Learning for
+  Long-Horizon Robot Manipulation"
+venue: RA-L
+year: 2022
+authors: []
+abstract: An open-source simulated benchmark for learning long-horizon
+  language-conditioned robotic manipulation tasks.
+tags:
+  - language-conditioned
+  - manipulation
+  - benchmark
+  - imitation-learning
+repo: https://github.com/mees/calvin
+arxiv: https://arxiv.org/abs/2112.03227
+project_page: http://calvin.cs.uni-freiburg.de/
+date_added: 2026-03-11

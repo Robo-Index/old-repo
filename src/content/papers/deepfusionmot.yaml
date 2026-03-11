@@ -1,0 +1,14 @@
+title: "DeepFusionMOT: A 3D Multi-Object Tracking Framework Based on
+  Camera-LiDAR Fusion"
+venue: RA-L
+year: 2022
+authors: []
+abstract: A 3D multi-object tracking framework based on camera-LiDAR fusion with
+  deep association.
+tags:
+  - multi-object-tracking
+  - sensor-fusion
+  - perception
+  - autonomous-driving
+repo: https://github.com/wangxiyang2022/DeepFusionMOT
+date_added: 2026-03-11

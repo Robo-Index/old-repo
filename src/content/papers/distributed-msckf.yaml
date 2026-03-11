@@ -1,0 +1,12 @@
+title: Multi-Robot Object SLAM using Distributed Variational Inference
+venue: RA-L
+year: 2024
+authors: []
+abstract: Distributed variational inference approach for multi-robot object-level SLAM.
+tags:
+  - multi-robot
+  - SLAM
+  - distributed-systems
+repo: https://github.com/ExistentialRobotics/distributed_msckf
+arxiv: https://arxiv.org/abs/2404.18331
+date_added: 2026-03-11

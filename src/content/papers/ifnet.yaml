@@ -1,0 +1,11 @@
+title: "IFNet: Iterative Feedback Network for Unsupervised Point Cloud Registration"
+venue: RA-L
+year: 2024
+authors: []
+abstract: An iterative feedback network for unsupervised point cloud registration.
+tags:
+  - point-cloud
+  - registration
+  - unsupervised-learning
+repo: https://github.com/IvanXie416/IFNet
+date_added: 2026-03-11

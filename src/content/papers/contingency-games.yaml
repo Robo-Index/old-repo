@@ -1,0 +1,14 @@
+title: Contingency Games for Multi-Agent Interaction
+venue: RA-L
+year: 2024
+authors: []
+abstract: Game-theoretic contingency planning for multi-agent scenarios where a
+  robot's actions impact other agents' decisions.
+tags:
+  - multi-agent
+  - planning
+  - game-theory
+repo: https://github.com/lassepe/peters2024ral-code
+arxiv: https://arxiv.org/abs/2304.05483
+project_page: https://lasse-peters.net/pub/contingency-games/
+date_added: 2026-03-11

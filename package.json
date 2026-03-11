@@ -1,0 +1,29 @@
+{
+  "name": "roboindex",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "prebuild": "tsx scripts/build-data.ts",
+    "build": "next build",
+    "start": "next start",
+    "fetch-papers": "tsx scripts/fetch-papers.ts"
+  },
+  "dependencies": {
+    "@octokit/rest": "^21.1.1",
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "yaml": "^2.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^3.4.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.4.0"
+  }
+}

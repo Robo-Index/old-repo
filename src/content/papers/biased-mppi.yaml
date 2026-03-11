@@ -1,0 +1,12 @@
+title: "Biased-MPPI: Informing Sampling-Based MPC by Fusing Ancillary Controllers"
+venue: RA-L
+year: 2024
+authors: []
+abstract: Model predictive path integral control fusing ancillary controllers
+  for improved sampling-based MPC.
+tags:
+  - motion-planning
+  - MPC
+  - control
+repo: https://github.com/tud-amr/biased-mppi
+date_added: 2026-03-11

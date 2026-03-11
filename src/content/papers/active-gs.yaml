@@ -1,0 +1,12 @@
+title: "ActiveGS: Active Scene Reconstruction Using Gaussian Splatting"
+venue: RA-L
+year: 2025
+authors: []
+abstract: Active scene reconstruction using 3D Gaussian Splatting for robotic
+  exploration.
+tags:
+  - 3D-reconstruction
+  - gaussian-splatting
+  - active-perception
+repo: https://github.com/dmar-bonn/active-gs
+date_added: 2026-03-11

@@ -1,0 +1,13 @@
+title: "Swarm-SLAM: Sparse Decentralized Collaborative SLAM for Multi-Robot Systems"
+venue: RA-L
+year: 2024
+authors: []
+abstract: A scalable decentralized collaborative SLAM framework for multi-robot swarms.
+tags:
+  - SLAM
+  - multi-robot
+  - collaborative
+  - decentralized
+repo: https://github.com/MISTLab/Swarm-SLAM
+arxiv: https://arxiv.org/abs/2301.06230
+date_added: 2026-03-11

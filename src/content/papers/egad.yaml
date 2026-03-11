@@ -1,0 +1,12 @@
+title: EGAD! An Evolved Grasping Analysis Dataset
+venue: RA-L
+year: 2020
+authors: []
+abstract: An evolved grasping analysis dataset for diversity and reproducibility
+  in robotic manipulation benchmarking.
+tags:
+  - grasping
+  - manipulation
+  - dataset
+repo: https://github.com/dougsm/egad
+date_added: 2026-03-11

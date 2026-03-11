@@ -1,0 +1,16 @@
+title: "DovSG: Dynamic Open-Vocabulary 3D Scene Graphs for Long-term
+  Language-Guided Mobile Manipulation"
+venue: RA-L
+year: 2025
+authors: []
+abstract: Constructs dynamic 3D scene graphs with LLM-based task decomposition
+  for long-term language-guided manipulation.
+tags:
+  - manipulation
+  - scene-graph
+  - open-vocabulary
+  - LLM
+repo: https://github.com/BJHYZJ/DovSG
+arxiv: https://arxiv.org/abs/2410.11989
+project_page: https://bjhyzj.github.io/dovsg-web/
+date_added: 2026-03-11

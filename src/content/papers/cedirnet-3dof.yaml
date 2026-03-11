@@ -1,0 +1,12 @@
+title: "CeDiRNet-3DoF: Center Direction Network for Grasping Point Localization
+  on Cloths"
+venue: RA-L
+year: 2024
+authors: []
+abstract: Grasping point localization on cloths, winner of the ICRA Cloth Competition.
+tags:
+  - grasping
+  - deformable-objects
+  - cloth-manipulation
+repo: https://github.com/vicoslab/CeDiRNet-3DoF
+date_added: 2026-03-11

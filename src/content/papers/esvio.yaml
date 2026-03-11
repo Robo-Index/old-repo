@@ -1,0 +1,14 @@
+title: "ESVIO: Event-based Stereo Visual Inertial Odometry"
+venue: RA-L
+year: 2023
+authors: []
+abstract: The first event-based stereo visual-inertial odometry leveraging event
+  streams, standard images, and IMU.
+tags:
+  - event-camera
+  - visual-inertial
+  - stereo-vision
+  - odometry
+repo: https://github.com/arclab-hku/ESVIO
+arxiv: https://arxiv.org/abs/2212.13184
+date_added: 2026-03-11

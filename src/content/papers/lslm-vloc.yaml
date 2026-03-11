@@ -1,0 +1,12 @@
+title: "LSLM_VLoc: Lightweight Structured Line Map Based Visual Localization"
+venue: RA-L
+year: 2024
+authors: []
+abstract: Achieves competitive localization accuracy while significantly
+  reducing the memory footprint of 3D maps.
+tags:
+  - visual-localization
+  - mapping
+  - line-features
+repo: https://github.com/3dv-casia/LSLM_VLoc
+date_added: 2026-03-11

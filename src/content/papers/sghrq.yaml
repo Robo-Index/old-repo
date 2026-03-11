@@ -1,0 +1,13 @@
+title: "SGHRQ: Memory-Constrained Semantic Segmentation for Ultra-High
+  Resolution UAV Imagery"
+venue: RA-L
+year: 2024
+authors: []
+abstract: Efficient semantic segmentation of ultra-high resolution UAV imagery
+  under GPU memory constraints.
+tags:
+  - UAV
+  - semantic-segmentation
+  - perception
+repo: https://github.com/liqiokkk/SGHRQ
+date_added: 2026-03-11

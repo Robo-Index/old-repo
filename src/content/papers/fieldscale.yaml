@@ -1,0 +1,13 @@
+title: "Fieldscale: Locality-Aware Field-based Adaptive Rescaling for Thermal
+  Infrared Image"
+venue: RA-L
+year: 2024
+authors: []
+abstract: Adaptive rescaling of thermal infrared images improving downstream
+  tasks like detection and place recognition.
+tags:
+  - thermal-imaging
+  - image-processing
+  - perception
+repo: https://github.com/HyeonJaeGil/fieldscale
+date_added: 2026-03-11

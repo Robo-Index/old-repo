@@ -1,0 +1,14 @@
+title: "GenZ-ICP: Generalizable and Degeneracy-Robust LiDAR Odometry"
+venue: RA-L
+year: 2025
+authors: []
+abstract: A novel ICP method that adaptively integrates point-to-plane and
+  point-to-point error metrics for robust LiDAR odometry.
+tags:
+  - LiDAR
+  - odometry
+  - ICP
+  - point-cloud
+repo: https://github.com/cocel-postech/genz-icp
+arxiv: https://arxiv.org/abs/2411.06766
+date_added: 2026-03-11

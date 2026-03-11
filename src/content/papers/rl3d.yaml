@@ -1,0 +1,12 @@
+title: "RL3D: Visual Reinforcement Learning with Self-Supervised 3D Representations"
+venue: RA-L
+year: 2023
+authors: []
+abstract: A framework for visual reinforcement learning using pretrained 3D
+  visual representations for robust sim-to-real transfer.
+tags:
+  - reinforcement-learning
+  - 3D-representation
+  - sim-to-real
+repo: https://github.com/YanjieZe/rl3d
+date_added: 2026-03-11

@@ -1,0 +1,14 @@
+title: "Delta Descriptors: Change-Based Place Representation for Robust Visual
+  Localization"
+venue: RA-L
+year: 2020
+authors: []
+abstract: A change-based spatio-temporal descriptor for visual place recognition
+  mitigating appearance-induced offsets.
+tags:
+  - place-recognition
+  - visual-localization
+  - perception
+repo: https://github.com/oravus/DeltaDescriptors
+arxiv: https://arxiv.org/abs/2006.05700
+date_added: 2026-03-11

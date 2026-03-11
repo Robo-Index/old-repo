@@ -1,0 +1,13 @@
+title: "OpenGraph: Open-Vocabulary Hierarchical 3D Scene Graphs for Large-Scale
+  Outdoor Environments"
+venue: RA-L
+year: 2024
+authors: []
+abstract: First open-vocabulary hierarchical graph representation for
+  large-scale outdoor environments using VLMs.
+tags:
+  - scene-understanding
+  - 3D-scene-graphs
+  - open-vocabulary
+repo: https://github.com/BIT-DYN/OpenGraph
+date_added: 2026-03-11

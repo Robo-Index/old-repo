@@ -1,0 +1,13 @@
+title: "SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping With Sweep Reconstruction"
+venue: RA-L
+year: 2024
+authors: []
+abstract: A LiDAR-inertial-visual odometry and mapping system based on sweep
+  reconstruction method.
+tags:
+  - odometry
+  - LiDAR
+  - visual-inertial
+  - mapping
+repo: https://github.com/ZikangYuan/sr_livo
+date_added: 2026-03-11

@@ -4,5 +4,8 @@
 node_modules/
 dist/
 .astro/
+.next/
+out/
+public/api/
 __pycache__/
 .claude/

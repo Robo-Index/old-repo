@@ -1,0 +1,13 @@
+title: Learning Humanoid Walking with Reinforcement Learning
+venue: RA-L
+year: 2022
+authors: []
+abstract: Reinforcement learning framework for training humanoid robot
+  locomotion policies with sim-to-real transfer.
+tags:
+  - humanoid
+  - locomotion
+  - reinforcement-learning
+  - bipedal
+repo: https://github.com/rohanpsingh/LearningHumanoidWalking
+date_added: 2026-03-11

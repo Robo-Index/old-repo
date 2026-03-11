@@ -1,0 +1,13 @@
+title: "SeqNet: Learning Descriptors for Sequence-Based Hierarchical Place
+  Recognition"
+venue: RA-L
+year: 2021
+authors: []
+abstract: Learns sequence descriptors for hierarchical visual place recognition
+  combining single-image and sequence-level matching.
+tags:
+  - place-recognition
+  - visual-localization
+  - perception
+repo: https://github.com/oravus/seqNet
+date_added: 2026-03-11

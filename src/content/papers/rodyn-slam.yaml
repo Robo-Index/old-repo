@@ -1,0 +1,12 @@
+title: "RoDyn-SLAM: Robust Dynamic Dense RGB-D SLAM with Neural Radiance Fields"
+venue: RA-L
+year: 2024
+authors: []
+abstract: Dense RGB-D SLAM robust to dynamic objects using neural radiance fields.
+tags:
+  - SLAM
+  - NeRF
+  - dynamic-environments
+repo: https://github.com/fudan-zvg/Rodyn-SLAM
+arxiv: https://arxiv.org/abs/2407.01303
+date_added: 2026-03-11

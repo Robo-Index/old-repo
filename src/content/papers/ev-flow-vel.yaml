@@ -1,0 +1,13 @@
+title: Event-Based Optical Flow for Planar Velocity Estimation of Fast-Moving
+  Mobile Robots
+venue: RA-L
+year: 2025
+authors: []
+abstract: Planar velocity estimation for fast-moving mobile robots using
+  event-based optical flow.
+tags:
+  - event-camera
+  - optical-flow
+  - mobile-robots
+repo: https://github.com/ETH-PBL/ev-flow-vel
+date_added: 2026-03-11

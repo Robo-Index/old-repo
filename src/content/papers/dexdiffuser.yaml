@@ -1,0 +1,12 @@
+title: "DexDiffuser: Generating Dexterous Grasps with Diffusion Models"
+venue: RA-L
+year: 2024
+authors: []
+abstract: Diffusion-based approach for generating dexterous grasp poses for
+  robotic hands.
+tags:
+  - dexterous-grasping
+  - diffusion-model
+  - manipulation
+repo: https://github.com/YuLiHN/DexDiffuser
+date_added: 2026-03-11

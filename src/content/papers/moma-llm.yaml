@@ -1,0 +1,15 @@
+title: "MoMa-LLM: Language-Grounded Dynamic Scene Graphs for Interactive Object
+  Search"
+venue: RA-L
+year: 2024
+authors: []
+abstract: Grounds language models within open-vocabulary scene graphs for
+  zero-shot mobile manipulation.
+tags:
+  - manipulation
+  - LLM
+  - scene-graph
+  - mobile-robot
+repo: https://github.com/robot-learning-freiburg/MoMa-LLM
+arxiv: https://arxiv.org/abs/2403.08605
+date_added: 2026-03-11

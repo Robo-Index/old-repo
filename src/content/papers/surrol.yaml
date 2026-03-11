@@ -1,0 +1,12 @@
+title: "SurRoL: An Open-source RL Platform for Surgical Robot Learning"
+venue: RA-L
+year: 2023
+authors: []
+abstract: An open-source RL platform with human-in-the-loop embodied
+  intelligence for surgical robot learning.
+tags:
+  - surgical-robotics
+  - reinforcement-learning
+  - simulation
+repo: https://github.com/med-air/SurRoL
+date_added: 2026-03-11

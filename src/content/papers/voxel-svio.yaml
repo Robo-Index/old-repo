@@ -1,0 +1,11 @@
+title: "Voxel-SVIO: Stereo Visual-Inertial Odometry Based on Voxel Map"
+venue: RA-L
+year: 2025
+authors: []
+abstract: Stereo visual-inertial odometry system based on voxel map representation.
+tags:
+  - odometry
+  - visual-inertial
+  - stereo-vision
+repo: https://github.com/ZikangYuan/voxel_svio
+date_added: 2026-03-11

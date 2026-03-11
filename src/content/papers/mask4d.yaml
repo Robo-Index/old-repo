@@ -1,0 +1,12 @@
+title: "Mask4D: End-to-End Mask-Based 4D Panoptic Segmentation for LiDAR Sequences"
+venue: RA-L
+year: 2023
+authors: []
+abstract: A method for 4D panoptic segmentation of LiDAR sequences using masks
+  and tracking instances over time.
+tags:
+  - LiDAR
+  - 4D-segmentation
+  - panoptic-segmentation
+repo: https://github.com/PRBonn/Mask4D
+date_added: 2026-03-11

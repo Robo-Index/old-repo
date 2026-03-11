@@ -1,0 +1,12 @@
+title: "AnyLoc: Towards Universal Visual Place Recognition"
+venue: RA-L
+year: 2023
+authors: []
+abstract: A universal visual place recognition approach using foundation model
+  features for robust place recognition.
+tags:
+  - place-recognition
+  - visual-localization
+  - foundation-models
+repo: https://github.com/AnyLoc/AnyLoc
+date_added: 2026-03-11

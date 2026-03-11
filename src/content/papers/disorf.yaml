@@ -1,0 +1,12 @@
+title: "DISORF: Distributed Online 3D Reconstruction via NeRF/3DGS"
+venue: RA-L
+year: 2025
+authors: []
+abstract: Framework for online 3D reconstruction leveraging on-device SLAM and
+  server-side Gaussian Splatting.
+tags:
+  - 3D-reconstruction
+  - gaussian-splatting
+  - distributed-systems
+repo: https://github.com/Xiaorui-Huang/DISORF
+date_added: 2026-03-11

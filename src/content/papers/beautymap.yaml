@@ -1,0 +1,14 @@
+title: "BeautyMap: Binary-Encoded Adaptable Ground Matrix for Dynamic Points Removal"
+venue: RA-L
+year: 2024
+authors: []
+abstract: Efficiently removes dynamic points from global SLAM maps while
+  retaining static features.
+tags:
+  - SLAM
+  - map-maintenance
+  - dynamic-removal
+  - LiDAR
+repo: https://github.com/MKJia/BeautyMap
+arxiv: https://arxiv.org/abs/2405.07283
+date_added: 2026-03-11

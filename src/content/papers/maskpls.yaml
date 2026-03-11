@@ -1,0 +1,12 @@
+title: "MaskPLS: Mask-Based Panoptic LiDAR Segmentation for Autonomous Driving"
+venue: RA-L
+year: 2023
+authors: []
+abstract: End-to-end mask-based panoptic LiDAR segmentation without
+  post-processing for autonomous driving.
+tags:
+  - LiDAR
+  - panoptic-segmentation
+  - autonomous-driving
+repo: https://github.com/PRBonn/MaskPLS
+date_added: 2026-03-11

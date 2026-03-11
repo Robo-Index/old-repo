@@ -1,0 +1,13 @@
+title: "ProDMP: A Unified Perspective on Dynamic and Probabilistic Movement
+  Primitives"
+venue: RA-L
+year: 2023
+authors: []
+abstract: A unified framework combining dynamic movement primitives and
+  probabilistic movement primitives for robot imitation learning.
+tags:
+  - imitation-learning
+  - movement-primitives
+  - robot-learning
+repo: https://github.com/ALRhub/ProDMP_RAL
+date_added: 2026-03-11

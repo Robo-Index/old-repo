@@ -1,0 +1,13 @@
+title: "DGFNet: Multi-Agent Trajectory Prediction with Difficulty-Guided Feature
+  Enhancement"
+venue: RA-L
+year: 2025
+authors: []
+abstract: Multi-agent trajectory prediction accounting for differences in
+  prediction difficulty among agents.
+tags:
+  - trajectory-prediction
+  - multi-agent
+  - autonomous-driving
+repo: https://github.com/XinGP/DGFNet
+date_added: 2026-03-11

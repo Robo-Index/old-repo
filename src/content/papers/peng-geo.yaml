@@ -1,0 +1,11 @@
+title: "PEnG: Pose-Enhanced Geo-Localisation"
+venue: RA-L
+year: 2025
+authors: []
+abstract: Pose-enhanced approach for geo-localisation tasks.
+tags:
+  - geo-localization
+  - pose-estimation
+  - localization
+repo: https://github.com/tavisshore/PEnG
+date_added: 2026-03-11

@@ -1,0 +1,13 @@
+title: "TACTO: A Fast, Flexible, and Open-source Simulator for Vision-based
+  Tactile Sensors"
+venue: RA-L
+year: 2022
+authors: []
+abstract: An open-source simulator for high-resolution vision-based tactile
+  sensors supporting DIGIT and OmniTact.
+tags:
+  - tactile-sensing
+  - simulation
+  - sensor
+repo: https://github.com/facebookresearch/tacto
+date_added: 2026-03-11

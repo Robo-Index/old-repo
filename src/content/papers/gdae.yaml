@@ -1,0 +1,12 @@
+title: Goal-Driven Autonomous Exploration Through Deep Reinforcement Learning
+venue: RA-L
+year: 2022
+authors: []
+abstract: A goal-driven autonomous exploration system combining reactive and
+  planned robot navigation using deep RL.
+tags:
+  - exploration
+  - reinforcement-learning
+  - navigation
+repo: https://github.com/reiniscimurs/GDAE
+date_added: 2026-03-11

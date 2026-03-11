@@ -1,0 +1,14 @@
+title: Distributional RL Based Integrated Decision Making and Control for
+  Autonomous Surface Vehicles
+venue: RA-L
+year: 2025
+authors: []
+abstract: Actor-critic distributional RL for integrated decision making and
+  control in multi-vehicle navigation.
+tags:
+  - autonomous-vehicles
+  - reinforcement-learning
+  - navigation
+  - marine-robotics
+repo: https://github.com/RobustFieldAutonomyLab/Distributional_RL_Decision_and_Control
+date_added: 2026-03-11

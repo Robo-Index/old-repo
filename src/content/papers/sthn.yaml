@@ -1,0 +1,14 @@
+title: "STHN: Deep Homography Estimation for UAV Thermal Geo-localization with
+  Satellite Imagery"
+venue: RA-L
+year: 2024
+authors: []
+abstract: Deep homography estimation method for thermal geo-localization of UAVs
+  using satellite imagery.
+tags:
+  - UAV
+  - geo-localization
+  - deep-learning
+  - aerial
+repo: https://github.com/arplaboratory/STHN
+date_added: 2026-03-11

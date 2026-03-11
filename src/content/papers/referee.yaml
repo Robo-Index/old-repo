@@ -1,0 +1,12 @@
+title: "ReFeree: Radar-Based Lightweight and Robust Place Recognition"
+venue: RA-L
+year: 2024
+authors: []
+abstract: A lightweight and robust radar-based global descriptor for place
+  recognition with rotational invariance.
+tags:
+  - place-recognition
+  - radar
+  - localization
+repo: https://github.com/sparolab/ReFeree
+date_added: 2026-03-11

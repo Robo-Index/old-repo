@@ -1,0 +1,12 @@
+title: "DHPVS: Dual-Hemispherical Photometric Visual Servoing"
+venue: RA-L
+year: 2024
+authors: []
+abstract: Extension of photometric visual servoing to 360-degree optical rigs
+  with two wide-angle lenses.
+tags:
+  - visual-servoing
+  - photometric
+  - control
+repo: https://github.com/NathanCrombez/DHPVS
+date_added: 2026-03-11

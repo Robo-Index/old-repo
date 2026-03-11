@@ -1,0 +1,11 @@
+title: "FoAR: Force-Aware Reactive Policy for Contact-Rich Robotic Manipulation"
+venue: RA-L
+year: 2025
+authors: []
+abstract: Force-aware reactive policy for contact-rich robotic manipulation tasks.
+tags:
+  - manipulation
+  - force-control
+  - policy-learning
+repo: https://github.com/Alan-Heoooh/FoAR
+date_added: 2026-03-11

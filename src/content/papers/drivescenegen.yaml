@@ -1,0 +1,15 @@
+title: "DriveSceneGen: Generating Diverse and Realistic Driving Scenarios from
+  Scratch"
+venue: RA-L
+year: 2024
+authors: []
+abstract: The first method generating novel driving scenarios involving static
+  map elements and dynamic traffic participants.
+tags:
+  - autonomous-driving
+  - scenario-generation
+  - simulation
+repo: https://github.com/SS47816/DriveSceneGen
+arxiv: https://arxiv.org/abs/2309.14685
+project_page: https://ss47816.github.io/DriveSceneGen/
+date_added: 2026-03-11

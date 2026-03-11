@@ -1,0 +1,13 @@
+title: "TrackDLO: Tracking Deformable Linear Objects Under Occlusion with Motion
+  Coherence"
+venue: RA-L
+year: 2023
+authors: []
+abstract: Real-time algorithm for tracking deformable linear objects under
+  occlusion without physics simulation.
+tags:
+  - deformable-objects
+  - tracking
+  - manipulation
+repo: https://github.com/RMDLO/trackdlo
+date_added: 2026-03-11

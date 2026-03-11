@@ -1,0 +1,13 @@
+title: "UPRIGHT: Model Predictive Control for Fast Nonprehensile Object
+  Transportation"
+venue: RA-L
+year: 2023
+authors: []
+abstract: Model predictive control and trajectory optimization for fast
+  nonprehensile object transportation.
+tags:
+  - MPC
+  - manipulation
+  - mobile-robot
+repo: https://github.com/utiasDSL/upright
+date_added: 2026-03-11

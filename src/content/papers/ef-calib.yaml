@@ -1,0 +1,12 @@
+title: "EF-Calib: Spatiotemporal Calibration of Event- and Frame-Based Cameras"
+venue: RA-L
+year: 2024
+authors: []
+abstract: Spatiotemporal calibration of event and frame-based cameras using
+  continuous-time trajectories.
+tags:
+  - calibration
+  - event-camera
+  - perception
+repo: https://github.com/wsakobe/EF-Calib
+date_added: 2026-03-11

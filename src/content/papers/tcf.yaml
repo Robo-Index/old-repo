@@ -1,0 +1,13 @@
+title: "RANSAC Back to SOTA: A Two-Stage Consensus Filtering for Real-Time 3D
+  Registration"
+venue: RA-L
+year: 2024
+authors: []
+abstract: Elevates RANSAC to state-of-the-art speed and accuracy for real-time
+  3D point cloud registration.
+tags:
+  - point-cloud
+  - registration
+  - 3D-vision
+repo: https://github.com/ShiPC-AI/TCF
+date_added: 2026-03-11

@@ -1,0 +1,14 @@
+title: Interactive Incremental Learning of Generalizable Skills with Local
+  Trajectory Modulation
+venue: RA-L
+year: 2025
+authors: []
+abstract: An interactive imitation learning framework leveraging local and
+  global modulations of trajectory distributions.
+tags:
+  - imitation-learning
+  - human-robot-interaction
+  - trajectory-learning
+repo: https://github.com/DLR-RM/interactive-incremental-learning
+arxiv: https://arxiv.org/abs/2409.05655
+date_added: 2026-03-11

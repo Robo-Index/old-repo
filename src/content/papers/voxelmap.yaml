@@ -1,0 +1,12 @@
+title: "VoxelMap: An Efficient and Probabilistic Adaptive Voxel Mapping Method"
+venue: RA-L
+year: 2022
+authors: []
+abstract: An efficient and probabilistic adaptive voxel mapping method for LiDAR
+  odometry.
+tags:
+  - LiDAR
+  - mapping
+  - odometry
+repo: https://github.com/hku-mars/VoxelMap
+date_added: 2026-03-11
