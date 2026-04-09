@@ -194,7 +194,7 @@ export default function GuidesPage() {
       </header>
 
       {/* Layout */}
-      <div className="flex gap-14">
+      <div className="lg:flex lg:gap-14">
         <GuideTOC nodes={tocNodes} />
 
         <article className="flex-1 min-w-0">
