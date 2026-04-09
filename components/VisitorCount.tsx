@@ -14,7 +14,9 @@ export default function VisitorCount() {
         return r.json()
       })
       .then((data: { count?: string }) => {
-        if (data.count) setCount(data.count)
+        if (data.count && parseInt(data.count.replace(/,/g, '')) > 0) {
+          setCount(data.count)
+        }
       })
       .catch(() => {})
   }, [])
