@@ -1,4 +1,6 @@
 .DS_Store
+.env.local
+.env*.local
 *.log
 .vscode/
 node_modules/
@@ -9,3 +11,4 @@ out/
 public/api/
 __pycache__/
 .claude/
+/review.md
