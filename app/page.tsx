@@ -1,5 +1,7 @@
 import Link from 'next/link'
 import { getAllPapers } from '@/src/lib/papers'
+import WorldMapBackground from '@/components/WorldMapBackground'
+import VisitorCount from '@/components/VisitorCount'
 
 const venues = [
   { name: 'RA-L', live: true, color: 'bg-accent-500', text: 'text-white', border: '' },
@@ -15,8 +17,11 @@ export default function Home() {
   const withRepo = papers.filter(p => p.repo).length
 
   return (
-    <main className="min-h-[calc(100vh-4rem)] flex flex-col items-center justify-center px-6">
-      <div className="max-w-2xl w-full text-center space-y-10">
+    <main className="relative overflow-hidden min-h-[calc(100vh-4rem)] flex flex-col items-center justify-center px-6">
+      {/* Decorative world map background */}
+      <WorldMapBackground />
+
+      <div className="relative z-10 max-w-2xl w-full text-center space-y-10">
         <div className="space-y-4">
           <h1 className="text-5xl font-bold tracking-tight text-text-primary">
             RoboIndex
@@ -44,10 +49,11 @@ export default function Home() {
         </div>
 
         <div className="space-y-2">
-          <div className="flex justify-center gap-8 text-sm text-text-muted">
+          <div className="flex justify-center items-center flex-wrap gap-x-3 gap-y-1 text-sm text-text-muted">
             <span>{papers.length} papers</span>
             <span className="text-border">|</span>
             <span>{withRepo} open-source repos</span>
+            <VisitorCount />
           </div>
           <p className="text-xs text-text-muted tracking-wide">1 skill for all</p>
         </div>

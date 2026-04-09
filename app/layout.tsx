@@ -26,6 +26,14 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
+        {process.env.NEXT_PUBLIC_GOATCOUNTER_ID && (
+          // eslint-disable-next-line @next/next/no-before-interactive-script-component
+          <script
+            data-goatcounter={`https://${process.env.NEXT_PUBLIC_GOATCOUNTER_ID}.goatcounter.com/count`}
+            async={true}
+            src="//gc.zgo.at/count.js"
+          />
+        )}
       </head>
       <body className="font-sans">
         <Header />

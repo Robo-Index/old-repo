@@ -57,3 +57,47 @@ body {
   0% { background-position: 0% 50%; }
   100% { background-position: 100% 50%; }
 }
+
+/* ── World map background animations ── */
+.world-map-svg {
+  opacity: 0.06;
+  animation: mapPulse 8s ease-in-out infinite;
+}
+
+@keyframes mapPulse {
+  0%, 100% { opacity: 0.06; }
+  50%       { opacity: 0.10; }
+}
+
+.dark .world-map-svg {
+  animation: mapPulseDark 8s ease-in-out infinite;
+}
+
+@keyframes mapPulseDark {
+  0%, 100% { opacity: 0.10; }
+  50%       { opacity: 0.16; }
+}
+
+/* City node pulse rings */
+.node-pulse {
+  transform-origin: center;
+  transform-box: fill-box;
+  animation: nodePulse 2.8s ease-out infinite;
+}
+
+@keyframes nodePulse {
+  0%   { transform: scale(1); opacity: 0.9; }
+  100% { transform: scale(4); opacity: 0;   }
+}
+
+/* Hide city nodes on mobile */
+@media (max-width: 639px) {
+  .city-nodes { display: none; }
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .world-map-svg { animation: none; opacity: 0.07; }
+  .dark .world-map-svg { opacity: 0.12; }
+  .node-pulse { animation: none; opacity: 0; }
+}
