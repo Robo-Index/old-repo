@@ -37,3 +37,29 @@ body {
 ::selection {
   background: rgba(217, 119, 87, 0.3);
 }
+
+/* Venue gradient button with diagonal stripe transitions */
+.venue-gradient-btn {
+  background: linear-gradient(
+    135deg,
+    #d97757 0%,
+    #d97757 14%,
+    #3b82f6 20%,
+    #3b82f6 30%,
+    #10b981 36%,
+    #10b981 47%,
+    #8b5cf6 53%,
+    #8b5cf6 62%,
+    #f43f5e 68%,
+    #f43f5e 78%,
+    #f59e0b 84%,
+    #f59e0b 100%
+  );
+  background-size: 200% 100%;
+  animation: venue-gradient-shift 6s ease-in-out infinite alternate;
+}
+
+@keyframes venue-gradient-shift {
+  0% { background-position: 0% 50%; }
+  100% { background-position: 100% 50%; }
+}

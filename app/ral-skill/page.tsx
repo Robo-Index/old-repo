@@ -137,33 +137,53 @@ export default function RalSkillPage() {
         </div>
       </div>
 
-      {/* Demo */}
+      {/* Demo — CLI Conversation Style */}
       <div className="mb-16">
         <h2 className="text-lg font-semibold text-text-primary mb-6">实际效果</h2>
-        <div className="space-y-4">
-          {demos.map((d, i) => (
-            <div key={i} className="bg-surface-1 rounded-2xl border border-border-light overflow-hidden">
-              <div className="bg-surface-2/50 px-5 py-3 border-b border-border-light">
-                <div className="flex items-center gap-2">
-                  <span className="w-5 h-5 rounded bg-text-muted text-surface-0 text-[10px] font-bold flex items-center justify-center">U</span>
-                  <span className="text-sm text-text-primary">{d.question}</span>
+        <div className="bg-surface-2 rounded-2xl border border-border-light overflow-hidden font-mono text-sm">
+          {/* Terminal title bar */}
+          <div className="flex items-center gap-2 px-4 py-2.5 border-b border-border-light">
+            <span className="w-3 h-3 rounded-full bg-rose-400"></span>
+            <span className="w-3 h-3 rounded-full bg-amber-400"></span>
+            <span className="w-3 h-3 rounded-full bg-emerald-400"></span>
+            <span className="ml-3 text-xs text-text-muted font-sans">Claude Code</span>
+          </div>
+
+          <div className="p-5 space-y-6">
+            {/* Initial prompt */}
+            <div className="text-text-muted">
+              <span className="select-none">$ </span>claude
+            </div>
+            <div className="text-text-muted text-xs">
+              <div>╭───────────────────────────────────╮</div>
+              <div>│{'  '}Claude Code{'                        '}│</div>
+              <div>╰───────────────────────────────────╯</div>
+            </div>
+
+            {/* Conversations */}
+            {demos.map((d, i) => (
+              <div key={i} className="space-y-2">
+                {/* User prompt */}
+                <div className="text-text-muted">
+                  <span className="select-none">&gt; </span>
+                  <span className="text-text-primary">/ral-skill {d.question}</span>
                 </div>
-              </div>
-              <div className="px-5 py-4">
-                <div className="flex items-start gap-2">
-                  <span className="w-5 h-5 rounded bg-accent-500 text-white text-[10px] font-bold flex items-center justify-center shrink-0">R</span>
-                  <div>
-                    <p className="text-sm text-text-primary leading-relaxed">{d.answer}</p>
-                    <div className="mt-2 flex items-center gap-2 flex-wrap">
-                      {d.sources.map(s => (
-                        <span key={s} className="text-[10px] px-2 py-0.5 rounded-full bg-surface-2 text-text-muted">{s}</span>
-                      ))}
-                    </div>
+                {/* Skill response */}
+                <div className="pl-2 border-l-2 border-accent-500/30 ml-1">
+                  <div className="text-text-primary leading-relaxed">
+                    <span className="text-accent-500">ral.skill</span>
+                    <span className="text-text-muted"> ❯ </span>
+                    {d.answer}
+                  </div>
+                  <div className="mt-1.5 flex items-center gap-2 flex-wrap">
+                    {d.sources.map(s => (
+                      <span key={s} className="text-[10px] px-2 py-0.5 rounded-full bg-surface-1 text-text-muted font-sans">{s}</span>
+                    ))}
                   </div>
                 </div>
               </div>
-            </div>
-          ))}
+            ))}
+          </div>
         </div>
       </div>
 
