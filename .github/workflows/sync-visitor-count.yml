@@ -1,0 +1,28 @@
+name: Sync visitor count
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # every hour
+  workflow_dispatch:        # manual trigger
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch GoatCounter count
+        run: |
+          curl -sf "https://roboindex.goatcounter.com/counter/TOTAL.json" \
+            -o public/visitor-count.json \
+            || echo '{"count":"0","count_unique":"0"}' > public/visitor-count.json
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/visitor-count.json
+          git diff --cached --quiet || git commit -m "chore: sync visitor count [skip ci]"
+          git push
