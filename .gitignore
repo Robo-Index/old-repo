@@ -1,4 +1,5 @@
 .DS_Store
+.worktrees/
 .env.local
 .env*.local
 *.log
