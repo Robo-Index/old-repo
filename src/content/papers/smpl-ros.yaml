@@ -1,0 +1,9 @@
+title: 🌟 smpl_ros
+venue: RA-L
+year: 2026
+authors: []
+abstract: Simple C++ example of how to fit SMPL model on point clouds using
+  torchure_smplx library
+tags: []
+repo: https://github.com/idra-lab/smpl_ros
+date_added: 2026-04-09

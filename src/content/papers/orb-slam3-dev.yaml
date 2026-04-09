@@ -1,0 +1,10 @@
+title: ORB-SLAM3-Dev
+venue: RA-L
+year: 2025
+authors: []
+abstract: A modified version of ORB_SLAM3_Dev to add APIs to support more
+  datasets and online running.
+tags: []
+repo: https://github.com/yangliu9527/ORB_SLAM3_Dev
+arxiv: https://arxiv.org/abs/2007.11898
+date_added: 2026-04-09

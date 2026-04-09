@@ -1,0 +1,11 @@
+title: vlm_gist
+venue: RA-L
+year: 2025
+authors: []
+abstract: 'Official implementation of: "Leveraging Vision-Language Models for
+  Open-Vocabulary Instance Segmentation and Tracking" by Pätzold, Nogga &
+  Behnke.'
+tags: []
+repo: https://github.com/AIS-Bonn/vlm_gist
+arxiv: https://arxiv.org/abs/2503.16538
+date_added: 2026-04-09

@@ -1,0 +1,13 @@
+title: kr_autonomous_flight
+venue: RA-L
+year: 2022
+authors: []
+abstract: KR (KumarRobotics) autonomous flight system for GPS-denied quadrotors
+tags:
+  - autonomous-flight
+  - autonomous-navigation
+  - autonomous-quadcoptor
+  - autonomous-uav
+  - uav
+repo: https://github.com/KumarRobotics/kr_autonomous_flight
+date_added: 2026-04-09

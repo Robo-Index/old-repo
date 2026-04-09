@@ -1,0 +1,14 @@
+title: Learning Topology from Synthetic Data for Unsupervised Depth Completion
+venue: RA-L
+year: 2021
+authors: []
+abstract: Tensorflow implementation of Learning Topology from Synthetic Data for
+  Unsupervised Depth Completion (RAL 2021 & ICRA 2021)
+tags:
+  - 3d-reconstruction
+  - 3d-vision
+  - computer-vision
+  - depth
+  - depth-completion
+repo: https://github.com/alexklwong/learning-topology-synthetic-data
+date_added: 2026-04-09

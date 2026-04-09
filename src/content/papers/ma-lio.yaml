@@ -1,0 +1,15 @@
+title: MA-LIO (RA-L'23)
+venue: RA-L
+year: 2023
+authors: []
+abstract: Asynchronous Multiple LiDAR-Inertial Odometry using Point-wise
+  Inter-LiDAR Uncertainty Propagation
+tags:
+  - asynchronous
+  - dataset
+  - lidar
+  - lio
+  - multi-lidars
+repo: https://github.com/minwoo0611/MA-LIO
+arxiv: https://arxiv.org/abs/2305.16792
+date_added: 2026-04-09

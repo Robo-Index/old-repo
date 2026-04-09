@@ -1,0 +1,12 @@
+title: Playing to the Strengths of High- and Low-Resolution Cues for Ultra-High
+  Resolution Image Segmentation
+venue: RA-L
+year: 2025
+authors: []
+abstract: In ultra-high resolution image segmentation task for robotic platforms
+  like UAVs and autonomous vehicles, existing paradigms process a downsampled
+  input image through a deep network and the original high-resolution image
+  through a shallow network, then fusing their features for final segmentation.
+tags: []
+repo: https://github.com/liqiokkk/HLRC
+date_added: 2026-04-09

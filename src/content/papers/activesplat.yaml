@@ -1,0 +1,12 @@
+title: if you have bad network, you can use the following command to speed up
+venue: RA-L
+year: 2025
+authors: []
+abstract: "[RA-L 2025] ActiveSplat: High-Fidelity Scene Reconstruction through
+  Active Gaussian Splatting"
+tags:
+  - 3d-reconstruction
+repo: https://github.com/Li-Yuetao/ActiveSplat
+arxiv: https://arxiv.org/abs/2410.21955
+project_page: https://li-yuetao.github.io/ActiveSplat/
+date_added: 2026-04-09

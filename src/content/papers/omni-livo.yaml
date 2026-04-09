@@ -1,0 +1,11 @@
+title: Omni-LIVO
+venue: RA-L
+year: 2026
+authors: []
+abstract: Wide field-of-view (FoV) LiDAR sensors provide dense geometry across
+  large environments, but existing LiDAR-inertial-visual odometry (LIVO) systems
+  generally rely on a single camera, limiting their ability to fully exploit
+  LiDAR-derived depth for photometric alignment and scene colorization.
+tags: []
+repo: https://github.com/elon876/Omni-LIVO
+date_added: 2026-04-09

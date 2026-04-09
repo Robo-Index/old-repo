@@ -1,0 +1,13 @@
+title: Variational Shape Inference for Grasp Diffusion on SE(3)
+venue: RA-L
+year: 2025
+authors: []
+abstract: "Code for RA-L'25 paper: \"Variational Shape Inference for Grasp
+  Diffusion on SE(3)\""
+tags:
+  - diffusion-models
+  - robotic-manipulation
+  - shape-inference
+repo: https://github.com/stalhabukhari/vsigd
+arxiv: https://arxiv.org/abs/2508.17482
+date_added: 2026-04-09

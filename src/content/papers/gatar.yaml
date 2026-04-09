@@ -1,0 +1,12 @@
+title: Overview
+venue: RA-L
+year: 2023
+authors: []
+abstract: "[ICRA 2025] Graph-based decentralized task allocation for multi-robot
+  target localization"
+tags:
+  - graph-neural-operator
+  - motion-planning
+  - multi-agent-systems
+repo: https://github.com/IDEAS-Lab-Purdue/GATAR
+date_added: 2026-04-09

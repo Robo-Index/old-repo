@@ -1,0 +1,15 @@
+title: MIF-WLSTM
+venue: RA-L
+year: 2021
+authors: []
+abstract: "[RA-L21] Long-Term Pedestrian Trajectory Prediction Using Mutable
+  Intention Filter and Warp LSTM"
+tags:
+  - human-trajectory-prediction
+  - intent-classification
+  - intent-detection
+  - intent-prediction
+  - intent-recognition
+repo: https://github.com/tedhuang96/mifwlstm
+arxiv: https://arxiv.org/abs/2007.00113
+date_added: 2026-04-09

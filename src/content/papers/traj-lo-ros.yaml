@@ -1,0 +1,8 @@
+title: traj_lo_ros
+venue: RA-L
+year: 2024
+authors: []
+abstract: ROS version of Traj_LO (state estimation using only LiDAR sensors)
+tags: []
+repo: https://github.com/ghm0819/traj_lo_ros
+date_added: 2026-04-09

@@ -1,0 +1,15 @@
+title: GST
+venue: RA-L
+year: 2022
+authors: []
+abstract: "[RA-L + ICRA22] Learning Sparse Interaction Graphs of Partially
+  Detected Pedestrians for Trajectory Prediction "
+tags:
+  - human-robot-interaction
+  - human-trajectory-prediction
+  - lstm
+  - trajectory-prediction
+  - transformer
+repo: https://github.com/tedhuang96/gst
+arxiv: https://arxiv.org/abs/2107.07056
+date_added: 2026-04-09

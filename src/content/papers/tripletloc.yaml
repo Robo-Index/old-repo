@@ -1,0 +1,11 @@
+title: "TripletLoc: One-Shot Global Localization using Semantic Triplet in Urban
+  Environment"
+venue: RA-L
+year: 2025
+authors: []
+abstract: RA-L 2025, A fast, efficient, and robust registration-based 6-DoF
+  global localization method in urban environments, requiring no initial pose
+  guess.
+tags: []
+repo: https://github.com/Weixin-Ma/tripletloc
+date_added: 2026-04-09

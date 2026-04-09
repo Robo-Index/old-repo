@@ -1,0 +1,15 @@
+title: "Advanced EVPH: Advanced Omni-directional Vector Polar Histogram for
+  Robust Navigation in Crowded Environments"
+venue: RA-L
+year: 2025
+authors: []
+abstract: The official github repository of paper "Advanced EVPH" in IEEE
+  Robotics and Automation Letters(RA-L).
+tags:
+  - advanced-evph
+  - autonomous-vehicle-navigation
+  - collision-avoidance
+  - motion-and-path-planning
+  - vector-polar-histogram
+repo: https://github.com/BottleXu/advanced_evph
+date_added: 2026-04-09

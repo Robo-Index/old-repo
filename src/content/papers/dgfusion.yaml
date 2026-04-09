@@ -1,0 +1,15 @@
+title: "DGFusion: Depth-Guided Sensor Fusion for Robust Semantic Perception"
+venue: RA-L
+year: 2026
+authors: []
+abstract: "[RA-L 2026] DGFusion: Depth-Guided Sensor Fusion for Robust Semantic
+  Perception"
+tags:
+  - computer-vision
+  - depth-estimation
+  - muses-dataset
+  - panoptic-segmentation
+  - segmentatin
+repo: https://github.com/timbroed/DGFusion
+project_page: https://ieeexplore.ieee.org/document/11361097
+date_added: 2026-04-09

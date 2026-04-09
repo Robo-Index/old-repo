@@ -1,0 +1,12 @@
+title: SaDVIO
+venue: RA-L
+year: 2024
+authors: []
+abstract: "Sparsify and Densify Visual Inertial Odometry "
+tags:
+  - state-estimation
+  - visual-inertial-odometry
+  - visual-odometry
+repo: https://github.com/ISAE-PNX/SaDVIO
+project_page: https://cdebeunne.github.io/Documentation/html/index
+date_added: 2026-04-09

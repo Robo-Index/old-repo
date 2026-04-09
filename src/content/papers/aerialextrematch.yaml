@@ -1,0 +1,16 @@
+title: "AerialExtreMatch: A Benchmark for Extreme-View Image Matching and
+  Localization"
+venue: RA-L
+year: 2026
+authors: []
+abstract: "AerialExtreMatch: A Benchmark for Extreme-View Image Matching and
+  Localization"
+tags:
+  - benchmark
+  - cv
+  - dataset
+  - image-matching
+  - localization
+repo: https://github.com/Xecades/AerialExtreMatch
+project_page: https://xecades.github.io/AerialExtreMatch/
+date_added: 2026-04-09

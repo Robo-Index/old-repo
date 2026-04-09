@@ -1,0 +1,17 @@
+title: "Keep Your Eye on the Best: Contrastive Regression Transformer for Skill
+  Assessment in Robotic Surgery"
+venue: RA-L
+year: 2023
+authors: []
+abstract: "Code for 'Keep Your Eye on the Best: Contrastive Regression
+  Transformer for Skill Assessment in Robotic Surgery', published in IEEE
+  Robotics and Automation Letters (RA-L), February, 2023."
+tags:
+  - contrastive-learning
+  - robotic-surgery
+  - skills-assessment
+  - transformers
+  - video-understanding
+repo: https://github.com/anastadimi/Contra-Sformer
+arxiv: https://arxiv.org/abs/2106.11962
+date_added: 2026-04-09

@@ -1,0 +1,11 @@
+title: Safe and Stable Neural Network Dynamical Systems for Robot Motion Planning
+venue: RA-L
+year: 2026
+authors: []
+abstract: Learning safe and stable robot motions from demonstrations remains a
+  challenge, especially in complex, nonlinear tasks involving dynamic,
+  obstacle-rich environments.
+tags: []
+repo: https://github.com/allemmbinn/S2NNDS
+arxiv: https://arxiv.org/abs/2511.20593
+date_added: 2026-04-09

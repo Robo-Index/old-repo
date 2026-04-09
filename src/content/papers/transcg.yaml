@@ -1,0 +1,14 @@
+title: "TransCG: A Large-Scale Real-World Dataset for Transparent Object Depth
+  Completion and A Grasping Baseline"
+venue: RA-L
+year: 2022
+authors: []
+abstract: "[RAL 2022 & ICRA 2023] TransCG: A Large-Scale Real-World Dataset for
+  Transparent Object Depth Completion and A Grasping Baseline"
+tags:
+  - dataset
+  - depth-completion
+  - grasping
+repo: https://github.com/Galaxies99/TransCG
+project_page: https://graspnet.net/transcg
+date_added: 2026-04-09

@@ -1,0 +1,12 @@
+title: Official Implementation of Native-Domain Cross-Attention for Camera-LiDAR
+  Extrinsic Calibration Under Large Initial Perturbations (RA-L 2026)
+venue: RA-L
+year: 2026
+authors: []
+abstract: Accurate camera-LiDAR fusion relies on precise extrinsic calibration,
+  which fundamentally depends on establishing reliable cross-modal
+  correspondences under potentially large misalignments.
+tags: []
+repo: https://github.com/gitouni/ProjFusion
+arxiv: https://arxiv.org/abs/2603.29414
+date_added: 2026-04-09

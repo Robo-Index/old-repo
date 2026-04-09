@@ -1,0 +1,9 @@
+title: KUKA LBR Control
+venue: RA-L
+year: 2026
+authors: []
+abstract: A repository for controlling the KUKA lbr iiwa or med with different
+  control algorithms
+tags: []
+repo: https://github.com/idra-lab/kuka_lbr_control
+date_added: 2026-04-09

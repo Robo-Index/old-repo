@@ -1,0 +1,9 @@
+title: The View of Delft dataset
+venue: RA-L
+year: 2025
+authors: []
+abstract: This repository is based on the View of Delft automotive dataset and
+  is used for KITTI evaluation
+tags: []
+repo: https://github.com/Petros626/view-of-delft-kitti-eval
+date_added: 2026-04-09

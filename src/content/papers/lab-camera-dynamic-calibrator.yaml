@@ -1,0 +1,14 @@
+title: Dynamic Extrinsic Camera Calibrator
+venue: RA-L
+year: 2022
+authors: []
+abstract: A fully automated, markerless extrinsic camera calibration pipeline
+  using human motion.
+tags:
+  - biomechanics
+  - camera-calibration
+  - computer-vision
+  - human-calibration
+  - multicam
+repo: https://github.com/flodelaplace/lab-camera-dynamic-calibrator
+date_added: 2026-04-09

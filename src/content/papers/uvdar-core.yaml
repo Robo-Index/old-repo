@@ -1,0 +1,12 @@
+title: UVDAR drivers and processing
+venue: RA-L
+year: 2019
+authors: []
+abstract: UVDAR is a system for mutual UAV localization using Ultra-Violet LED blinkers.
+tags:
+  - micro-aerial-vehicles
+  - relative-localization
+  - uav-localization
+  - uav-ranging
+repo: https://github.com/ctu-mrs/uvdar_core
+date_added: 2026-04-09

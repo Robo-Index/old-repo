@@ -1,0 +1,10 @@
+title: "Example: Process and train on the PKU dataset"
+venue: RA-L
+year: 2025
+authors: []
+abstract: An open-source software framework for unsupervised clustering and
+  supervised classification of high-dimensional data, demonstrated on human
+  posture recognition from RGB-D skeletal inputs.
+tags: []
+repo: https://github.com/qqwwqwq/From-Seeing-to-Recognising
+date_added: 2026-04-09

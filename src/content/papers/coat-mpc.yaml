@@ -1,0 +1,12 @@
+title: coat_mpc
+venue: RA-L
+year: 2025
+authors: []
+abstract: Official implementation of COAt-MPC (IEEE RA-L 2025), a method with
+  theoretical guarantees to automatically tune the cost function weights of an
+  MPC to maximize its performance while satisfying a performance constraint with
+  high-probability.
+tags: []
+repo: https://github.com/albertgassol1/coat_mpc
+arxiv: https://arxiv.org/abs/2503.07127
+date_added: 2026-04-09

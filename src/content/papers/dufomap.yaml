@@ -1,0 +1,15 @@
+title: "The easiest way to run DUFOMap:"
+venue: RA-L
+year: 2024
+authors: []
+abstract: "[RA-L'24] DUFOMap: Efficient Dynamic Awareness Mapping"
+tags:
+  - autonomous-driving
+  - detection
+  - dynamic-point-removal
+  - mapping
+  - moving
+repo: https://github.com/KTH-RPL/dufomap
+arxiv: https://arxiv.org/abs/2403.01449
+project_page: https://kth-rpl.github.io/dufomap
+date_added: 2026-04-09

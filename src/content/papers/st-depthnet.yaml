@@ -1,0 +1,10 @@
+title: "ST-DepthNet: A spatio-temporal deep network for depth completion using a
+  single non-repetitive circular scanning Lidar"
+venue: RA-L
+year: 2023
+authors: []
+abstract: Supplementary material to our submitted paper in the IEEE Robotics and
+  Automation Letters (RAL)
+tags: []
+repo: https://github.com/sztaki-geocomp/ST-DepthNet
+date_added: 2026-04-09

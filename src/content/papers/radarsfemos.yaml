@@ -1,0 +1,15 @@
+title: Self-Supervised Diffusion-Based Scene Flow Estimation and Motion
+  Segmentation with 4D Radar
+venue: RA-L
+year: 2025
+authors: []
+abstract: "[RA-L 25] Self-Supervised Diffusion-Based Scene Flow Estimation and
+  Motion Segmentation with 4D Radar"
+tags:
+  - motion-segmentation
+  - moving-object-segementation
+  - radar
+  - sceneflow
+  - self-supervised
+repo: https://github.com/nubot-nudt/RadarSFEMOS
+date_added: 2026-04-09

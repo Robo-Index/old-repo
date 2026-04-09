@@ -1,0 +1,14 @@
+title: Acknowledgement
+venue: RA-L
+year: 2021
+authors: []
+abstract: "[RA-L & ICRA 2021] Adversarial Inverse Reinforcement Learning with
+  Self-attention Dynamics Model"
+tags:
+  - icra2021
+  - imitation-learning
+  - inverse-reinforcement-learning
+  - reinforcement-learning
+  - self-attention
+repo: https://github.com/decisionforce/MAIRL
+date_added: 2026-04-09

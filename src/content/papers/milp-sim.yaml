@@ -1,0 +1,14 @@
+title: milp_sim
+venue: RA-L
+year: 2020
+authors: []
+abstract: "MILP planner for search-and-rescue missions showcased on paper:
+  Exploiting Natural Language for Efficient Risk-Aware Multi-Robot SaR Planning
+  by Shree, Asfora, Zheng, Hong, Banfi and Campbell, in IEEE Robotics and
+  Automation Letters, vol."
+tags:
+  - milp-models
+  - optimization-algorithms
+  - searchandrescue
+repo: https://github.com/basfora/milp_sim
+date_added: 2026-04-09

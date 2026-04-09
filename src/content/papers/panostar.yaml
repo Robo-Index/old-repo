@@ -1,0 +1,11 @@
+title: State-of-the-art in deep learning approaches for automatic
+  single-panorama indoor modeling and exploration
+venue: RA-L
+year: 2021
+authors: []
+abstract: A single surround-view panoramic image provides complete coverage of
+  the environment visible from a single viewpoint and inherently supports
+  dynamic exploration, especially when viewed through a head-mounted display.
+tags: []
+repo: https://github.com/crs4/panostar
+date_added: 2026-04-09

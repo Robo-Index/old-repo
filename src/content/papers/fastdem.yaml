@@ -1,0 +1,13 @@
+title: Dependencies
+venue: RA-L
+year: 2024
+authors: []
+abstract: Real-time 2.
+tags:
+  - bev-perception
+  - cpp17
+  - lidar
+  - navigation
+  - point-cloud
+repo: https://github.com/Ikhyeon-Cho/FastDEM
+date_added: 2026-04-09

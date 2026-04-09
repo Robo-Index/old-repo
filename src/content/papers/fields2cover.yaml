@@ -1,0 +1,14 @@
+title: Fields2Cover
+venue: RA-L
+year: 2022
+authors: []
+abstract: Robust and efficient coverage paths for autonomous agricultural vehicles.
+tags:
+  - agriculture
+  - autonomous-vehicles
+  - coverage-path-planning
+  - cpp17
+  - path-planning
+repo: https://github.com/Fields2Cover/Fields2Cover
+project_page: https://fields2cover.github.io/
+date_added: 2026-04-09

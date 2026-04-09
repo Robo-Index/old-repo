@@ -1,0 +1,12 @@
+title: "DynaMoN: Motion-Aware Fast and Robust Camera Localization for Dynamic
+  Neural Radiance Fields"
+venue: RA-L
+year: 2024
+authors: []
+abstract: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF
+tags:
+  - nerf
+  - slam
+repo: https://github.com/HannahHaensen/DynaMoN
+project_page: https://hannahhaensen.github.io/DynaMoN/
+date_added: 2026-04-09

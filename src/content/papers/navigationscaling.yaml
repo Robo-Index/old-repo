@@ -1,0 +1,11 @@
+title: Start the EarthRovers SDK after setting the correct robot/mission settings
+venue: RA-L
+year: 2026
+authors: []
+abstract: Official implementation of the RA-L 2026 paper "Data Scaling for
+  Navigation in Unknown Environments"
+tags: []
+repo: https://github.com/lasuomela/NavigationScaling
+arxiv: https://arxiv.org/abs/2601.09444
+project_page: https://lasuomela.github.io/navigation_scaling/
+date_added: 2026-04-09

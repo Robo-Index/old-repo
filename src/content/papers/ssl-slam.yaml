@@ -1,0 +1,10 @@
+title: SSL_SLAM
+venue: RA-L
+year: 2021
+authors: []
+abstract: "SSL_SLAM: Lightweight 3-D Localization and Mapping for Solid-State
+  LiDAR  IEEE RA-L 2021"
+tags:
+  - slam
+repo: https://github.com/wh200720041/ssl_slam
+date_added: 2026-04-09

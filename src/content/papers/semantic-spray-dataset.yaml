@@ -1,0 +1,15 @@
+title: SemanticSpray Dataset
+venue: RA-L
+year: 2024
+authors: []
+abstract: (RA-L 2023) Official toolkit for the SemanticSpray Dataset.
+tags:
+  - adverse-weather-condition
+  - autonomus-driving
+  - dataset
+  - lidar
+  - semantic-segmentation
+repo: https://github.com/uulm-mrm/semantic_spray_dataset
+arxiv: https://arxiv.org/abs/2305.16129
+project_page: https://semantic-spray-dataset.github.io
+date_added: 2026-04-09

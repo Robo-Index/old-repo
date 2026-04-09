@@ -1,0 +1,14 @@
+title: "NavRL: Learning Safe Flight in Dynamic Environments"
+venue: RA-L
+year: 2025
+authors: []
+abstract: "[IEEE RA-L'25] NavRL: Learning Safe Flight in Dynamic Environments
+  (NVIDIA Isaac/Python/ROS1/ROS2)"
+tags:
+  - collision-avoidance
+  - embodied-ai
+  - isaac-sim
+  - nvidia-isaac
+  - reinforcement-learning
+repo: https://github.com/Zhefan-Xu/NavRL
+date_added: 2026-04-09

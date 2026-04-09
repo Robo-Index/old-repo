@@ -1,0 +1,13 @@
+title: Diverse Controllable Diffusion Policy with Signal Temporal Logic
+venue: RA-L
+year: 2024
+authors: []
+abstract: '[RA-L/ICRA2025] Official implementation for paper "Diverse
+  Controllable Diffusion Policy with Signal Temporal Logic.'
+tags:
+  - autonomous-driving
+  - diffusion-models
+  - signal-temporal-logic
+repo: https://github.com/mengyuest/pSTL-diffusion-policy
+project_page: https://mengyuest.github.io/pSTL-diffusion-policy/
+date_added: 2026-04-09

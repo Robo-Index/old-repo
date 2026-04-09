@@ -1,0 +1,10 @@
+title: IMUDB
+venue: RA-L
+year: 2023
+authors: []
+abstract: '[RA-L 2023] Official Pytorch-Lightning Implementation for "A Simple
+  Self-Supervised IMU Denoising Method For Inertial Aided Navigation", in IEEE
+  Robotics and Automation Letters, 2023'
+tags: []
+repo: https://github.com/KleinYuan/IMUDB
+date_added: 2026-04-09

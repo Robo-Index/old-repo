@@ -1,0 +1,12 @@
+title: TBV Radar SLAM
+venue: RA-L
+year: 2023
+authors: []
+abstract: Radar SLAM in C++ / ROS
+tags:
+  - mapping
+  - slam
+repo: https://github.com/dan11003/tbv_slam_public
+arxiv: https://arxiv.org/abs/2301.04397
+project_page: https://arxiv.org/abs/2301.04397
+date_added: 2026-04-09

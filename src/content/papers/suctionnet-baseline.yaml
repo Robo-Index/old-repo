@@ -1,0 +1,12 @@
+title: Baseline Methods for SuctionNet-1Billion
+venue: RA-L
+year: 2021
+authors: []
+abstract: 'Baseline methods in RA-L paper "SuctionNet-1Billion: A
+  Large-Scale  Benchmark  for  Suction  Grasping"'
+tags:
+  - 3d-vision
+  - suction-grasping
+repo: https://github.com/graspnet/suctionnet-baseline
+project_page: https://graspnet.net/suction
+date_added: 2026-04-09

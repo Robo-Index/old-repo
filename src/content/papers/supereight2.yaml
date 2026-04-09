@@ -1,0 +1,14 @@
+title: supereight2
+venue: RA-L
+year: 2018
+authors: []
+abstract: High performance volumetric occupancy and TSDF mapping
+tags:
+  - 3d-mapping
+  - 3d-reconstruction
+  - lidar
+  - occupancy-mapping
+  - octree
+repo: https://github.com/ethz-mrl/supereight2
+arxiv: https://arxiv.org/abs/2010.07929
+date_added: 2026-04-09

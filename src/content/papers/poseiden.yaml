@@ -1,0 +1,10 @@
+title: Poseiden
+venue: RA-L
+year: 2025
+authors: []
+abstract: Official implementation of [RA-L 2025] paper Stereo-Based 3D Human
+  Pose Estimation for Underwater Robots Without 3D Supervision.
+tags: []
+repo: https://github.com/IRVLab/poseiden
+project_page: https://doi.org/10.1109/LRA.2025.3557235
+date_added: 2026-04-09

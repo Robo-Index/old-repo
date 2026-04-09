@@ -1,0 +1,13 @@
+title: Learning Deformable Object Manipulation from Expert Demonstrations
+venue: RA-L
+year: 2022
+authors: []
+abstract: Learning Deformable Object Manipulation from Expert Demonstrations
+  (RA-L, IROS 2022)
+tags:
+  - deformable-object
+  - reinforcement-learning
+repo: https://github.com/uscresl/dmfd
+arxiv: https://arxiv.org/abs/2207.10148
+project_page: https://uscresl.github.io/dmfd
+date_added: 2026-04-09

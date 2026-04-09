@@ -1,0 +1,12 @@
+title: "Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction
+  with Safe Control"
+venue: RA-L
+year: 2026
+authors: []
+abstract: 'Python scripts for MMP_MCBF control framework proposed in RA-L paper
+  "Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction with
+  Safe Control"'
+tags: []
+repo: https://github.com/yifanxueseas/mmp_mcbf_control
+arxiv: https://arxiv.org/abs/2601.10233
+date_added: 2026-04-09

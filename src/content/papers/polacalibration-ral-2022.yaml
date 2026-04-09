@@ -1,0 +1,14 @@
+title: PolaCalibration - Calibration of Polarization Cameras
+venue: RA-L
+year: 2022
+authors: []
+abstract: This repository contains the original C++ implementation of the
+  polarimetric calibration approach presented in "A practical calibration method
+  for RGB micro-grid polarimetric cameras", RA-L 2022.
+tags:
+  - camera-calibration
+  - polarimetric-data-analysis
+  - polarimetry
+  - polarization-imaging
+repo: https://github.com/vibot-lab/PolaCalibration_RAL_2022
+date_added: 2026-04-09

@@ -1,0 +1,12 @@
+title: "**LONER**: **L**iDAR **O**nly **Ne**ural **R**epresentations for
+  Real-Time SLAM"
+venue: RA-L
+year: 2023
+authors: []
+abstract: "[RA-L 2023 Best Paper] Official Code Release for LONER: LiDAR Only
+  Neural Representations for Real-Time SLAM"
+tags: []
+repo: https://github.com/umautobots/LONER
+arxiv: https://arxiv.org/abs/2309.04937
+project_page: https://umautobots.github.io/loner
+date_added: 2026-04-09

@@ -1,0 +1,16 @@
+title: "DrPlanner 🩺: Diagnosis and Repair of Motion Planners for Automated
+  Vehicles Using Large Language Models"
+venue: RA-L
+year: 2024
+authors: []
+abstract: "🩺 : Elevate Your Planner, Perfect Your Motion 🌠"
+tags:
+  - diagnosis-tool
+  - llm
+  - llm-inference
+  - motion-planning
+  - repairer
+repo: https://github.com/CommonRoad/drplanner
+arxiv: https://arxiv.org/abs/2403.07470
+project_page: https://commonroad.github.io/drplanner/
+date_added: 2026-04-09

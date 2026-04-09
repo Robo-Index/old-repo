@@ -1,0 +1,10 @@
+title: "OmniNet: Omnidirectional Jumping Neural Network With Height-Awareness
+  for Quadrupedal Robots (RAL 2025)"
+venue: RA-L
+year: 2025
+authors: []
+abstract: In this work, we introduce a novel training framework that achieves
+  height-aware and omnidirectional jumping for quadrupedal robots.
+tags: []
+repo: https://github.com/arclab-hku/Omni-Jump
+date_added: 2026-04-09

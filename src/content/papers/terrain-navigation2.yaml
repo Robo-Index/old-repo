@@ -1,0 +1,13 @@
+title: terrain-navigation2
+venue: RA-L
+year: 2024
+authors: []
+abstract: Implementation for safe low altitude navigation in steep terrain for
+  fixed-wing Aerial Vehicles
+tags:
+  - drones
+  - fixed-wing
+  - planning
+repo: https://github.com/ethz-asl/terrain-navigation2
+project_page: https://ieeexplore.ieee.org/abstract/document/10443502
+date_added: 2026-04-09

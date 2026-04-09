@@ -1,0 +1,15 @@
+title: SICNav and SICNav-Diffusion
+venue: RA-L
+year: 2025
+authors: []
+abstract: Code base for SICNav T-RO paper and SICNav-Diffusion RA-L paper
+tags:
+  - bilevel-optimization
+  - collision-avoidance
+  - crowd-navigation
+  - crowd-simulation
+  - diffusion
+repo: https://github.com/sepsamavi/safe-interactive-crowdnav
+arxiv: https://arxiv.org/abs/1809.08835
+project_page: https://sepehr.fyi/projects/sicnav_diffusion
+date_added: 2026-04-09

@@ -1,0 +1,13 @@
+title: iAstar
+venue: RA-L
+year: 2025
+authors: []
+abstract: "[RA-L 2025] iA*: Imperative Learning-based A* Search for Path Planning"
+tags:
+  - astar
+  - imperative-learning
+  - planning
+repo: https://github.com/sair-lab/iAstar
+arxiv: https://arxiv.org/abs/2403.15870
+project_page: https://sairlab.org/iastar/
+date_added: 2026-04-09

@@ -1,0 +1,13 @@
+title: 1. ⚙️ Installation
+venue: RA-L
+year: 2025
+authors: []
+abstract: "Offical code release for DynoSAM: Dynamic Object Smoothing And Mapping."
+tags:
+  - gtsam
+  - slam
+  - vslam
+repo: https://github.com/ACFR-RPG/DynOSAM
+arxiv: https://arxiv.org/abs/2509.08197
+project_page: https://acfr-rpg.github.io/DynOSAM/
+date_added: 2026-04-09

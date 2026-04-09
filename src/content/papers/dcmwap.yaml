@@ -1,0 +1,15 @@
+title: dcmwap
+venue: RA-L
+year: 2026
+authors: []
+abstract: A toolkit for training whole-arm reinforcement learning policies that
+  manipulate and clear clusters of deformable objects.
+tags:
+  - computer-vision
+  - deformable-manipulation
+  - isaac-gym
+  - physics-simulation
+  - reinforcement-learning
+repo: https://github.com/jayadeepj/dcmwap
+project_page: https://sites.google.com/view/dcmwap
+date_added: 2026-04-09

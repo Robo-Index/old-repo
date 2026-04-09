@@ -1,0 +1,15 @@
+title: Accelerating Robot Dynamics Gradients on a CPU, GPU, and FPGA
+venue: RA-L
+year: 2021
+authors: []
+abstract: Code supporting the RAL paper "Accelerating Robot Dynamics Gradients
+  on a CPU, GPU, and FPGA"
+tags:
+  - analytical-derivatives
+  - cuda
+  - gpu
+  - gpu-acceleration
+  - paralelism
+repo: https://github.com/plancherb1/fast-rbd-gradients
+project_page: https://brianplancher.com/publication/accellrbdgrad/
+date_added: 2026-04-09

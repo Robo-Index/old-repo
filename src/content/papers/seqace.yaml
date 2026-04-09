@@ -1,0 +1,10 @@
+title: Downloads the data to datasets/pgt_7scenes_{chess, fire, ...}
+venue: RA-L
+year: 2024
+authors: []
+abstract: "[RA-L 2025] Enhancing Scene Coordinate Regression with Efficient
+  Keypoint Detection and Sequential Information"
+tags: []
+repo: https://github.com/sair-lab/SeqACE
+arxiv: https://arxiv.org/abs/2412.06488
+date_added: 2026-04-09

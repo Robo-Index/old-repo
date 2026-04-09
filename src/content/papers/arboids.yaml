@@ -1,0 +1,16 @@
+title: "ARBoids: Adaptive Residual Reinforcement Learning With Boids Model for
+  Cooperative Multi-USV Target Defense"
+venue: RA-L
+year: 2025
+authors: []
+abstract: "[RA-L 2026] ARBoids: Adaptive Residual Reinforcement Learning With
+  Boids Model for Cooperative Multi-USV Target Defense"
+tags:
+  - marine-robotics
+  - multiagent-systems
+  - reinforcement-learning
+  - residual-learning
+repo: https://github.com/taojy687/ARBoids
+arxiv: https://arxiv.org/abs/2502.18549
+project_page: https://ieeexplore.ieee.org/abstract/document/11386880
+date_added: 2026-04-09

@@ -1,0 +1,13 @@
+title: fkie-nbv-planner
+venue: RA-L
+year: 2021
+authors: []
+abstract: Online Next-Best-View planner for 3D exploration and inspection with a
+  mobile robot
+tags:
+  - exploration
+  - next-best-view
+  - planning-algorithms
+repo: https://github.com/fkie/fkie-nbv-planner
+project_page: https://doi.org/10.1109/LRA.2022.3146558
+date_added: 2026-04-09

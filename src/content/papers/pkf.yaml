@@ -1,0 +1,9 @@
+title: "PKF: Probabilistic Data Association Kalman Filter"
+venue: RA-L
+year: 2024
+authors: []
+abstract: 'Code for RA-L paper "PKF: Probabilistic Data Association Kalman
+  Filter for Multi-Object Tracking"'
+tags: []
+repo: https://github.com/hwcao17/pkf
+date_added: 2026-04-09

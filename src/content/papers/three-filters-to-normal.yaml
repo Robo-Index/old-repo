@@ -1,0 +1,16 @@
+title: "Three-Filters-to-Normal (3F2N): An Accurate and Ultrafast Surface Normal
+  Estimator"
+venue: RA-L
+year: 2020
+authors: []
+abstract: "Three-Filters-to-Normal: An Accurate and Ultrafast Surface Normal
+  Estimator (RAL+ICRA'21)"
+tags:
+  - datasets
+  - depth
+  - disparity-map
+  - surface-normals-estimation
+  - synthetic-data
+repo: https://github.com/ruirangerfan/Three-Filters-to-Normal
+project_page: https://sites.google.com/view/3f2n
+date_added: 2026-04-09

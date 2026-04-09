@@ -1,0 +1,16 @@
+title: DynamicMap_Benchmark
+venue: RA-L
+year: 2024
+authors: []
+abstract: The First Dynamic Map Removal Benchmark | Included 8 SOTA methods |
+  Continous updating
+tags:
+  - autonomous-driving
+  - benchmark
+  - dataset
+  - dynamic-point-removal
+  - mapping
+repo: https://github.com/KTH-RPL/DynamicMap_Benchmark
+arxiv: https://arxiv.org/abs/2307.07260
+project_page: https://kth-rpl.github.io/DynamicMap_Benchmark/
+date_added: 2026-04-09

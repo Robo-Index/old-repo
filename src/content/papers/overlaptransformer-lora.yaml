@@ -1,0 +1,10 @@
+title: OverlapTransformer-LoRA
+venue: RA-L
+year: 2022
+authors: []
+abstract: LoRA fine-tuning for OverlapTransformer (RAL/IROS 2022) - LiDAR-based
+  place recognition with only 0.
+tags: []
+repo: https://github.com/Adar485/OverlapTransformer-LoRA
+arxiv: https://arxiv.org/abs/2106.09685
+date_added: 2026-04-09

@@ -1,0 +1,14 @@
+title: Continuous Grasping Function
+venue: RA-L
+year: 2023
+authors: []
+abstract: Learning Continuous Grasping Function with a Dexterous Hand from Human
+  Demonstrations, RA-L 2023
+tags:
+  - dexterous-manipulation
+  - dexterous-robotic-hand
+  - neural-implicit-representations
+repo: https://github.com/jianglongye/cgf
+arxiv: https://arxiv.org/abs/2207.05053
+project_page: https://jianglongye.com/cgf
+date_added: 2026-04-09

@@ -1,0 +1,13 @@
+title: News
+venue: RA-L
+year: 2024
+authors: []
+abstract: "Leg-KILO: Robust Kinematic-Inertial-Lidar Odometry for Dynamic Legged Robots"
+tags:
+  - kinematics
+  - legged-robots
+  - lidar
+  - localization
+  - mapping
+repo: https://github.com/ouguangjun/Leg-KILO
+date_added: 2026-04-09

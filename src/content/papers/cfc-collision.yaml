@@ -1,0 +1,12 @@
+title: "CFC: Collision detection based on closed-form contact space parameterization"
+venue: RA-L
+year: 2022
+authors: []
+abstract: "[RA-L/IROS2022] Collision detection for general convex smooth bodies
+  using closed-form contact space (CFC)"
+tags:
+  - collision
+  - collision-detection
+repo: https://github.com/ChirikjianLab/cfc-collision
+project_page: https://chirikjianlab.github.io/cfc-collision/
+date_added: 2026-04-09

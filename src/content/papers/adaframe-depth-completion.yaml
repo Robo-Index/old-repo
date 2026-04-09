@@ -1,0 +1,14 @@
+title: An Adaptive Framework for Learning Unsupervised Depth Completion
+venue: RA-L
+year: 2021
+authors: []
+abstract: PyTorch implementation of An Adaptive Framework for Learning
+  Unsupervised Depth Completion (RAL 2021 & ICRA 2021)
+tags:
+  - 3d-reconstruction
+  - 3d-vision
+  - computer-vision
+  - depth
+  - depth-completion
+repo: https://github.com/alexklwong/adaframe-depth-completion
+date_added: 2026-04-09

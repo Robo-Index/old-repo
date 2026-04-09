@@ -1,0 +1,10 @@
+title: Dynamic Exploration Planner (DEP) for Robot Exploration
+venue: RA-L
+year: 2021
+authors: []
+abstract: "[IEEE RA-L & ICRA'21] Autonomous UAV Exploration in Dynamic
+  Environment [DEP] (C++/ROS) "
+tags:
+  - gazebo
+repo: https://github.com/Zhefan-Xu/DEP
+date_added: 2026-04-09

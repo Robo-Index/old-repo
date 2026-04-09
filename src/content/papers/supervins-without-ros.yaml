@@ -1,0 +1,9 @@
+title: "SuperVINS-DPL: Deep Learning Enhanced Visual-Inertial Navigation System"
+venue: RA-L
+year: 2019
+authors: []
+abstract: " Deep Learning Enhanced Visual-Inertial Navigation System with
+  SuperPoint/DISK feature extraction without ros"
+tags: []
+repo: https://github.com/Torchmm/supervins_without_ros
+date_added: 2026-04-09

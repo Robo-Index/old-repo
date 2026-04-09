@@ -1,0 +1,13 @@
+title: Applications of Spiking Neural Networks in Visual Place Recognition
+venue: RA-L
+year: 2022
+authors: []
+abstract: Code for our IEEE TRO + RAL/ICRA2022 + ICRA 2023 papers on spiking
+  neural networks for visual place recognition
+tags:
+  - localization
+  - place-recognition
+  - spiking-neural-networks
+repo: https://github.com/QVPR/VPRSNN
+arxiv: https://arxiv.org/abs/2311.13186
+date_added: 2026-04-09

@@ -1,0 +1,16 @@
+title: 'Source code for the article "GroundGrid: LiDAR Point Cloud Ground
+  Segmentation and Terrain Estimation"'
+venue: RA-L
+year: 2024
+authors: []
+abstract: 'Source code for the article "GroundGrid: LiDAR Point Cloud Ground
+  Segmentation and Terrain Estimation"'
+tags:
+  - 3d-lidar
+  - autonomous-car
+  - autonomous-driving
+  - autonomous-vehicles
+  - grid-map
+repo: https://github.com/dcmlr/groundgrid
+project_page: https://ieeexplore.ieee.org/document/10319084
+date_added: 2026-04-09

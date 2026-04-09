@@ -1,0 +1,13 @@
+title: ":mechanical_arm: P2M"
+venue: RA-L
+year: 2025
+authors: []
+abstract: "[RA-L'25] A Simple LiDAR-centric End-to-end Navigation Framework in
+  Dynamic Environments"
+tags:
+  - dynamic-obstacle-avoidance
+  - end-to-end-navigation
+  - reinforcement-learning
+repo: https://github.com/arclab-hku/P2M
+arxiv: https://arxiv.org/abs/2511.16372
+date_added: 2026-04-09

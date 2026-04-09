@@ -1,0 +1,17 @@
+title: Self-Supervised Scene Flow Estimation with 4-D Automotive Radar
+venue: RA-L
+year: 2022
+authors: []
+abstract: Scene flow allows autonomous vehicles to reason about the arbitrary
+  motion of multiple independent objects which is the key to long-term mobile
+  autonomy.
+tags:
+  - automotive-radar
+  - autonomous-driving
+  - point-cloud
+  - scene-flow-estimation
+  - self-supervised
+repo: https://github.com/Toytiny/RaFlow
+arxiv: https://arxiv.org/abs/2203.01137
+project_page: https://toytiny.github.io/publication/22-raflow-ral/index.html
+date_added: 2026-04-09

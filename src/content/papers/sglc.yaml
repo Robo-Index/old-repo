@@ -1,0 +1,13 @@
+title: "SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for
+  LiDAR SLAM"
+venue: RA-L
+year: 2024
+authors: []
+abstract: "[RA-L 24] SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop
+  Closing for LiDAR SLAM"
+tags:
+  - loopclosure
+  - slam
+repo: https://github.com/nubot-nudt/SGLC
+arxiv: https://arxiv.org/abs/2407.08106
+date_added: 2026-04-09

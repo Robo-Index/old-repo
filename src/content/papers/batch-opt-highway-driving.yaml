@@ -1,0 +1,12 @@
+title: "Repository associated with paper:"
+venue: RA-L
+year: 2021
+authors: []
+abstract: Repo associated with IEEE Robotics and Automation Letters publication
+  titled "Multi-Modal Model Predictive Control through batch non-holonomic
+  trajectory optimization"
+tags:
+  - autonomous-vehicles
+  - highway-simulator
+repo: https://github.com/vivek-uka/Batch-Opt-Highway-Driving
+date_added: 2026-04-09

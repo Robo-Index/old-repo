@@ -1,0 +1,14 @@
+title: deep_prob_feature_track
+venue: RA-L
+year: 2021
+authors: []
+abstract: Code for RA-L work "Deep Probabilistic Feature-metric Tracking"
+tags:
+  - icra2021
+  - least-squares
+  - object-tracking
+  - rgbd-slam
+  - robust-tracking
+repo: https://github.com/ethz-mrl/deep_prob_feature_track
+project_page: https://arxiv.org/abs/2008.13504
+date_added: 2026-04-09

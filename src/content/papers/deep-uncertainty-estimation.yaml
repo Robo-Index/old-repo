@@ -1,0 +1,12 @@
+title: A General Framework for Uncertainty Estimation in Deep Learning
+venue: RA-L
+year: 2020
+authors: []
+abstract: This repository provides the code used to implement the framework to
+  provide deep learning models with total uncertainty estimates as described in
+  "A General Framework for Uncertainty Estimation in Deep Learning" (Loquercio,
+  Segù, Scaramuzza.
+tags: []
+repo: https://github.com/uzh-rpg/deep_uncertainty_estimation
+arxiv: https://arxiv.org/abs/1805.11327
+date_added: 2026-04-09

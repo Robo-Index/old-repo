@@ -1,0 +1,9 @@
+title: build docker
+venue: RA-L
+year: 2026
+authors: []
+abstract: "[RA-L 2026] Accurate Calibration and Robust LiDAR-Inertial Odometry
+  for Spinning Actuated LiDAR Systems"
+tags: []
+repo: https://github.com/zijiechenrobotics/lm_calibr
+date_added: 2026-04-09

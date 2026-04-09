@@ -1,0 +1,14 @@
+title: VVCM
+venue: RA-L
+year: 2025
+authors: []
+abstract: The kinematics-related code for the multi-robot transport system with
+  a deformable sheet, utilizing the Virtual Variable Cable Model (VVCM) for
+  modeling.
+tags:
+  - deformable
+  - kinematics
+  - multi-robot-systems
+  - transport
+repo: https://github.com/MorningFrog/VVCM
+date_added: 2026-04-09

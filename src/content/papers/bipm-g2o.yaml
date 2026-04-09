@@ -1,0 +1,10 @@
+title: "BIPM_g2o: Barrier Interior Point Method for Constrained Factor Graph
+  Optimization"
+venue: RA-L
+year: 2025
+authors: []
+abstract: This is an extension of the G2O library that uses the Barrier Interior
+  Point Method to handle constraints in factor graphs.
+tags: []
+repo: https://github.com/snt-arg/bipm_g2o
+date_added: 2026-04-09

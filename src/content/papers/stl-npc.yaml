@@ -1,0 +1,14 @@
+title: Signal Temporal Logic Neural Predictive Control
+venue: RA-L
+year: 2023
+authors: []
+abstract: "[RA-L/ICRA2024] A differentiable robot learning framework for task
+  specifications and controller synthesis."
+tags:
+  - neural-networks
+  - robot-learning
+  - signal-temporal-logic
+repo: https://github.com/mengyuest/stl_npc
+arxiv: https://arxiv.org/abs/2309.05131
+project_page: https://mit-realm.github.io/stl_mpc/
+date_added: 2026-04-09

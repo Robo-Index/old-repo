@@ -1,0 +1,11 @@
+title: SemSeg
+venue: RA-L
+year: 2024
+authors: []
+abstract: This letter addresses the challenge of open-set instance segmentation
+  (OSIS) which segments both known objects and unknown objects not seen in
+  training, and thus is essential for enabling robots to safely work in the real
+  world.
+tags: []
+repo: https://github.com/Yifei-Y/SemSeg
+date_added: 2026-04-09

@@ -1,0 +1,14 @@
+title: "[IEEE RA-L '25 + ICRA '26]"
+venue: RA-L
+year: 2026
+authors: []
+abstract: "MineInsight: A Multi-spectral Dataset for Humanitarian Demining
+  Robotics in Off-Road Environments"
+tags:
+  - dataset
+  - landmine-detection
+  - lidar
+  - multi-spectral-imaging
+  - off-road
+repo: https://github.com/mariomlz99/MineInsight
+date_added: 2026-04-09

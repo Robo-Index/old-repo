@@ -1,0 +1,9 @@
+title: Impact Echo Uncertainty Estimation
+venue: RA-L
+year: 2023
+authors: []
+abstract: This package is the implementation of our paper which shows how we can
+  use evidential deep learning to quantify uncertainty for impact echo.
+tags: []
+repo: https://github.com/ehoxha91/impact_echo_uncertainty_estimation
+date_added: 2026-04-09

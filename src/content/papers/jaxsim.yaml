@@ -1,0 +1,15 @@
+title: JaxSim
+venue: RA-L
+year: 2026
+authors: []
+abstract: A differentiable physics engine and multibody dynamics library for
+  control and robot learning.
+tags:
+  - aba
+  - ad
+  - automatic-differentiation
+  - crba
+  - dynamics
+repo: https://github.com/gbionics/jaxsim
+project_page: https://jaxsim.readthedocs.io/
+date_added: 2026-04-09

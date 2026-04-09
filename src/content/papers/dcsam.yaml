@@ -1,0 +1,15 @@
+title: dcsam
+venue: RA-L
+year: 2022
+authors: []
+abstract: Factored inference for discrete-continuous smoothing and mapping.
+tags:
+  - bayesian-inference
+  - cpp
+  - factor-graph
+  - graphical-models
+  - gtsam
+repo: https://github.com/MarineRoboticsGroup/dcsam
+arxiv: https://arxiv.org/abs/2204.11936
+project_page: https://arxiv.org/abs/2204.11936
+date_added: 2026-04-09

@@ -1,0 +1,12 @@
+title: "*Have We Scene It All?*"
+venue: RA-L
+year: 2025
+authors: []
+abstract: Official page for SGA-DPCC (Scene Graph-Aware Deep Point Cloud
+  Compression), accepted @ RA-L'25, to be presented @ ICRA'26
+tags:
+  - point-cloud-compression
+  - scene-graph
+repo: https://github.com/LTU-RAI/sga-dpcc
+arxiv: https://arxiv.org/abs/2510.08512
+date_added: 2026-04-09

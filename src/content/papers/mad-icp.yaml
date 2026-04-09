@@ -1,0 +1,12 @@
+title: Install using `pip`
+venue: RA-L
+year: 2024
+authors: []
+abstract: "Minimal, robust, accurate and real-time LiDAR odometry "
+tags:
+  - icp
+  - lidar
+  - odometry
+  - point-cloud
+repo: https://github.com/rvp-group/mad-icp
+date_added: 2026-04-09

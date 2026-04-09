@@ -1,0 +1,13 @@
+title: RGGNet
+venue: RA-L
+year: 2020
+authors: []
+abstract: '[RA-L 2020] Official Tensorflow Implementation for "RGGNet: Tolerance
+  Aware LiDAR-Camera Online Calibration with Geometric Deep Learning and
+  Generative Model",  IEEE Robotics and Automation Letters 5.'
+tags:
+  - autonomous-driving
+  - geometric-deep-learning
+  - lidar-camera-calibration
+repo: https://github.com/KleinYuan/RGGNet
+date_added: 2026-04-09

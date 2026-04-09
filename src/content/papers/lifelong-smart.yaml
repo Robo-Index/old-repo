@@ -1,0 +1,11 @@
+title: Lifelong Scalable Multi-Agent Realistic Testbed (LSMART)
+venue: RA-L
+year: 2025
+authors: []
+abstract: Official implementation of LSMART, an open-source simulator to
+  evaluate any lifelong Multi-Agent Path Finding algorithms with real-world
+  kinodynamics and execution uncertainties.
+tags: []
+repo: https://github.com/smart-mapf/lifelong-smart
+project_page: https://smart-mapf.github.io/lifelong-smart/
+date_added: 2026-04-09

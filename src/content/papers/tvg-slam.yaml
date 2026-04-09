@@ -1,0 +1,9 @@
+title: TVG-SLAM
+venue: RA-L
+year: 2025
+authors: []
+abstract: 'The official implementation of "TVG-SLAM: Robust Gaussian Splatting
+  SLAM with Tri-view Geometric Constraints"'
+tags: []
+repo: https://github.com/MagicTZ/TVG-SLAM
+date_added: 2026-04-09

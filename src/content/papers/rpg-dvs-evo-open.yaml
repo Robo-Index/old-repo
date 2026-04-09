@@ -1,0 +1,8 @@
+title: "EVO: Event based Visual Odometry"
+venue: RA-L
+year: 2021
+authors: []
+abstract: Implementation of EVO (RA-L 17)
+tags: []
+repo: https://github.com/uzh-rpg/rpg_dvs_evo_open
+date_added: 2026-04-09

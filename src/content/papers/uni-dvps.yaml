@@ -1,0 +1,10 @@
+title: Uni-DVPS (RA-L 2024)
+venue: RA-L
+year: 2024
+authors: []
+abstract: "[RA-L'24, IROS'24] Official PyTorch Implementation of \"Uni-DVPS:
+  Unified Model for Depth-Aware Video Panoptic Segmentation\""
+tags: []
+repo: https://github.com/kaist-ami/Uni-DVPS
+project_page: https://jiyeonk-info.github.io//uni-dvps
+date_added: 2026-04-09

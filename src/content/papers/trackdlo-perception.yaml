@@ -1,0 +1,13 @@
+title: trackdlo_perception
+venue: RA-L
+year: 2023
+authors: []
+abstract: ROS2 perception + preview for DLO tracking with RealSense
+tags:
+  - computer-vision
+  - deformable-objects
+  - perception
+  - point-cloud
+  - realsense
+repo: https://github.com/HayatoShimada/trackdlo_perception
+date_added: 2026-04-09

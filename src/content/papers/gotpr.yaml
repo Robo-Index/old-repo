@@ -1,0 +1,16 @@
+title: "GOTPR: General Outdoor Text-based Place Recognition Using Scene Graph
+  Retrieval with OpenStreetMap"
+venue: RA-L
+year: 2025
+authors: []
+abstract: "GOTPR: General Outdoor Text-based Place Recognition Using Scene Graph
+  Retrieval with OpenStreetMap"
+tags:
+  - graphtransformer
+  - localization
+  - openstreetmap
+  - osm
+  - scenegraph
+repo: https://github.com/donghwijung/GOTPR
+arxiv: https://arxiv.org/abs/2501.08575
+date_added: 2026-04-09

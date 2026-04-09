@@ -1,0 +1,15 @@
+title: KCP
+venue: RA-L
+year: 2021
+authors: []
+abstract: K-Closest Points and Maximum Clique Pruning for Efficient and
+  Effective 3-D Laser Scan Matching (RA-L 2022)
+tags:
+  - autonomous-vehicles
+  - data-association
+  - point-cloud-registration
+  - point-clouds
+  - scan-matching
+repo: https://github.com/StephLin/KCP
+project_page: https://stephlin.github.io/KCP/
+date_added: 2026-04-09

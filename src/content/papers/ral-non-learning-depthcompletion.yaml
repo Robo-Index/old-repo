@@ -1,0 +1,10 @@
+title: A Surface Geometry Model for LiDAR Depth Completion (IEEE RA-L)
+venue: RA-L
+year: 2021
+authors: []
+abstract: A non-learning geometry-based LiDAR depth completion model with
+  components including outlier removal, normal calculation, distance transform,
+  etc.
+tags: []
+repo: https://github.com/placeforyiming/RAL_Non-Learning_DepthCompletion
+date_added: 2026-04-09

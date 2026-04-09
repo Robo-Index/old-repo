@@ -1,0 +1,13 @@
+title: 9DTact 紧凑型视觉触觉传感器
+venue: RA-L
+year: 2025
+authors: []
+abstract: "9DTact: A Compact Vision-Based Tactile Sensor for Accurate 3D Shape
+  Reconstruction and Generalizable 6D Force Estimation (RAL & ICRA'24)"
+tags:
+  - sensor
+  - vision
+repo: https://github.com/Cle2ment/9DTact
+arxiv: https://arxiv.org/abs/2308.14277
+project_page: https://linchangyi1.github.io/9DTact/
+date_added: 2026-04-09

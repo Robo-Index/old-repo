@@ -1,0 +1,13 @@
+title: 3MT-RoadSeg
+venue: RA-L
+year: 2022
+authors: []
+abstract: Multi-Modal Multi-Task (3MT) Road Segmentation, IEEE RA-L 2023
+tags:
+  - depth-estimation
+  - multisensor-fusion
+  - multitask-learning
+  - road-detection
+  - road-segmentation
+repo: https://github.com/ErkanMilli/3MT-RoadSeg
+date_added: 2026-04-09

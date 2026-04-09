@@ -1,0 +1,9 @@
+title: kiss-icp-p2plane-encoder
+venue: RA-L
+year: 2026
+authors: []
+abstract: Modified KISS-ICP with point-to-plane registration and encoder-based
+  motion prediction for ROS 2
+tags: []
+repo: https://github.com/FernandoVaras/kiss-icp-p2plane-encoder
+date_added: 2026-04-09

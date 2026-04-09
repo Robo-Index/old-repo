@@ -1,0 +1,11 @@
+title: SOLiD
+venue: RA-L
+year: 2024
+authors: []
+abstract: SOTA LiDAR Global Descriptor in LiDAR Place Recognition (accepted in
+  RA-L'24 w/ ICRA'25)
+tags: []
+repo: https://github.com/sparolab/SOLiD
+arxiv: https://arxiv.org/abs/2408.07330
+project_page: https://sparolab.github.io/research/solid/
+date_added: 2026-04-09

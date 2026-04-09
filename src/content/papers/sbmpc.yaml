@@ -1,0 +1,9 @@
+title: Sampling-Based MPC
+venue: RA-L
+year: 2026
+authors: []
+abstract: A generic sampling-based MPC python library based on jax
+tags: []
+repo: https://github.com/tombelv/sbmpc
+arxiv: https://arxiv.org/abs/2506.14855
+date_added: 2026-04-09

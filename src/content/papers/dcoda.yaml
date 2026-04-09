@@ -1,0 +1,14 @@
+title: "D-CODA: Diffusion for Coordinated Dual-Arm Data Augmentation"
+venue: RA-L
+year: 2026
+authors: []
+abstract: "D-CODA: Diffusion for Coordinated Dual-Arm Data Augmentation (CoRL 2025)"
+tags:
+  - bimanual-manipulation
+  - data-augmentation
+  - diffusion-models
+  - robotic-manipulation
+repo: https://github.com/dcodaaug/dcoda
+arxiv: https://arxiv.org/abs/2505.04860
+project_page: https://dcodaaug.github.io/D-CODA/
+date_added: 2026-04-09

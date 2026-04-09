@@ -1,0 +1,9 @@
+title: Onboard Dynamic Object Detection and Tracking for Autonomous Mobile Robots
+venue: RA-L
+year: 2024
+authors: []
+abstract: "[IEEE RA-L'24] Dynamic Obstacle Detection and Tracking (DODT)
+  algorithm for Autonomous Robots (C++/ROS)"
+tags: []
+repo: https://github.com/Zhefan-Xu/onboard_detector
+date_added: 2026-04-09

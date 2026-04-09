@@ -1,0 +1,13 @@
+title: Flexible Multitask Learning with Factorized Diffusion Policy
+venue: RA-L
+year: 2026
+authors: []
+abstract: Flexible Multitask Learning with Factorized Diffusion Policy
+tags:
+  - compositional-generation
+  - diffusion-policy
+  - policy-learning
+repo: https://github.com/Chaoqi-LIU/fdp
+arxiv: https://arxiv.org/abs/2512.21898
+project_page: https://factorized-diffusion-policy.github.io
+date_added: 2026-04-09

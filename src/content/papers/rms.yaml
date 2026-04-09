@@ -1,0 +1,9 @@
+title: "RMS: Redundancy-Minimizing Point Cloud Sampling"
+venue: RA-L
+year: 2024
+authors: []
+abstract: 'Code for RA-L paper "RMS: Redundancy-Minimizing Point Cloud Sampling
+  for Real-Time Pose Estimation"'
+tags: []
+repo: https://github.com/ctu-mrs/RMS
+date_added: 2026-04-09

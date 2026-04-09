@@ -1,0 +1,9 @@
+title: SGM3D
+venue: RA-L
+year: 2022
+authors: []
+abstract: "[RA-L 2022] SGM3D: Stereo Guided Monocular 3D Object Detection"
+tags:
+  - object-detection
+repo: https://github.com/zhouzheyuan/sgm3d
+date_added: 2026-04-09
