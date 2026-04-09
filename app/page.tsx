@@ -24,9 +24,9 @@ export default function Home() {
       {/* Real visitor location dot */}
       <VisitorLocationLayer />
 
-      <div className="liquid-glass relative z-10 max-w-2xl w-full text-center space-y-10 rounded-2xl px-8 py-10">
+      <div className="relative z-10 max-w-2xl w-full text-center space-y-10">
         <div className="space-y-4">
-          <h1 className="text-5xl font-bold tracking-tight text-text-primary">
+          <h1 className="hero-title text-5xl font-bold tracking-tight text-text-primary">
             RoboIndex
           </h1>
           <p className="text-xl text-text-secondary font-light">

@@ -107,6 +107,11 @@ body {
   .city-nodes { display: none; }
 }
 
+/* ── Hero text legibility over map background ── */
+.hero-title {
+  text-shadow: 0 1px 12px var(--surface-0), 0 0 32px var(--surface-0);
+}
+
 /* ── Apple-style liquid glass ── */
 .liquid-glass {
   background: linear-gradient(

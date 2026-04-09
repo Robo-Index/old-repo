@@ -21,9 +21,10 @@ export default function WorldMapBackground() {
     >
       <defs>
         {/* Radial mask: transparent in center (behind text), opaque at edges */}
-        <radialGradient id="mapFade" cx="50%" cy="50%" r="60%">
-          <stop offset="0%"   stopColor="white" stopOpacity="0.05" />
-          <stop offset="45%"  stopColor="white" stopOpacity="0.4"  />
+        <radialGradient id="mapFade" cx="50%" cy="50%" r="55%">
+          <stop offset="0%"   stopColor="white" stopOpacity="0"    />
+          <stop offset="30%"  stopColor="white" stopOpacity="0.08" />
+          <stop offset="60%"  stopColor="white" stopOpacity="0.55" />
           <stop offset="100%" stopColor="white" stopOpacity="1"    />
         </radialGradient>
         <mask id="mapMask">
