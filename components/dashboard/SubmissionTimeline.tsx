@@ -9,21 +9,15 @@ interface Stage {
   note?: string
 }
 
-const sourceColor: Record<string, string> = {
-  official: 'bg-blue-500',
-  guide: 'bg-violet-500',
-  community: 'bg-amber-500',
-}
-
 const sourceLabel: Record<string, string> = {
-  official: 'IEEE Official',
+  official: 'Official',
   guide: 'Guide',
   community: 'Community',
 }
 
 export default function SubmissionTimeline({ stages }: { stages: Stage[] }) {
-  const totalMin = stages.reduce((s, st) => s + st.duration_min, 0)
   const totalMax = stages.reduce((s, st) => s + st.duration_max, 0)
+  const totalMin = stages.reduce((s, st) => s + st.duration_min, 0)
 
   return (
     <div>
@@ -32,40 +26,30 @@ export default function SubmissionTimeline({ stages }: { stages: Stage[] }) {
         Total ~{Math.round(totalMin / 30)}–{Math.round(totalMax / 30)} months · Official guarantee ≤ 6 months
       </p>
 
-      {/* Timeline table */}
       <div className="space-y-2">
         {stages.map((stage, i) => {
           const days = stage.duration_min === stage.duration_max
-            ? `${stage.duration_min} days`
-            : `${stage.duration_min}–${stage.duration_max} days`
+            ? `${stage.duration_min}d`
+            : `${stage.duration_min}–${stage.duration_max}d`
 
           return (
-            <div key={i} className="flex items-center gap-4 py-2 border-b border-border-light/40 last:border-0">
-              {/* Stage name */}
-              <div className="w-36 shrink-0">
-                <span className="text-sm text-text-primary font-medium">{stage.name}</span>
+            <div key={i} className="flex items-center gap-2 sm:gap-4 py-2 border-b border-border-light/40 last:border-0">
+              <div className="w-24 sm:w-32 shrink-0 text-right">
+                <span className="text-xs sm:text-sm text-text-secondary">{stage.name}</span>
               </div>
-
-              {/* Duration bar */}
-              <div className="flex-1">
-                <div className="flex items-center gap-3">
-                  <div
-                    className={`h-6 rounded ${sourceColor[stage.source]} opacity-75 flex items-center px-2.5`}
-                    style={{ width: `${Math.max((stage.duration_max / totalMax) * 100, 12)}%` }}
-                  >
-                    <span className="text-[11px] font-medium text-white whitespace-nowrap">{days}</span>
-                  </div>
-
-                  {/* Source + note inline */}
-                  <div className="flex items-center gap-2 shrink-0">
-                    <span className="text-[10px] text-text-muted">{sourceLabel[stage.source]}</span>
-                    {stage.note && (
-                      <span className="text-[10px] font-semibold text-red-500 bg-red-50 px-1.5 py-0.5 rounded">
-                        {stage.note}
-                      </span>
-                    )}
-                  </div>
+              <div className="flex-1 flex items-center gap-2">
+                <div
+                  className="h-6 rounded bg-accent-400 flex items-center px-2"
+                  style={{ width: `${Math.max((stage.duration_max / totalMax) * 100, 15)}%` }}
+                >
+                  <span className="text-[10px] sm:text-[11px] font-medium text-white whitespace-nowrap">{days}</span>
                 </div>
+                <span className="text-[10px] text-text-muted hidden sm:inline">{sourceLabel[stage.source]}</span>
+                {stage.note && (
+                  <span className="text-[10px] font-semibold text-accent-600 bg-accent-500/10 px-1.5 py-0.5 rounded whitespace-nowrap">
+                    {stage.note}
+                  </span>
+                )}
               </div>
             </div>
           )
