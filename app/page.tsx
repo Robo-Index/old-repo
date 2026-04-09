@@ -15,12 +15,20 @@ export default function Home() {
           <p className="text-xl text-text-secondary font-light">
             Structured robotics research paper data
           </p>
+          <div className="flex justify-center gap-2 pt-1">
+            <span className="px-3 py-1 rounded-full text-xs font-medium bg-accent-50 text-accent-600 border border-accent-200">
+              RA-L
+            </span>
+            <span className="px-3 py-1 rounded-full text-xs font-medium bg-surface-2 text-text-muted border border-border-light">
+              more venues coming soon
+            </span>
+          </div>
         </div>
 
         <div className="flex justify-center gap-8 text-sm text-text-muted">
           <span>{papers.length} papers</span>
           <span className="text-border">|</span>
-          <span>{withRepo} with repos</span>
+          <span>{withRepo} open-source repos</span>
         </div>
 
         <div className="flex flex-col items-center gap-4 pt-2">
@@ -31,12 +39,6 @@ export default function Home() {
             Browse papers
             <span aria-hidden="true">&rarr;</span>
           </Link>
-          <a
-            href="/api/papers.json"
-            className="text-sm text-text-muted hover:text-accent-600 transition-colors duration-200"
-          >
-            /api/papers.json
-          </a>
         </div>
       </div>
     </main>

@@ -19,8 +19,12 @@ export default function PapersPage() {
           Papers
         </h1>
         <p className="mt-2 text-text-secondary">
-          {papers.length} robotics research papers with open-source code
+          {papers.length} open-source RA-L papers with GitHub repos
         </p>
+        <div className="mt-2 flex items-center gap-2">
+          <span className="px-2 py-0.5 rounded text-[11px] font-medium bg-accent-50 text-accent-600 border border-accent-200">RA-L</span>
+          <span className="text-xs text-text-muted">2020–2026 · open-source only</span>
+        </div>
       </div>
       <PapersPageClient
         papers={papers}

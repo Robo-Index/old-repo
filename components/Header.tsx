@@ -9,12 +9,6 @@ export default function Header() {
         </Link>
         <nav className="flex items-center gap-8">
           <Link
-            href="/showcase"
-            className="text-sm text-text-secondary hover:text-text-primary transition-colors duration-200"
-          >
-            Showcase
-          </Link>
-          <Link
             href="/papers"
             className="text-sm text-text-secondary hover:text-text-primary transition-colors duration-200"
           >
@@ -38,12 +32,6 @@ export default function Header() {
           >
             Dashboard
           </Link>
-          <a
-            href="/api/papers.json"
-            className="text-sm text-text-secondary hover:text-text-primary transition-colors duration-200"
-          >
-            API
-          </a>
         </nav>
       </div>
     </header>
