@@ -21,6 +21,9 @@ export default function Header() {
           <Link href="/dashboard" className="text-xs sm:text-sm text-text-secondary hover:text-text-primary transition-colors whitespace-nowrap">
             Dashboard
           </Link>
+          <Link href="/contribute" className="text-xs sm:text-sm text-text-secondary hover:text-text-primary transition-colors whitespace-nowrap">
+            Contribute
+          </Link>
           <ThemeToggle />
         </nav>
       </div>
