@@ -16,9 +16,8 @@
   --text-muted: #8a8a8a;
 }
 
-/* Dark mode */
-@media (prefers-color-scheme: dark) {
-  :root {
+/* Dark mode (class-based, toggled by ThemeToggle) */
+.dark {
     --surface-0: #111111;
     --surface-1: #1a1a1a;
     --surface-2: #222222;
@@ -27,7 +26,6 @@
     --text-primary: #e8e8e8;
     --text-secondary: #a0a0a0;
     --text-muted: #666666;
-  }
 }
 
 body {
