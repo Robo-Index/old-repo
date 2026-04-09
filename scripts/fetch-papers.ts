@@ -8,11 +8,33 @@ const TODAY = new Date().toISOString().slice(0, 10)
 const DELAY_MS = 2500 // 2.5s between requests (GitHub Search: 30 req/min)
 
 const SEARCH_QUERIES = [
+  // Direct mention
   '"RA-L" in:readme',
   '"Robotics and Automation Letters" in:readme',
   '"IEEE Robotics and Automation Letters" in:readme',
   '"RA-L" in:description',
   '"Robotics and Automation Letters" in:description',
+  // BibTeX journal field
+  '"journal={IEEE Robotics and Automation Letters}" in:readme',
+  '"journal = {IEEE Robotics and Automation Letters}" in:readme',
+  // Accepted/published phrasing variants
+  '"accepted to RA-L" in:readme',
+  '"published in RA-L" in:readme',
+  '"accepted by RA-L" in:readme',
+  '"RA-L 2024" in:readme',
+  '"RA-L 2025" in:readme',
+  '"RA-L 2026" in:readme',
+  '"RA-L 2023" in:readme',
+  '"RA-L 2022" in:readme',
+  '"RA-L 2021" in:readme',
+  '"RA-L 2020" in:readme',
+  // Topic-based
+  'topic:ra-l',
+  'topic:ral',
+  'topic:robotics-and-automation-letters',
+  // With ICRA/IROS transfer mention
+  '"RA-L" "ICRA" in:readme',
+  '"RA-L" "IROS" in:readme',
 ]
 
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN })
@@ -275,7 +297,7 @@ async function main() {
           readme
         )
 
-        if (score < 4) {
+        if (score < 3) {
           lowScore++
           continue
         }

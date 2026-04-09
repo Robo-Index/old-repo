@@ -24,7 +24,7 @@ The platform is designed to be **agent-friendly** and provide structured data fo
 
 ## Data
 
-- 26 paper YAML files in `src/content/papers/`
+- 520+ paper YAML files in `src/content/papers/`
 - Fields: title, venue, year, authors, abstract, tags, repo, project_page, arxiv, pdf, date_added
 
 # Core Features
