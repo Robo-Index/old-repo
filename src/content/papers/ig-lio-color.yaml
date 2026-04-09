@@ -1,0 +1,10 @@
+title: iG-LIO-color
+venue: RA-L
+year: 2024
+authors: []
+abstract: This work proposes an incremental Generalized Iterative Closest Point
+  (GICP) based tightly-coupled LiDAR-inertial odometry (LIO), iG-LIO, which
+  addresses the challenges of integrating GICP into real-time LIO.
+tags: []
+repo: https://github.com/piluohong/IG-lio-color
+date_added: 2026-04-09

@@ -1,0 +1,12 @@
+title: "Open-Structure: Structural Benchmark Dataset for SLAM Algorithms  （RA-L 2024）"
+venue: RA-L
+year: 2024
+authors: []
+abstract: "*This paper introduces a new benchmark dataset, Open-Structure, for
+  evaluating visual odometry and SLAM methods, which directly equips point and
+  line measurements, correspondences, structural associations, and co-visibility
+  factor graphs instead of providing raw images."
+tags:
+  - slam
+repo: https://github.com/yanyan-li/Open-Structure
+date_added: 2026-04-09

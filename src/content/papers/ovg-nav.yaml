@@ -1,0 +1,9 @@
+title: "OVG-Nav: Commonsense-Aware Object Value Graph for Object Goal Navigation"
+venue: RA-L
+year: 2024
+authors: []
+abstract: Object goal navigation (ObjectNav) is the task of finding a target
+  object in an unseen environment.
+tags: []
+repo: https://github.com/Hwiyeon/OVG-Nav
+date_added: 2026-04-09

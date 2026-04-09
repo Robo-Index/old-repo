@@ -1,0 +1,16 @@
+title: Single-gpu testing
+venue: RA-L
+year: 2024
+authors: []
+abstract: "[IEEE RAL'24 & IROS'24]  Mobile-Seed: Joint Semantic Segmentation and
+  Boundary Detection for Mobile Robots"
+tags:
+  - boundary-detection
+  - dual-task-learning
+  - realtime-segmentation
+  - robot-vision
+  - semantic-segmentation
+repo: https://github.com/WHU-USI3DV/Mobile-Seed
+arxiv: https://arxiv.org/abs/2311.12651
+project_page: https://whu-usi3dv.github.io/Mobile-Seed/
+date_added: 2026-04-09
