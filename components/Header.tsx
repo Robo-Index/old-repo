@@ -27,6 +27,12 @@ export default function Header() {
             Guides
           </Link>
           <Link
+            href="/ral-skill"
+            className="text-sm text-violet-500 hover:text-violet-600 transition-colors duration-200 font-medium"
+          >
+            ral.skill
+          </Link>
+          <Link
             href="/dashboard"
             className="text-sm text-text-secondary hover:text-text-primary transition-colors duration-200"
           >
