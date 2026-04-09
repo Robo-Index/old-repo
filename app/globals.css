@@ -60,13 +60,13 @@ body {
 
 /* ── World map background animations ── */
 .world-map-svg {
-  opacity: 0.14;
+  opacity: 0.28;
   animation: mapPulse 8s ease-in-out infinite;
 }
 
 @keyframes mapPulse {
-  0%, 100% { opacity: 0.14; }
-  50%       { opacity: 0.22; }
+  0%, 100% { opacity: 0.28; }
+  50%       { opacity: 0.42; }
 }
 
 .dark .world-map-svg {
@@ -74,8 +74,8 @@ body {
 }
 
 @keyframes mapPulseDark {
-  0%, 100% { opacity: 0.18; }
-  50%       { opacity: 0.28; }
+  0%, 100% { opacity: 0.35; }
+  50%       { opacity: 0.52; }
 }
 
 /* City node pulse rings */

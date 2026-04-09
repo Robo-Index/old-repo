@@ -20,7 +20,7 @@ export default function WorldMapBackground() {
       aria-hidden="true"
     >
       {/* ── Continental outlines ── */}
-      <g fill="none" stroke="currentColor" strokeWidth="0.6" strokeLinejoin="round" strokeLinecap="round">
+      <g fill="none" stroke="currentColor" strokeWidth="1.2" strokeLinejoin="round" strokeLinecap="round">
 
         {/* North America */}
         <path d="
