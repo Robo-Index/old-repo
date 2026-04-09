@@ -32,7 +32,7 @@ export default function WorldMapBackground() {
       </defs>
 
       {/* ── Continental outlines ── */}
-      <g mask="url(#mapMask)" fill="none" stroke="currentColor" strokeWidth="0.8" strokeLinejoin="round" strokeLinecap="round">
+      <g mask="url(#mapMask)" fill="none" stroke="currentColor" strokeWidth="1.4" strokeLinejoin="round" strokeLinecap="round">
 
         {/* North America */}
         <path d="
