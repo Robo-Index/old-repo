@@ -90,6 +90,18 @@ body {
   100% { transform: scale(4); opacity: 0;   }
 }
 
+/* Visitor real-location pulse — faster & brighter than city nodes */
+.visitor-pulse {
+  transform-origin: center;
+  transform-box: fill-box;
+  animation: visitorPulse 1.6s ease-out infinite;
+}
+
+@keyframes visitorPulse {
+  0%   { transform: scale(1);   opacity: 1; }
+  100% { transform: scale(5);   opacity: 0; }
+}
+
 /* Hide city nodes on mobile */
 @media (max-width: 639px) {
   .city-nodes { display: none; }

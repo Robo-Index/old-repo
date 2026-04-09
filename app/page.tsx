@@ -2,6 +2,7 @@ import Link from 'next/link'
 import { getAllPapers } from '@/src/lib/papers'
 import WorldMapBackground from '@/components/WorldMapBackground'
 import VisitorCount from '@/components/VisitorCount'
+import VisitorLocationLayer from '@/components/VisitorLocationLayer'
 
 const venues = [
   { name: 'RA-L', live: true, color: 'bg-accent-500', text: 'text-white', border: '' },
@@ -20,6 +21,8 @@ export default function Home() {
     <main className="relative overflow-hidden min-h-[calc(100vh-4rem)] flex flex-col items-center justify-center px-6">
       {/* Decorative world map background */}
       <WorldMapBackground />
+      {/* Real visitor location dot */}
+      <VisitorLocationLayer />
 
       <div className="relative z-10 max-w-2xl w-full text-center space-y-10">
         <div className="space-y-4">
