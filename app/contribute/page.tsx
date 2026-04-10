@@ -12,7 +12,7 @@ const ways = [
       'Submit via GitHub Issue or PR to the guides/ directory',
       'We\'ll review and add it to the Guides page',
     ],
-    link: 'https://github.com/Robo-Index/RoboIndex.github.io/issues/new?title=Submission+Experience&labels=guide',
+    link: 'https://github.com/Robo-Index/Robo-Index.github.io/issues/new?title=Submission+Experience&labels=guide',
     linkLabel: 'Share experience →',
   },
   {
@@ -34,7 +34,7 @@ const ways = [
       'Skill issues → ral-skill repo',
       'Feature requests welcome!',
     ],
-    link: 'https://github.com/Robo-Index/RoboIndex.github.io/issues',
+    link: 'https://github.com/Robo-Index/Robo-Index.github.io/issues',
     linkLabel: 'Open an issue →',
   },
 ]
@@ -127,7 +127,7 @@ export default function ContributePage() {
       {/* Footer links */}
       <div className="text-center pt-8 border-t border-border-light">
         <p className="text-sm text-text-muted">
-          <a href="https://github.com/Robo-Index/RoboIndex.github.io" target="_blank" rel="noopener noreferrer" className="text-accent-500 hover:underline">RoboIndex</a>
+          <a href="https://github.com/Robo-Index/Robo-Index.github.io" target="_blank" rel="noopener noreferrer" className="text-accent-500 hover:underline">RoboIndex</a>
           {' · '}
           <a href="https://github.com/fly-pigTH/ral-skill" target="_blank" rel="noopener noreferrer" className="text-accent-500 hover:underline">ral.skill</a>
           {' · MIT License'}
