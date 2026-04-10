@@ -1,0 +1,14 @@
+title: OpenCDA-MARL
+venue: RA-L
+year: 2026
+authors: []
+abstract: A unified benchmarking framework for cooperative autonomous driving
+  with Multi-Agent Reinforcement Learning (MARL) capabilities, extending
+  OpenCDA's full-stack simulation platform with distributed training
+  infrastructure for intelligent multi-agent driving policies under CARLA+SUMO
+  co-simulation.
+tags: []
+repo: https://github.com/radar-lab/OpenCDA-MARL
+arxiv: https://arxiv.org/abs/2107.06260
+project_page: https://radar-lab.github.io/OpenCDA-MARL/
+date_added: 2026-04-10

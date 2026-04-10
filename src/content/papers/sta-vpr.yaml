@@ -1,0 +1,11 @@
+title: STA-VPR
+venue: RA-L
+year: 2021
+authors: []
+abstract: 'This repository contains code for our RA-L & ICRA2021 paper "STA-VPR:
+  Spatio-temporal Alignment for Visual Place Recognition" by Feng Lu, Baifan
+  Chen, Xiang-Dong Zhou, and Dezhen Song.'
+tags: []
+repo: https://github.com/Lu-Feng/STA-VPR
+arxiv: https://arxiv.org/abs/2103.13580
+date_added: 2026-04-10

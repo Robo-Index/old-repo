@@ -1,0 +1,14 @@
+title: Unsupervised Depth Completion from Visual Inertial Odometry
+venue: RA-L
+year: 2020
+authors: []
+abstract: Tensorflow and PyTorch implementation of Unsupervised Depth Completion
+  from Visual Inertial Odometry (in RA-L January 2020 & ICRA 2020)
+tags:
+  - 3d-reconstruction
+  - 3d-vision
+  - computer-vision
+  - depth
+  - depth-completion
+repo: https://github.com/alexklwong/unsupervised-depth-completion-visual-inertial-odometry
+date_added: 2026-04-10

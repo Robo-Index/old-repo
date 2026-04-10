@@ -1,0 +1,15 @@
+title: "SpatialPillar-IUC: Spatially-Enhanced Radar 3D Object Detection"
+venue: RA-L
+year: 2023
+authors: []
+abstract: Spatially-enhanced radar-only 3D object detection with geometric
+  features, velocity-aware attention, and deformable convolutions on
+  View-of-Delft dataset.
+tags:
+  - 3d-object-detection
+  - 4d-radar
+  - autonomous-driving
+  - point-cloud
+repo: https://github.com/fthbng77/SpatialPillar-IUC
+arxiv: https://arxiv.org/abs/2408.05020
+date_added: 2026-04-10

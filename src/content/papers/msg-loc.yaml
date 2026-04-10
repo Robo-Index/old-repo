@@ -1,0 +1,11 @@
+title: MSG-Loc
+venue: RA-L
+year: 2026
+authors: []
+abstract: "[IEEE RA-L'26] This repository is the official code for MSG-Loc:
+  Multi-Label Likelihood-based Semantic Graph Matching for Object-Level Global
+  Localization"
+tags: []
+repo: https://github.com/sparolab/MSG-Loc
+project_page: https://sparolab.github.io/research/msg-loc/
+date_added: 2026-04-10

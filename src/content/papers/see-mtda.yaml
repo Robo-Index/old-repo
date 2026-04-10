@@ -1,0 +1,15 @@
+title: SEE-MTDA
+venue: RA-L
+year: 2022
+authors: []
+abstract: Sampling discrepancies between different manufacturers and models of
+  lidar sensors result in inconsistent representations of objects.
+tags:
+  - 3d-object-detection
+  - autonomous-driving
+  - computer-vision
+  - object-detection
+  - surface-completion
+repo: https://github.com/darrenjkt/SEE-MTDA
+arxiv: https://arxiv.org/abs/2111.09450
+date_added: 2026-04-10

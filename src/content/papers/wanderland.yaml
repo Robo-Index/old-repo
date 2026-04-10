@@ -1,0 +1,17 @@
+title: "[CVPR 2026]Wanderland: Geometrically Grounded Simulation for Open-World
+  Embodied AI"
+venue: RA-L
+year: 2025
+authors: []
+abstract: "[CVPR 2026] Wanderland: Geometrically Grounded Simulation for
+  Open-World Embodied AI"
+tags:
+  - 3d-reconstruction
+  - datasets
+  - embodied-ai
+  - gaussian-splatting
+  - issac-sim
+repo: https://github.com/ai4ce/wanderland
+arxiv: https://arxiv.org/abs/2511.20620
+project_page: https://ai4ce.github.io/wanderland/
+date_added: 2026-04-10

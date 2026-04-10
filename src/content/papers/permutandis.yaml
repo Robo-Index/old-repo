@@ -1,0 +1,11 @@
+title: Building the MCTS C++ solver
+venue: RA-L
+year: 2020
+authors: []
+abstract: MCTS planning code for "Monte-Carlo Tree Search for Efficient Visually
+  Guided Rearrangement Planning", RA-L 2020.
+tags: []
+repo: https://github.com/yannlabb/permutandis
+arxiv: https://arxiv.org/abs/1904.10348
+project_page: https://yannlabb.github.io/rearrangement-planning/index.html
+date_added: 2026-04-10

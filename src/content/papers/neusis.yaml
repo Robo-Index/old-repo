@@ -1,0 +1,18 @@
+title: "NEUSIS: A Compositional Neuro-Symbolic Framework for Autonomous
+  Perception, Reasoning, and Planning in Complex UAV Search Missions"
+venue: RA-L
+year: 2025
+authors: []
+abstract: This paper addresses the problem of autonomous UAV search missions,
+  where a UAV must locate specific Entities of Interest (EOIs) within a time
+  limit, based on brief descriptions in large, hazard-prone environments with
+  keep-out zones.
+tags:
+  - airsim
+  - drone
+  - uav
+  - unreal-engine
+repo: https://github.com/ControlNet/NEUSIS
+arxiv: https://arxiv.org/abs/2409.10196
+project_page: https://arxiv.org/abs/2409.10196
+date_added: 2026-04-10

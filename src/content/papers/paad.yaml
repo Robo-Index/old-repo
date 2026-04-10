@@ -1,0 +1,12 @@
+title: PAAD
+venue: RA-L
+year: 2022
+authors: []
+abstract: Despite the rapid advancement of navigation algorithms, mobile robots
+  often produce anomalous behaviors that can lead to navigation failures.
+tags:
+  - anomaly-detection
+  - perceptron-learning-algorithm
+  - sensor-fusion
+repo: https://github.com/tianchenji/PAAD
+date_added: 2026-04-10

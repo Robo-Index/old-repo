@@ -1,0 +1,15 @@
+title: "REACT3D: Recovering Articulations for Interactive Physical 3D Scenes"
+venue: RA-L
+year: 2026
+authors: []
+abstract: '[RA-L 2026] Source code of the paper "REACT3D: Recovering
+  Articulations for Interactive Physical 3D Scenes"'
+tags:
+  - 3d-vision
+  - articulation
+  - interactive-scenes
+  - scene-understanding
+repo: https://github.com/troyehuang/REACT3D
+arxiv: https://arxiv.org/abs/2510.11340
+project_page: https://react3d.github.io/
+date_added: 2026-04-10

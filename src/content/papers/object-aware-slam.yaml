@@ -1,0 +1,15 @@
+title: Object-Aware-SLAM
+venue: RA-L
+year: 2022
+authors: []
+abstract: This is the open source of my first paper
+  《Object-Aware  SLAM  Based  on  Efficient  Quadric  Initialization  and
+  Joint  Data  Association》, which has been accepted by RA-L & IROS 2022.
+tags:
+  - association
+  - initialization
+  - object
+  - quadric
+  - semantic
+repo: https://github.com/zhenzhongcao/Object-Aware-SLAM
+date_added: 2026-04-10

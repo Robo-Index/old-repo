@@ -1,0 +1,11 @@
+title: Meta-RangeSeg
+venue: RA-L
+year: 2022
+authors: []
+abstract: 'The official implementation of "Meta-RangeSeg: LiDAR Sequence
+  Semantic Segmentation Using Multiple Feature Aggregation"  (RA-L with IROS
+  2022)'
+tags: []
+repo: https://github.com/songw-zju/Meta-RangeSeg
+arxiv: https://arxiv.org/abs/2202.13377
+date_added: 2026-04-10

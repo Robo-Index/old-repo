@@ -1,0 +1,10 @@
+title: Multi-robot Object SLAM with Distributed Variational Inference
+venue: RA-L
+year: 2024
+authors: []
+abstract: Code for RA-L paper "Multi-Robot Object SLAM using Distributed
+  Variational Inference"
+tags: []
+repo: https://github.com/hwcao17/distributed_msckf
+arxiv: https://arxiv.org/abs/2404.18331
+date_added: 2026-04-10

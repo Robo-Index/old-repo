@@ -1,0 +1,11 @@
+title: Combining Events and Frames using Recurrent Asynchronous Multimodal
+  Networks for Monocular Depth Prediction
+venue: RA-L
+year: 2021
+authors: []
+abstract: Code and datasets for the paper "Combining Events and Frames using
+  Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction"
+  (RA-L, 2021)
+tags: []
+repo: https://github.com/uzh-rpg/rpg_ramnet
+date_added: 2026-04-10

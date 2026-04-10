@@ -1,0 +1,16 @@
+title: Mars Sample Localization
+venue: RA-L
+year: 2022
+authors: []
+abstract: "[RA-L 2022] Hardware-accelerated Mars Sample Localization via deep
+  transfer learning from photorealistic simulations"
+tags:
+  - google-coral
+  - neural-network
+  - object-detection
+  - opencv
+  - transfer-learning
+repo: https://github.com/spaceuma/MarsSampleLocalization
+arxiv: https://arxiv.org/abs/2206.02622
+project_page: https://doi.org/10.1109/LRA.2022.3219306
+date_added: 2026-04-10

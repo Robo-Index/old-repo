@@ -1,0 +1,10 @@
+title: fastdlo
+venue: RA-L
+year: 2022
+authors: []
+abstract: In this paper, an approach for fast and accurate segmentation of
+  Deformable Linear Objects (DLOs) named FASTDLO is presented.
+tags:
+  - publication
+repo: https://github.com/lar-unibo/fastdlo
+date_added: 2026-04-10

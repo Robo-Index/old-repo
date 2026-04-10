@@ -1,0 +1,12 @@
+title: DifferentiableAdaptiveGames.jl
+venue: RA-L
+year: 2023
+authors: []
+abstract: "RA-L 2023: Learning to Play Trajectory Games Against Opponents with
+  Unknown Objectives: A differentiable adaptive game-theoretic planner that
+  jointly infers players' objectives and solves for generalized Nash equilibrium
+  trajectories, enabled by differentiating through a trajectory game solver."
+tags: []
+repo: https://github.com/xinjie-liu/DifferentiableAdaptiveGames.jl
+arxiv: https://arxiv.org/abs/2211.13779
+date_added: 2026-04-10

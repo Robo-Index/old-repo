@@ -1,0 +1,16 @@
+title: "MapEval: Towards Unified, Robust and Efficient SLAM Map Evaluation Framework"
+venue: RA-L
+year: 2025
+authors: []
+abstract: "[RAL' 25 & IROS‘ 25] MapEval: Towards Unified, Robust and Efficient
+  SLAM Map Evaluation Framework."
+tags:
+  - evaluation-metrics
+  - lidar-point-cloud
+  - map-evaluation
+  - open3d
+  - pointcloud-registration
+repo: https://github.com/JokerJohn/Cloud_Map_Evaluation
+arxiv: https://arxiv.org/abs/2505.10018
+project_page: https://ieeexplore.ieee.org/document/10910156
+date_added: 2026-04-10

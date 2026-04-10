@@ -1,0 +1,13 @@
+title: BDEdepth
+venue: RA-L
+year: 2023
+authors: []
+abstract: "[IEEE RA-L 2023] Towards Better Data Exploitation In Self-Supervised
+  Monocular Depth Estimation"
+tags:
+  - data-augmentation-strategies
+  - monocular-depth-estimation
+  - self-supervised-learning
+repo: https://github.com/LiuJF1226/BDEdepth
+arxiv: https://arxiv.org/abs/2309.05254
+date_added: 2026-04-10

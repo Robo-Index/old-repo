@@ -1,0 +1,15 @@
+title: pyribs
+venue: RA-L
+year: 2023
+authors: []
+abstract: A bare-bones Python library for quality diversity optimization.
+tags:
+  - artificial-intelligence
+  - cma-es
+  - evolutionary-algorithms
+  - evolutionary-computation
+  - llms
+repo: https://github.com/icaros-usc/pyribs
+arxiv: https://arxiv.org/abs/2012.04322
+project_page: https://pyribs.org
+date_added: 2026-04-10

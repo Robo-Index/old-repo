@@ -1,0 +1,13 @@
+title: Manhattan World Max Stabbing (MWMS)
+venue: RA-L
+year: 2022
+authors: []
+abstract: 'Sample code and supplementary materials of IEEE Robotics and
+  Automation Letters (RA-L) with ICRA 2022 paper: "Quasi-globally Optimal and
+  Real-time Visual Compass in Manhattan Structured Environments"'
+tags:
+  - camera
+  - slam
+  - visual-odometry
+repo: https://github.com/PyojinKim/MWMS
+date_added: 2026-04-10

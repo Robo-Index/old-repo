@@ -1,0 +1,15 @@
+title: Urban Traversability Dataset
+venue: RA-L
+year: 2024
+authors: []
+abstract: "The dataset for the paper 'Learning self-supervised traversability
+  with navigation experiences of mobile robots: A risk-aware self-training
+  approach (IEEE RA-L)'"
+tags:
+  - pseudo-labeling
+  - robotic-perception
+  - rosbag
+  - self-supervised-learning
+  - traversability-learning
+repo: https://github.com/Ikhyeon-Cho/urban-traversability-dataset
+date_added: 2026-04-10

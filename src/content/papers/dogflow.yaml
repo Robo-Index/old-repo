@@ -1,0 +1,15 @@
+title: "DoGFlow: Self-Supervised LiDAR Scene Flow via Cross-Modal Doppler Guidance"
+venue: RA-L
+year: 2026
+authors: []
+abstract: "[RA-L '26] DoGFlow: Self-Supervised LiDAR Scene Flow via Cross-Modal
+  Doppler Guidance"
+tags:
+  - autonomous-driving
+  - scene-flow
+  - scene-flow-estimation
+  - self-supervised-learning
+repo: https://github.com/ajinkyakhoche/DoGFlow
+arxiv: https://arxiv.org/abs/2508.18506
+project_page: https://ajinkyakhoche.github.io/DoGFlow/
+date_added: 2026-04-10

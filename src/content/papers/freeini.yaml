@@ -1,0 +1,10 @@
+title: Free-Init
+venue: RA-L
+year: 2024
+authors: []
+abstract: "This is the code repository for the IEEE-RAL'24 paper \"Free-Init:
+  Scan-Free, Motion-Free, and Correspondence-Free Initialization for FMCW
+  LiDAR-Inertial Systems, IEEE Robotics and Automation Letters (RA-L),\""
+tags: []
+repo: https://github.com/IMRL/FreeIni
+date_added: 2026-04-10

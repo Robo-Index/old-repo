@@ -1,0 +1,14 @@
+title: "360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation"
+venue: RA-L
+year: 2022
+authors: []
+abstract: "[RA-L'22] 360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor
+  Plan Estimation"
+tags:
+  - "360"
+  - 360-camera
+  - floorplan
+repo: https://github.com/EnriqueSolarte/direct_360_FPE
+arxiv: https://arxiv.org/abs/2112.06180
+project_page: https://enriquesolarte.github.io/360-dfpe/
+date_added: 2026-04-10

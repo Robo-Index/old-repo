@@ -1,0 +1,13 @@
+title: KAIST VIO dataset (RA-L'21 w/ ICRA Option)
+venue: RA-L
+year: 2020
+authors: []
+abstract: "\"Visual-Inertial Dataset\" (RA-L'21 with ICRA'21):  it contains
+  harsh motions for VO/VIO, like pure rotation or fast rotation with various
+  motion types."
+tags:
+  - visual-inertial-odometry
+  - visual-odometry
+repo: https://github.com/url-kaist/kaistviodataset
+arxiv: https://arxiv.org/abs/2103.01655
+date_added: 2026-04-10

@@ -1,0 +1,14 @@
+title: Struct-MDC
+venue: RA-L
+year: 2022
+authors: []
+abstract: Official page of Struct-MDC (RA-L'22 with IROS'22); Depth completion
+  from Visual-SLAM using point & line features
+tags:
+  - depth-completion
+  - mapping
+  - visual-slam
+  - visual-slam-learning
+repo: https://github.com/url-kaist/Struct-MDC
+arxiv: https://arxiv.org/abs/2204.13877
+date_added: 2026-04-10

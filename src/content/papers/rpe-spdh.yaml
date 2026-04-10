@@ -1,0 +1,10 @@
+title: Semi-Perspective Decoupled Heatmaps for 3D Robot Pose Estimation from
+  Depth Maps
+venue: RA-L
+year: 2022
+authors: []
+abstract: 'PyTorch code for IEEE RA-L paper: "Semi-Perspective Decoupled
+  Heatmaps for 3D Robot Pose Estimation from Depth Maps"'
+tags: []
+repo: https://github.com/aimagelab/rpe_spdh
+date_added: 2026-04-10

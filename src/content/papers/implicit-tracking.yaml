@@ -1,0 +1,14 @@
+title: Implicit Tracking
+venue: RA-L
+year: 2022
+authors: []
+abstract: Online Adaptation for Implicit Object Tracking and Shape
+  Reconstruction in the Wild, RA-L 2022
+tags:
+  - 3d-tracking
+  - computer-vision
+  - neural-implicit-representations
+repo: https://github.com/jianglongye/implicit-tracking
+arxiv: https://arxiv.org/abs/2111.12728
+project_page: https://jianglongye.com/implicit-tracking
+date_added: 2026-04-10

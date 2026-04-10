@@ -1,0 +1,11 @@
+title: BimanGrasp-Generation
+venue: RA-L
+year: 2025
+authors: []
+abstract: This is the official repo for the open-source implementation of the
+  BimanGrasp-Algorithm for synthesizing bimanual grasps on 3D objects of the
+  RA-L and ICRA 25' Paper "Bimanual Grasp Synthesis for Dexterous Robot Hands"
+tags: []
+repo: https://github.com/Tsunami-kun/BimanGrasp-Generation
+arxiv: https://arxiv.org/abs/2411.15903
+date_added: 2026-04-10

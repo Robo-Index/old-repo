@@ -1,0 +1,11 @@
+title: if you want to use docker (recommended)
+venue: RA-L
+year: 2022
+authors: []
+abstract: Recently, transformers have been widely adopted for various computer
+  vision tasks and show promising results due to their ability to encode
+  long-range spatial dependencies in an image effectively.
+tags: []
+repo: https://github.com/sejong-rcv/TransDSSL
+arxiv: https://arxiv.org/abs/1406.2283
+date_added: 2026-04-10

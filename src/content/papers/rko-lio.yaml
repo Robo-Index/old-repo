@@ -1,0 +1,16 @@
+title: data path should be a directory with *.bag files (ROS1) or a
+  metadata.yaml (ROS2)
+venue: RA-L
+year: 2025
+authors: []
+abstract: A Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modelling
+tags:
+  - imu
+  - inertial
+  - lidar
+  - lidar-inertial-odometry
+  - mapping
+repo: https://github.com/PRBonn/rko_lio
+arxiv: https://arxiv.org/abs/2509.06593
+project_page: https://prbonn.github.io/rko_lio/
+date_added: 2026-04-10

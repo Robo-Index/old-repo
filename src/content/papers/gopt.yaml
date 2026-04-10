@@ -1,0 +1,14 @@
+title: install pytorch
+venue: RA-L
+year: 2024
+authors: []
+abstract: "[IEEE RA-L 2024] GOPT: Generalizable Online 3D Bin Packing via
+  Transformer-based Deep Reinforcement Learning"
+tags:
+  - 3d-bin-packing-problem
+  - combinatorial-optimization
+  - deep-reinforcement-learning
+  - online-packing
+repo: https://github.com/Xiong5Heng/GOPT
+arxiv: https://arxiv.org/abs/2409.05344
+date_added: 2026-04-10

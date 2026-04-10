@@ -1,0 +1,11 @@
+title: Search and Rescue Simulator
+venue: RA-L
+year: 2022
+authors: []
+abstract: "Gazebo simulator for search-and-rescue experiments showcased on
+  paper: Exploiting Natural Language for Efficient Risk-Aware Multi-Robot SaR
+  Planning by Shree, Asfora, Zheng, Hong, Banfi and Campbell, in IEEE Robotics
+  and Automation Letters, vol."
+tags: []
+repo: https://github.com/basfora/SearchandRescue
+date_added: 2026-04-10

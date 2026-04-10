@@ -1,0 +1,10 @@
+title: Abstract
+venue: RA-L
+year: 2026
+authors: []
+abstract: Recent advancements in 3D Gaussian Splatting (3DGS) have significantly
+  improved the mapping quality and computational efficiency of visual
+  Simultaneous Localization and Mapping (SLAM).
+tags: []
+repo: https://github.com/NKU-MobFly-Robotics/DOGL-SLAM
+date_added: 2026-04-10

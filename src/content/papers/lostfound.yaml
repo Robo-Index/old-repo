@@ -1,0 +1,14 @@
+title: Abstract
+venue: RA-L
+year: 2024
+authors: []
+abstract: Recent approaches have successfully focused on the segmentation of
+  static reconstructions, thereby equipping downstream applications with
+  semantic 3D understanding.
+tags:
+  - mapping
+  - semantic-scene-understanding
+  - visual-tracking
+repo: https://github.com/behretj/LostFound
+arxiv: https://arxiv.org/abs/2411.19162
+date_added: 2026-04-10

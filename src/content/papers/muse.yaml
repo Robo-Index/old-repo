@@ -1,0 +1,13 @@
+title: ":computer: Code"
+venue: RA-L
+year: 2025
+authors: []
+abstract: A State Estimation Package for Quadruped Robots, that fuses
+  Proprioceptive and Exteroceptive data
+tags:
+  - quadruped-robots
+  - sensor-fusion
+  - state-estimation
+repo: https://github.com/iit-DLSLab/muse
+arxiv: https://arxiv.org/abs/2503.12101
+date_added: 2026-04-10

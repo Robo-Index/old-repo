@@ -1,0 +1,14 @@
+title: "RadarPillars: Efficient Object Detection from 4D Radar Point Clouds"
+venue: RA-L
+year: 2026
+authors: []
+abstract: Radar-only 3D object detection using RadarPillars architecture on
+  View-of-Delft and Astyx datasets.
+tags:
+  - 3d-object-detection
+  - 4d-mmwave-radar
+  - radarpillar
+repo: https://github.com/fthbng77/RadarPillar
+arxiv: https://arxiv.org/abs/2408.05020
+project_page: https://arxiv.org/abs/2408.05020
+date_added: 2026-04-10

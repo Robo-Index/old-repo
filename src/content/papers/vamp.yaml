@@ -1,0 +1,12 @@
+title: 🧛 Vector-Accelerated Motion Planning (VAMP)
+venue: RA-L
+year: 2024
+authors: []
+abstract: SIMD-Accelerated Sampling-based Motion Planning
+tags:
+  - motion-planning
+  - robotics-library
+  - simd
+repo: https://github.com/KavrakiLab/vamp
+arxiv: https://arxiv.org/abs/2309.14545
+date_added: 2026-04-10

@@ -1,0 +1,16 @@
+title: A Hierarchical Dual Model of Environment- and Place-Specific Utility for
+  Visual Place Recognition
+venue: RA-L
+year: 2021
+authors: []
+abstract: Code for the RA-L (IROS) 2021 paper "A Hierarchical Dual Model of
+  Environment- and Place-Specific Utility for Visual Place Recognition"
+tags:
+  - contrastive-learning
+  - localization
+  - netvlad
+  - utility
+  - visual-place-recognition
+repo: https://github.com/Nik-V9/HEAPUtil
+arxiv: https://arxiv.org/abs/2107.02440
+date_added: 2026-04-10

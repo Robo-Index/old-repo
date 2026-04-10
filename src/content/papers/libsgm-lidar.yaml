@@ -1,0 +1,12 @@
+title: Stereo-LiDAR Fusion by Semi-Global Matching With Discrete
+  Disparity-Matching Cost and Semidensification
+venue: RA-L
+year: 2025
+authors: []
+abstract: Imprementation of IEEE RA-L 2025 paper "Stereo-LiDAR Fusion by
+  Semi-Global Matching with Discrete Disparity-Matching Cost and
+  Semidensification"
+tags: []
+repo: https://github.com/yshry/libSGM_lidar
+arxiv: https://arxiv.org/abs/2504.05148
+date_added: 2026-04-10

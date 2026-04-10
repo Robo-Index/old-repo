@@ -1,0 +1,12 @@
+title: $\textsf{\color{BlueViolet}{Differentiable Optimization Based CBFs}}$
+venue: RA-L
+year: 2023
+authors: []
+abstract: "[IEEE RA-L 2023] Official Implementation of Safe Navigation and
+  Obstacle Avoidance Using Differentiable Optimization Based Control Barrier
+  Functions"
+tags: []
+repo: https://github.com/BolunDai0216/DifferentiableOptimizationCBF
+arxiv: https://arxiv.org/abs/2304.08586
+project_page: https://differentiableoptimizationcbf.readthedocs.io
+date_added: 2026-04-10

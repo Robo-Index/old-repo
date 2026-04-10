@@ -1,0 +1,15 @@
+title: patchwork
+venue: RA-L
+year: 2021
+authors: []
+abstract: SOTA fast and robust ground segmentation using 3D point cloud
+  (accepted in RA-L'21 w/ IROS'21)
+tags:
+  - 3dpointcloud
+  - autonomous-driving
+  - autonomous-vehicles
+  - ground-estimation
+  - ground-estimator
+repo: https://github.com/LimHyungTae/patchwork
+arxiv: https://arxiv.org/abs/2108.05560
+date_added: 2026-04-10

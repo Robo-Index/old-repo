@@ -1,0 +1,15 @@
+title: ros2_tracing
+venue: RA-L
+year: 2022
+authors: []
+abstract: Tracing tools for ROS 2.
+tags:
+  - instrumentation
+  - performance-analysis
+  - ros2-tracing
+  - tools
+  - tracing
+repo: https://github.com/ros2/ros2_tracing
+arxiv: https://arxiv.org/abs/2201.00393
+project_page: https://docs.ros.org/en/rolling/
+date_added: 2026-04-10

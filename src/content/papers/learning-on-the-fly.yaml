@@ -1,0 +1,11 @@
+title: learning_on_the_fly
+venue: RA-L
+year: 2026
+authors: []
+abstract: "[RA-L 26] Learning on the Fly: Rapid Policy Adaptation via
+  Differentiable Simulation"
+tags: []
+repo: https://github.com/uzh-rpg/learning_on_the_fly
+arxiv: https://arxiv.org/abs/2508.21065
+project_page: https://rpg.ifi.uzh.ch/lotf/
+date_added: 2026-04-10

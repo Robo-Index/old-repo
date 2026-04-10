@@ -1,0 +1,15 @@
+title: Define states
+venue: RA-L
+year: 2025
+authors: []
+abstract: A general python-based successive convexification implementation which
+  uses a JAX backend.
+tags:
+  - convex-optimization
+  - motion-planning
+  - successive-convexification
+  - trajectory-optimization
+repo: https://github.com/OpenSCvx/OpenSCvx
+arxiv: https://arxiv.org/abs/2410.22596
+project_page: https://openscvx.github.io/OpenSCvx/
+date_added: 2026-04-10

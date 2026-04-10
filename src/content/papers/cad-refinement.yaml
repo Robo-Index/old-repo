@@ -1,0 +1,10 @@
+title: Accurate Pose Refinement of Detected Vehicles Using LiDAR Point-to-Surfel
+  ICP and Vehicle Shape Priors
+venue: RA-L
+year: 2025
+authors: []
+abstract: (RA-L) Repository for paper "Enhanced Pose Detection of Nearby
+  Vehicles Using LiDAR and Prior Shape for Autonomous Driving"
+tags: []
+repo: https://github.com/ailab-hanyang/CAD_Refinement
+date_added: 2026-04-10

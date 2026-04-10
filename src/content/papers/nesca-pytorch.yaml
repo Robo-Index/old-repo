@@ -1,0 +1,16 @@
+title: Let Me Help You! Neuro-Symbolic Short-Context Action Anticipation
+venue: RA-L
+year: 2024
+authors: []
+abstract: In an era where robots become available to the general public, the
+  applicability of assistive robotics extends across numerous aspects of daily
+  life, including in-home robotics.
+tags:
+  - action-anticipation
+  - attention
+  - computer-vision
+  - human-robot-collaboration
+  - human-robot-interaction
+repo: https://github.com/sarthak268/nesca-pytorch
+arxiv: https://arxiv.org/abs/2205.14022
+date_added: 2026-04-10

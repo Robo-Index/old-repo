@@ -1,0 +1,11 @@
+title: lidar_situational_graphs
+venue: RA-L
+year: 2023
+authors: []
+abstract: Repository to generate in real-time Situational Graphs (S-Graphs) for
+  robot pose and map optimization using 3D LiDAR Data
+tags: []
+repo: https://github.com/snt-arg/lidar_situational_graphs
+arxiv: https://arxiv.org/abs/2502.18044
+project_page: https://snt-arg.github.io/lidar_situational_graphs/
+date_added: 2026-04-10

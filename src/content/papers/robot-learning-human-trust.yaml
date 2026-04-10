@@ -1,0 +1,17 @@
+title: Robot Learning of Human Trust
+venue: RA-L
+year: 2025
+authors: []
+abstract: Codebase of paper "Improving Trust Estimation in Human-Robot
+  Collaboration Using Beta Reputation at Fine-grained Timescales" published at
+  RA-L 2025 📝
+tags:
+  - human-in-the-loop
+  - human-robot-collaboration
+  - inverse-reinforcement-learning
+  - learning-from-demonstration
+  - maximum-entropy-method
+repo: https://github.com/resuldagdanov/robot-learning-human-trust
+arxiv: https://arxiv.org/abs/2411.01866
+project_page: https://ieeexplore.ieee.org/document/11068145
+date_added: 2026-04-10

@@ -1,0 +1,15 @@
+title: A Minimal Subset Approach (MSA)
+venue: RA-L
+year: 2026
+authors: []
+abstract: "Official page for MSA (Minimal Subset Approach for Informed Keyframe
+  Sampling), accepted @ RA-L'25, to be presented @ ICRA'26 "
+tags:
+  - keyframes
+  - large-scale
+  - loop-closure
+  - place-recognition
+  - slam
+repo: https://github.com/LTU-RAI/opt-key
+arxiv: https://arxiv.org/abs/2501.01791
+date_added: 2026-04-10

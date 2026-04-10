@@ -1,0 +1,16 @@
+title: "SEDMamba: Enhancing Selective State Space Modelling with Bottleneck
+  Mechanism and Fine-to-Coarse Temporal Fusion for Efficient Error Detection in
+  Robot-Assisted Surgery"
+venue: RA-L
+year: 2025
+authors: []
+abstract: "[IEEE RA-L Best Paper Award - Honorable Mentions] PyTorch
+  Implementation for 'SEDMamba: Enhancing Selective State Space Modelling with
+  Bottleneck Mechanism and Fine-to-Coarse Temporal Fusion for Efficient Error
+  Detection in Robot-Assisted Surgery'"
+tags:
+  - mamba
+  - sedmamba
+  - surgical-error-detection
+repo: https://github.com/wzjialang/SEDMamba
+date_added: 2026-04-10

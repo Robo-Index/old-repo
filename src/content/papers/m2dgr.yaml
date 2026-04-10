@@ -1,0 +1,13 @@
+title: "[RA-L & ICRA2022]M2DGR： a Multi-modal and Multi-scenario SLAM Dataset
+  for Ground Robots"
+venue: RA-L
+year: 2022
+authors: []
+abstract: M2DGR： a Multi-modal and Multi-scenario Dataset for Ground
+  Robots(RA-L2021 & ICRA2022)
+tags:
+  - dataset
+  - slam
+repo: https://github.com/SJTU-ViSYS/M2DGR
+arxiv: https://arxiv.org/abs/2112.13659
+date_added: 2026-04-10
