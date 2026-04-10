@@ -30,7 +30,7 @@ export default async function PaperDetailPage({
   if (!paper) notFound()
 
   return (
-    <main className="max-w-3xl mx-auto px-6 py-16">
+    <main className="max-w-3xl mx-auto px-4 sm:px-6 py-16">
       <Link
         href="/papers"
         className="inline-flex items-center gap-1.5 text-sm text-text-muted hover:text-accent-600 transition-colors duration-200"

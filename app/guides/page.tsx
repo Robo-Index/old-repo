@@ -172,7 +172,7 @@ export default function GuidesPage() {
   }))
 
   return (
-    <main className="max-w-5xl mx-auto px-6 py-16">
+    <main className="max-w-5xl mx-auto px-4 sm:px-6 py-16">
       {/* Hero */}
       <header className="mb-14 max-w-2xl">
         <h1 className="text-3xl font-bold tracking-tight text-text-primary mb-3">{guide.title}</h1>

@@ -66,16 +66,16 @@ const features = [
 
 export default function RalSkillPage() {
   return (
-    <main className="max-w-4xl mx-auto px-6 py-12">
+    <main className="max-w-4xl mx-auto px-4 sm:px-6 py-12">
       {/* Hero */}
       <div className="text-center mb-16">
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-violet-500/10 text-violet-500 text-xs font-medium mb-4">
           Claude Code Skill
         </div>
-        <h1 className="text-4xl font-bold tracking-tight text-text-primary">
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold tracking-tight text-text-primary">
           ral.skill
         </h1>
-        <p className="mt-2 text-lg text-text-secondary">
+        <p className="mt-2 text-base sm:text-lg text-text-secondary">
           IEEE RA-L 投稿 AI 助手
         </p>
         <p className="mt-4 text-text-muted max-w-lg mx-auto text-sm leading-relaxed">
@@ -104,7 +104,7 @@ export default function RalSkillPage() {
         <h2 className="text-center text-sm font-medium text-text-muted uppercase tracking-wide mb-6">
           Three Sources, Fully Traceable
         </h2>
-        <div className="grid grid-cols-3 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
           <div className="text-center p-5 rounded-2xl bg-blue-500/10 border border-blue-500/20">
             <div className="text-2xl mb-2">📋</div>
             <div className="text-sm font-semibold text-blue-500">IEEE 官网</div>

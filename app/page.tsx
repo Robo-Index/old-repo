@@ -18,7 +18,7 @@ export default function Home() {
   const withRepo = papers.filter(p => p.repo).length
 
   return (
-    <main className="relative overflow-hidden min-h-[calc(100vh-4rem)] flex flex-col items-center justify-center px-6">
+    <main className="relative overflow-hidden min-h-[calc(100vh-4rem)] flex flex-col items-center justify-center px-4 sm:px-6">
       {/* Decorative world map background */}
       <WorldMapBackground />
       {/* Real visitor location dot */}
@@ -29,10 +29,10 @@ export default function Home() {
 
       <div className="relative z-10 max-w-2xl w-full text-center space-y-10">
         <div className="space-y-4">
-          <h1 className="hero-title text-5xl font-bold tracking-tight text-text-primary">
+          <h1 className="hero-title text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-text-primary">
             RoboIndex
           </h1>
-          <p className="text-xl text-text-secondary font-light">
+          <p className="text-base sm:text-xl text-text-secondary font-light">
             Structured robotics research paper data
           </p>
           <div className="flex justify-center items-center flex-wrap gap-2 pt-1">
