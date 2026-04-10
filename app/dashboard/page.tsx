@@ -20,7 +20,7 @@ export default function DashboardPage() {
   const timeline = loadTimeline()
 
   return (
-    <main className="max-w-4xl mx-auto px-6 py-16">
+    <main className="max-w-4xl mx-auto px-4 sm:px-6 py-16">
       <div className="mb-10">
         <h1 className="text-3xl font-bold tracking-tight text-text-primary">
           Dashboard
