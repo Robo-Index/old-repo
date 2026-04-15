@@ -1,0 +1,10 @@
+title: multi-proxy
+venue: RA-L
+year: 2026
+authors: []
+abstract: "This repository will host the official implementation of the
+  paper:  Communication-Robust Asynchronous Distributed LiDAR Collaborative
+  Smoothing and Mapping"
+tags: []
+repo: https://github.com/HITSZ-NRSL/Multi-Proxy
+date_added: 2026-04-15
