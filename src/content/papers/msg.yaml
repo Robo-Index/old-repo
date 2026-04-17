@@ -1,0 +1,15 @@
+title: "MSG: Multi-Stream Generative Policies for Sample-Efficient Robotic
+  Manipulation"
+venue: RA-L
+year: 2026
+authors: []
+abstract: PyTorch code for MSG.
+tags:
+  - artificial-intelligence
+  - flow-matching
+  - generative-ai
+  - imitation-learning
+  - learning-from-demonstration
+repo: https://github.com/robot-learning-freiburg/MSG
+project_page: https://msg.cs.uni-freiburg.de
+date_added: 2026-04-17

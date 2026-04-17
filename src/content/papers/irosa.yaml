@@ -1,0 +1,11 @@
+title: "IROSA: Interactive Robot Skill Adaptation using Natural Language"
+venue: RA-L
+year: 2025
+authors: []
+abstract: Foundation models have demonstrated impressive capabilities across
+  diverse domains, while imitation learning provides principled methods for
+  robot skill adaptation from limited data.
+tags: []
+repo: https://github.com/DLR-RM/IROSA
+arxiv: https://arxiv.org/abs/2505.00861
+date_added: 2026-04-17
