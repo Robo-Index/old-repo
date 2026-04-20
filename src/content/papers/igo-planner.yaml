@@ -1,0 +1,9 @@
+title: GCOPTER
+venue: RA-L
+year: 2026
+authors: []
+abstract: use information geometic optimizer for multicopter trajectory optimization
+tags: []
+repo: https://github.com/KaireRiemann/IGO-Planner
+arxiv: https://arxiv.org/abs/2103.00190
+date_added: 2026-04-20
