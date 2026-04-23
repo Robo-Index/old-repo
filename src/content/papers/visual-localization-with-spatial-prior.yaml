@@ -1,0 +1,11 @@
+title: Visual-Localization-with-Spatial-Prior
+venue: RA-L
+year: 2021
+authors: []
+abstract: We revisit end-to-end representation learning for cross-view
+  self-localization, the task of retrieving for a query camera image the closest
+  satellite image in a database by matching them in a shared image
+  representation space.
+tags: []
+repo: https://github.com/tudelft-iv/Visual-Localization-with-Spatial-Prior
+date_added: 2026-04-23
