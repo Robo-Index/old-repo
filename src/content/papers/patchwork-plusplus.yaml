@@ -1,0 +1,14 @@
+title: patchwork-plusplus
+venue: RA-L
+year: 2021
+authors: []
+abstract: "Patchwork++: Fast and robust ground segmentation method for 3D LiDAR scans."
+tags:
+  - 3d-lidar
+  - detection
+  - ground
+  - ground-detection
+  - ground-removal
+repo: https://github.com/url-kaist/patchwork-plusplus
+arxiv: https://arxiv.org/abs/2207.11919
+date_added: 2026-05-09

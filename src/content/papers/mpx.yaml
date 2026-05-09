@@ -1,0 +1,14 @@
+title: mpx
+venue: RA-L
+year: 2024
+authors: []
+abstract: Model Predictive Control in JAX
+tags:
+  - humanoid-robot
+  - jax
+  - locomotion
+  - mujoco
+  - optimization
+repo: https://github.com/iit-DLSLab/mpx
+arxiv: https://arxiv.org/abs/2506.07823
+date_added: 2026-05-09
