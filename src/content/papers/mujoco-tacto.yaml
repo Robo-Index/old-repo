@@ -1,0 +1,10 @@
+title: "TACTO: A Fast, Flexible and Open-source Simulator for High-Resolution
+  Vision-based Tactile Sensors"
+venue: RA-L
+year: 2022
+authors: []
+abstract: Integration of mujoco simulator into tacto.
+tags: []
+repo: https://github.com/utn-air/mujoco-tacto
+arxiv: https://arxiv.org/abs/2012.08456
+date_added: 2026-05-18
