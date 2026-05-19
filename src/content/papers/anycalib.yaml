@@ -1,0 +1,10 @@
+title: load input image and convert it to a (3, H, W) tensor with RGB values in [0, 1]
+venue: RA-L
+year: 2016
+authors: []
+abstract: "AnyCalib: On-Manifold Learning for Model-Agnostic Single-View Camera
+  Calibration (ICCV 2025)"
+tags: []
+repo: https://github.com/javrtg/AnyCalib
+arxiv: https://arxiv.org/abs/2503.12701
+date_added: 2026-05-19
