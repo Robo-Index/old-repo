@@ -1,0 +1,14 @@
+title: patchwork-plusplus-ros
+venue: RA-L
+year: 2021
+authors: []
+abstract: ROS & ROS2 Implementation of Patchwork++
+tags:
+  - 3d-point-cloud
+  - ground
+  - ground-removal
+  - ground-segmentation
+  - lidar
+repo: https://github.com/url-kaist/patchwork-plusplus-ros
+arxiv: https://arxiv.org/abs/2207.11919
+date_added: 2026-05-21
