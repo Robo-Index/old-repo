@@ -1,0 +1,14 @@
+title: "VBT-MPC: Vision-Based Tactile MPC for Contour Following"
+venue: RA-L
+year: 2026
+authors: []
+abstract: 'This repository contains the simulation and control code associated
+  with the paper "VBT-MPC: Vision-Based Tactile MPC for Contour Following".'
+tags:
+  - gelsight-mini
+  - mpc-control
+  - tactile-sensor
+  - visual-servoing
+repo: https://github.com/EPVelasco/gs_kinova_devcontainer
+project_page: https://aurova-projects.github.io/VBT-MPC/
+date_added: 2026-05-22

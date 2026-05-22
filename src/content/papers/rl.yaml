@@ -1,0 +1,11 @@
+title: 1. Clone Genesis and checkout the specific commit
+venue: RA-L
+year: 2026
+authors: []
+abstract: "**FLARE** is a reinforcement learning (RL) framework designed to
+  tackle the formidable challenge of agile flight for quadrotor cable-suspended
+  payload systems."
+tags: []
+repo: https://github.com/22syyyy/RL
+arxiv: https://arxiv.org/abs/2508.09797
+date_added: 2026-05-22
