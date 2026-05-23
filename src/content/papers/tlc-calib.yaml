@@ -1,0 +1,11 @@
+title: TLC-Calib
+venue: RA-L
+year: 2026
+authors: []
+abstract: "[RA-L '26] Official implementation of Targetless LiDAR-Camera
+  Calibration with Neural Gaussian Splatting"
+tags: []
+repo: https://github.com/zang09/TLC-Calib
+arxiv: https://arxiv.org/abs/2504.04597
+project_page: https://www.haebeom.com/tlc-calib-site/
+date_added: 2026-05-23
