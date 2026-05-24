@@ -1,0 +1,12 @@
+title: LAPS
+venue: RA-L
+year: 2026
+authors: []
+abstract: "[RA-L 2026] LAPS: Improving Incremental LiDAR Mapping using Active
+  Pooling and Sampling for Neural Distance Fields"
+tags:
+  - 3d-mapping
+  - implicit-neural-representation
+repo: https://github.com/dongjae0107/LAPS
+arxiv: https://arxiv.org/abs/2605.15496
+date_added: 2026-05-24
