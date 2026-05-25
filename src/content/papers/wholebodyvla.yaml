@@ -1,0 +1,14 @@
+title: Awesome Vision–Language–Action for Humanoid Robots
+venue: RA-L
+year: 2025
+authors: []
+abstract: "[ICLR 2026] Towards Unified Latent VLA for Whole-body
+  Loco-manipulation Control"
+tags:
+  - humanoid-robot
+  - loco-manipulation
+  - vision-language-action
+repo: https://github.com/OpenDriveLab/WholebodyVLA
+arxiv: https://arxiv.org/abs/2512.11047
+project_page: https://opendrivelab.com/WholebodyVLA
+date_added: 2026-05-25
