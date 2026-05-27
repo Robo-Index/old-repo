@@ -1,0 +1,13 @@
+title: ORB-SLAM3
+venue: RA-L
+year: 2025
+authors: []
+abstract: This repository is a modified version of ORBSLAM3 by UZ-SLAMLab.
+tags:
+  - cpp
+  - occupancy-grid-mapping
+  - orbslam3
+  - vslam
+repo: https://github.com/Harishma356/ORBSLAM3-grid-mapper
+arxiv: https://arxiv.org/abs/2007.11898
+date_added: 2026-05-27
