@@ -1,0 +1,12 @@
+title: "DINO3D-YOLO: Real-Time 3D Object Detection with Self-Supervised Vision
+  Transformers"
+venue: RA-L
+year: 2026
+authors: []
+abstract: "**DINO3D-YOLO** is a novel 3D object detection framework that
+  replaces the traditional CNN backbone of the YOLO detection pipeline with
+  Meta's DINOv3 self-supervised Vision Transformer (ViT)."
+tags: []
+repo: https://github.com/dns-smitk/dino3d-yolo
+arxiv: https://arxiv.org/abs/2502.00315
+date_added: 2026-05-28
