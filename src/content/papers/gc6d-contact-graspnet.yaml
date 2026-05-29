@@ -1,0 +1,10 @@
+title: Contact-GraspNet Baseline for GraspClutter6D
+venue: RA-L
+year: 2025
+authors: []
+abstract: Contact-GraspNet baseline used in the GraspClutter6D paper (RA-L 2025
+  & ICRA 2026)
+tags: []
+repo: https://github.com/SeungBack/gc6d-contact-graspnet
+arxiv: https://arxiv.org/abs/2504.06866
+date_added: 2026-05-29
