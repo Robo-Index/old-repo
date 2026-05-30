@@ -1,0 +1,13 @@
+title: "SIMPNet: Spatial-informed Motion Planning Network"
+venue: RA-L
+year: 2025
+authors: []
+abstract: "SIMPNet: Spatial-informed Motion Planning Network"
+tags:
+  - attention-mechanism
+  - graphneuralnetwork
+  - motion-planning
+repo: https://github.com/DavoodSZ/SIMPNet_
+arxiv: https://arxiv.org/abs/2408.12831
+project_page: https://davoodsz1993.github.io/simpnet/
+date_added: 2026-05-30

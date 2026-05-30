@@ -1,0 +1,16 @@
+title: "Learning-to-Tune-Pure-Pursuit-in-Autonomous-Racing:
+  Joint-Lookahead-and-Steering-Gain-Control-With-PPO"
+venue: RA-L
+year: 2026
+authors: []
+abstract: ROS 2 implementation of PPO-based lookahead and steering-gain tuning
+  for Pure Pursuit in F1TENTH autonomous racing.
+tags:
+  - ackermann
+  - autonomous-driving
+  - autonomous-racing
+  - f1tenth
+  - path-tracking
+repo: https://github.com/ICPS-LAB-WVU/Learning-to-Tune-Pure-Pursuit-in-Autonomous-Racing-With-PPO
+arxiv: https://arxiv.org/abs/2602.18386
+date_added: 2026-05-30

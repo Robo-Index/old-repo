@@ -1,0 +1,16 @@
+title: "L-PR: Exploiting LiDAR Fiducial Marker for Unordered Low Overlap
+  Multiview Point Cloud Registration"
+venue: RA-L
+year: 2023
+authors: []
+abstract: Point cloud registration is a prerequisite for many applications in
+  computer vision and robotics.
+tags:
+  - apriltag
+  - aruco
+  - fiducial-marker
+  - fiducials
+  - lidar
+repo: https://github.com/yorklyb/L-PR
+arxiv: https://arxiv.org/abs/2406.03298
+date_added: 2026-05-30
