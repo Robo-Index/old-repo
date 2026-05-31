@@ -1,0 +1,12 @@
+title: "CLARE: Continual Learning for Vision-Language-Action Models via
+  Autonomous Adapter Routing and Expansion"
+venue: RA-L
+year: 2026
+authors: []
+abstract: '[RA-L 2026] Official code repository for "CLARE: Continual Learning
+  for Vision-Language-Action Models via Autonomous Adapter Routing and
+  Expansion".'
+tags: []
+repo: https://github.com/learnsyslab/clare
+arxiv: https://arxiv.org/abs/2601.09512
+date_added: 2026-05-31
