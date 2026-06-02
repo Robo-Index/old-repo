@@ -1,0 +1,15 @@
+title: "CLEVER: Stream-based Active Learning for Robust Semantic Perception from
+  Human Instructions"
+venue: RA-L
+year: 2025
+authors: []
+abstract: "Official code for the IEEE RAL paper: CLEVER: Stream-Based Active
+  Learning for Robust Semantic Perception From Human Instructions"
+tags:
+  - activelearning
+  - deeplearning
+  - perception-algorithm
+  - semantic-segmentation
+repo: https://github.com/DLR-RM/CLEVER
+project_page: https://sites.google.com/view/thecleversystem
+date_added: 2026-06-02
