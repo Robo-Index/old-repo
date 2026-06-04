@@ -1,0 +1,15 @@
+title: Multi-Modal Whole-Body Control
+venue: RA-L
+year: 2026
+authors: []
+abstract: MultiModalWBC is a fully open-source, IsaacLab-based framework for
+  multi-modal whole-body control, designed for motion imitation, motion
+  tracking, and task-conditioned control in legged robots.
+tags:
+  - humanoid-robot
+  - issaclab
+  - reinforcement-learning
+  - simulations
+repo: https://github.com/Renforce-Dynamics/MultiModalWBC
+arxiv: https://arxiv.org/abs/2606.04829
+date_added: 2026-06-04
