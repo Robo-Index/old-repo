@@ -1,0 +1,10 @@
+title: Install
+venue: RA-L
+year: 2025
+authors: []
+abstract: Event cameras capture per-pixel brightness changes asynchronously at
+  microsecond resolution, making them ideal for high-speed drone navigation.
+tags: []
+repo: https://github.com/aiyds/FPGA-Event-Based-encode
+arxiv: https://arxiv.org/abs/2412.11284
+date_added: 2026-06-09
