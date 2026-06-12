@@ -1,0 +1,11 @@
+title: Start integral action (runs for 60 s, then saves torque offsets)
+venue: RA-L
+year: 2026
+authors: []
+abstract: ROS package implementing iterative learning control (ILC) for swing-up
+  of a magnetically actuated inverted pendulum using driven by an external
+  electromagnetic navigation system (eMNS).
+tags: []
+repo: https://github.com/slavasg-lab/emns_invpend_swingup
+arxiv: https://arxiv.org/abs/2512.15207
+date_added: 2026-06-12
