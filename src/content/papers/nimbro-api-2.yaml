@@ -1,0 +1,10 @@
+title: NimbRo API
+venue: RA-L
+year: 2025
+authors: []
+abstract: ROS2 integration of various APIs (Chat Completions, Embeddings,
+  Speech, Transcriptions, Translations, Images, NimbRo Vision Servers).
+tags: []
+repo: https://github.com/AIS-Bonn/nimbro_api
+arxiv: https://arxiv.org/abs/2503.16538
+date_added: 2026-06-13
