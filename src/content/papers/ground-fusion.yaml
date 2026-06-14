@@ -1,0 +1,13 @@
+title: "[ICRA2024]Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases"
+venue: RA-L
+year: 2022
+authors: []
+abstract: "Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases
+  (ICRA2024)"
+tags:
+  - ground-robot
+  - sensor-fusion
+  - slam
+repo: https://github.com/SJTU-ViSYS/Ground-Fusion
+arxiv: https://arxiv.org/abs/2402.14308
+date_added: 2026-06-14

@@ -1,0 +1,11 @@
+title: "PROBE: Probabilistic Occupancy BEV Encoding"
+venue: RA-L
+year: 2026
+authors: []
+abstract: "Official implementation of PROBE: Probabilistic Occupancy BEV
+  Encoding — a learning-free, translation-robust descriptor for 3D LiDAR place
+  recognition (IEEE RA-L 2026)."
+tags: []
+repo: https://github.com/shawrby/PROBE-descriptor
+arxiv: https://arxiv.org/abs/2603.05965
+date_added: 2026-06-14
