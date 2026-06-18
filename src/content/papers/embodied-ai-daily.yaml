@@ -1,0 +1,16 @@
+title: 🚀 Embodied-AI-Daily
+venue: RA-L
+year: 2026
+authors: []
+abstract: 📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian
+  Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文
+tags:
+  - gaussian-splatting
+  - lio
+  - slam
+  - vio
+  - vla
+repo: https://github.com/luohongk/Embodied-AI-Daily
+arxiv: https://arxiv.org/abs/2603.06310
+project_page: http://luohongkun.top/Embodied-AI-Daily/
+date_added: 2026-06-18

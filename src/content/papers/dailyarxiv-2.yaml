@@ -1,0 +1,9 @@
+title: Daily Papers
+venue: RA-L
+year: 2026
+authors: []
+abstract: 自动抓取 arXiv 上 VLA / WAM / WM 三个方向的最新论文,含术语交叉索引
+tags: []
+repo: https://github.com/guoyue0412/DailyArxiv
+arxiv: https://arxiv.org/abs/2606.18097
+date_added: 2026-06-18
