@@ -1,0 +1,14 @@
+title: "RESPLE: Recursive Spline Estimation for LiDAR-Based Odometry"
+venue: RA-L
+year: 2025
+authors: []
+abstract: The first 6-DoF spline-based recursive motion esimator for LiDAR-based odometry
+tags:
+  - continuous-time
+  - lidar
+  - lidar-inertial-odometry
+  - lidar-odometry
+  - multi-lidar-inertial-odometry
+repo: https://github.com/ASIG-X/RESPLE
+arxiv: https://arxiv.org/abs/2504.11580
+date_added: 2026-06-19
