@@ -1,0 +1,15 @@
+title: "SOCC-ICP: Semantics-Assisted Odometry Based on Occupancy Grids and ICP"
+venue: RA-L
+year: 2026
+authors: []
+abstract: "SOCC-ICP: Semantics-Assisted Odometry Based on Occupancy Grids and
+  ICP (IEEE RA-L 2026) "
+tags:
+  - icp
+  - lidar-odometry
+  - lidar-slam
+  - localization
+  - mapping
+repo: https://github.com/josch14/socc_icp
+arxiv: https://arxiv.org/abs/2605.15074
+date_added: 2026-06-21
