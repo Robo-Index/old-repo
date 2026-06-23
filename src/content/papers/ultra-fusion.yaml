@@ -1,0 +1,18 @@
+title: "Ultra-Fusion: A Resilient Tightly-Coupled Multi-Sensor Fusion SLAM
+  Framework under Sensor Degradation and Spatiotemporal Perturbation for
+  Intelligent Transportation Systems"
+venue: RA-L
+year: 2026
+authors: []
+abstract: "Ultra-Fusion: A Resilient Tightly-Coupled Multi-Sensor Fusion SLAM
+  Framework under Sensor Degradation and Spatiotemporal Perturbation"
+tags:
+  - gaussiansplatting
+  - lio
+  - lvio
+  - slam
+  - vio
+repo: https://github.com/sjtuyinjie/Ultra-Fusion
+arxiv: https://arxiv.org/abs/2606.21223
+project_page: https://sjtuyinjie.github.io/ultrafusion-web/
+date_added: 2026-06-23
