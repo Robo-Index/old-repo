@@ -1,0 +1,10 @@
+title: gsolver
+venue: RA-L
+year: 2026
+authors: []
+abstract: "G-solver: Gaussian Belief Propagation (GBP) solver with Gaussian
+  Processes (GP) for continuous-time SLAM"
+tags: []
+repo: https://github.com/rvp-group/gsolver
+arxiv: https://arxiv.org/abs/2606.06250
+date_added: 2026-06-26
