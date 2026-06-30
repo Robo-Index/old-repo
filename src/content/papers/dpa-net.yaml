@@ -1,0 +1,12 @@
+title: "DPA-Net: Deformable Point Attention for LiDAR Place Recognition With
+  Weighted GeM Aggregation"
+venue: RA-L
+year: 2026
+authors: []
+abstract: We present **DPA-Net**, a lightweight yet highly discriminative LiDAR
+  place recognition network that combines sparse 3D convolution with deformable
+  point-based attention.
+tags: []
+repo: https://github.com/barkminseo/DPA-Net
+arxiv: https://arxiv.org/abs/1804.03492
+date_added: 2026-06-30
