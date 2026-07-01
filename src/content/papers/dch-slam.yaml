@@ -1,0 +1,16 @@
+title: 1. Prerequisites
+venue: RA-L
+year: 2026
+authors: []
+abstract: "DCH-SLAM: A CUDA-Accelerated Dynamic-Aware Visual SLAM for Real-Time
+  Deployment on Edge GPUs (ICTA 2026)"
+tags:
+  - cuda
+  - dynamic-slam
+  - jetson
+  - orb-slam3
+  - slam
+repo: https://github.com/datrich/DCH-SLAM
+arxiv: https://arxiv.org/abs/2510.16205
+project_page: https://github.com/datrich/DCH-SLAM
+date_added: 2026-07-01
