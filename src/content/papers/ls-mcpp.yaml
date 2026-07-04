@@ -1,0 +1,11 @@
+title: LS-MCPP
+venue: RA-L
+year: 2023
+authors: []
+abstract: code with the T-RO paper "Large-Scale Multi-Robot Coverage Path
+  Planning on Grids with Path Deconfliction" and AAAI'24 paper "Large-Scale
+  Multi-Robot Coverage Path Planning via Local Search"
+tags: []
+repo: https://github.com/reso1/LS-MCPP
+arxiv: https://arxiv.org/abs/2411.01707
+date_added: 2026-07-04

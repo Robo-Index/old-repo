@@ -1,0 +1,15 @@
+title: Segment and Track Anything (SAM-Track)
+venue: RA-L
+year: 2024
+authors: []
+abstract: An open-source project dedicated to tracking and segmenting any
+  objects in videos, either automatically or interactively.
+tags:
+  - interactive-segmentation
+  - segment-anything
+  - segment-anything-model
+  - video-object-segmentation
+  - visual-object-tracking
+repo: https://github.com/z-x-yang/Segment-and-Track-Anything
+arxiv: https://arxiv.org/abs/2305.06558
+date_added: 2026-07-04
