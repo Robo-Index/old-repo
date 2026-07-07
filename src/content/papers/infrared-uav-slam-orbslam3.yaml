@@ -1,0 +1,10 @@
+title: Infrared UAV SLAM Project Note
+venue: RA-L
+year: 2026
+authors: []
+abstract: Infrared UAV SLAM experiments using ORB-SLAM3 with monocular and
+  monocular-inertial configurations.
+tags: []
+repo: https://github.com/tahiriltaf/infrared-uav-slam-orbslam3
+arxiv: https://arxiv.org/abs/2007.11898
+date_added: 2026-07-07

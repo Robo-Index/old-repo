@@ -1,0 +1,11 @@
+title: SplatXtRact
+venue: RA-L
+year: 2026
+authors: []
+abstract: We present a task-conditioned refinement for 3D Gaussian Splatting
+  (GS) that enables robots or human operators to selectively extract
+  task-relevant regions of a learned scene.
+tags: []
+repo: https://github.com/roth-hex-lab/IEEE-RA-L-SplaXtract
+project_page: http://hex-lab.io/IEEE-RA-L-SplaXtract/
+date_added: 2026-07-07
