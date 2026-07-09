@@ -1,0 +1,10 @@
+title: ORB-SLAM3
+venue: RA-L
+year: 2026
+authors: []
+abstract: Viewer-free ORB-SLAM3 (Photo-SLAM fork) packaged for MAGiC-SLAM
+  decoupled odometry
+tags: []
+repo: https://github.com/lemonci/ORB-SLAM3-photoslam
+arxiv: https://arxiv.org/abs/2007.11898
+date_added: 2026-07-09
