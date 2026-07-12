@@ -1,0 +1,15 @@
+title: Dynamic DSP-SLAM
+venue: RA-L
+year: 2025
+authors: []
+abstract: Enhancing DSP-SLAM with dynamic object handling by integrating
+  VDO-SLAM techniques for robust visual SLAM in dynamic environments.
+tags:
+  - automation-highway
+  - computer-vision
+  - dynamic-environments
+  - handling-dynamic-content
+  - research-project
+repo: https://github.com/CharafMC-1/Dynamic-DSP-SLAM
+arxiv: https://arxiv.org/abs/2007.11898
+date_added: 2026-07-12
