@@ -1,0 +1,15 @@
+title: Wheeled Quadruped Robot — Deep RL Balancing in Isaac Lab
+venue: RA-L
+year: 2023
+authors: []
+abstract: Self-balancing wheeled quadruped robot trained with deep reinforcement
+  learning (PPO) in NVIDIA Isaac Lab / Isaac Sim.
+tags:
+  - isaac-lab
+  - isaac-sim
+  - legged-robot
+  - omniverse
+  - ppo
+repo: https://github.com/MickyasTA/wheeled_quadruped_robot
+arxiv: https://arxiv.org/abs/1707.06347
+date_added: 2026-07-13

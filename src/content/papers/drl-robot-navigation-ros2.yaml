@@ -1,0 +1,16 @@
+title: DRL Robot Navigation in ROS 2
+venue: RA-L
+year: 2024
+authors: []
+abstract: TD3-based Deep Reinforcement learning-based collision avoidance of
+  mobile robots in ROS2.
+tags:
+  - gazebo-simulator
+  - machine-learning-algorithms
+  - reinforcement-learning
+  - robotics-simulation
+  - rviz
+repo: https://github.com/MickyasTA/DRL_robot_navigation_ros2
+arxiv: https://arxiv.org/abs/1802.09477
+project_page: https://www.youtube.com/watch?v=IRASuKMiOvw&t=5s
+date_added: 2026-07-13
