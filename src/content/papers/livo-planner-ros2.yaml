@@ -1,0 +1,9 @@
+title: 完全隔离某个 planner：在其目录放空文件 COLCON_IGNORE
+venue: RA-L
+year: 2026
+authors: []
+abstract: the planner of lio, vio, livo
+tags: []
+repo: https://github.com/JunJie1213855/LIVO_Planner_ROS2
+arxiv: https://arxiv.org/abs/2606.19555
+date_added: 2026-07-14
