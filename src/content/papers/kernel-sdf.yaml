@@ -1,0 +1,10 @@
+title: Kernel-SDF
+venue: RA-L
+year: 2026
+authors: []
+abstract: 'Official Code Repository of Paper "Kernel-SDF: An Open-Source Library
+  for Real-Time Signed Distance Function Estimation using Kernel Regression"'
+tags: []
+repo: https://github.com/ExistentialRobotics/kernel_sdf
+project_page: http://existentialrobotics.org/kernel_sdf/
+date_added: 2026-07-20
