@@ -1,0 +1,15 @@
+title: FR-Net (Unitree Go2 Fall Recovery)
+venue: RA-L
+year: 2025
+authors: []
+abstract: A simple PPO baseline for Unitree Go2 fall recovery, accompanying
+  FR-Net (IEEE RA-L 2025).
+tags:
+  - fall-recovery
+  - isaac-gym
+  - legged-robots
+  - ppo
+  - quadruped
+repo: https://github.com/lu-yidan/FR-Net
+arxiv: https://arxiv.org/abs/2509.11504
+date_added: 2026-07-24
