@@ -1,0 +1,10 @@
+title: Barrier States MATLAB Toolbox
+venue: RA-L
+year: 2022
+authors: []
+abstract: MATLAB toolbox for Barrier States (BaS) safe control and
+  safety-embedded systems.
+tags: []
+repo: https://github.com/CORTx-Lab/barrier-states-matlab
+arxiv: https://arxiv.org/abs/2310.07022
+date_added: 2026-07-28
