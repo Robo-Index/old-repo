@@ -1,0 +1,9 @@
+title: Dynablox
+venue: RA-L
+year: 2023
+authors: []
+abstract: 测试dynablox算法，使用距离滤波，离散点滤波，体素滤波，多帧累积来处理MID360点云，每帧耗时30ms以下
+tags: []
+repo: https://github.com/zhangrenfan/dynablox_ros_test_Demo
+arxiv: https://arxiv.org/abs/2304.10049
+date_added: 2026-07-29

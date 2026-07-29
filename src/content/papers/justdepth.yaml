@@ -1,0 +1,16 @@
+title: JustDepth
+venue: RA-L
+year: 2026
+authors: []
+abstract: "[RA-L 2026] JustDepth: Real-Time Radar-Camera Depth Estimation with
+  Single-Scan LiDAR Supervision"
+tags:
+  - autonomous-driving
+  - camera
+  - dense-depth
+  - depth-estimation
+  - gnn
+repo: https://github.com/TPyun/JustDepth
+arxiv: https://arxiv.org/abs/2607.22172
+project_page: https://ieeexplore.ieee.org/document/11358657
+date_added: 2026-07-29
