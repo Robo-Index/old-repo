@@ -1,0 +1,10 @@
+title: RIT\* Riemannian Informed Trees
+venue: RA-L
+year: 2026
+authors: []
+abstract: We present **Riemannian Informed Trees (RIT\*)**, a planning framework
+  that replaces Euclidean primitives in batch-informed search with their
+  Riemannian counterparts.
+tags: []
+repo: https://github.com/Muhayyuddin/ritstar
+date_added: 2026-08-02
