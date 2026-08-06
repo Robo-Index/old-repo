@@ -1,0 +1,10 @@
+title: ORB-SLAM3
+venue: RA-L
+year: 2026
+authors: []
+abstract: Modern C++ re-implementation of ORB-SLAM3 — design patterns, submodule
+  third-party, latest g2o backend, golden-regression validated.
+tags: []
+repo: https://github.com/Hyeonvidia/ORB_SLAM3_Modern
+arxiv: https://arxiv.org/abs/2007.11898
+date_added: 2026-08-06

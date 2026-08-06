@@ -1,0 +1,16 @@
+title: "MIGHTY: Hermite Spline-based Efficient Trajectory Planning"
+venue: RA-L
+year: 2026
+authors: []
+abstract: "MIGHTY: Hermite spline-based real-time trajectory planner for single-
+  and multi-agent  UAVs and ground robots (ROS 2)."
+tags:
+  - exploration
+  - ground-robot
+  - hardware
+  - navigation
+  - planning
+repo: https://github.com/mit-acl/mighty
+arxiv: https://arxiv.org/abs/2511.10822
+project_page: https://arxiv.org/abs/2511.10822v1
+date_added: 2026-08-06
