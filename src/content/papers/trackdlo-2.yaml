@@ -1,0 +1,11 @@
+title: trackdlo
+venue: RA-L
+year: 2023
+authors: []
+abstract: '[RA-L 2023, ICRA 2024, ICRA RMDO 2024] This repository contains the
+  code used in our paper, "TrackDLO: Tracking Deformable Linear Objects Under
+  Occlusion with Motion Coherence.'
+tags: []
+repo: https://github.com/SDU-Robotics/trackdlo
+project_page: https://doi.org/10.1109/LRA.2023.3303710
+date_added: 2026-08-15

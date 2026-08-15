@@ -1,0 +1,19 @@
+title: "LatentAM: Real-Time, Large-Scale Latent Gaussian Attention Mapping via
+  Online Dictionary Learning"
+venue: RA-L
+year: 2026
+authors: []
+abstract: "[Details (click to expand)] We present LatentAM, an online 3D
+  Gaussian Splatting (3DGS) mapping framework that builds scalable latent
+  feature maps from streaming RGB-D observations for open-vocabulary robotic
+  perception."
+tags:
+  - feature-mapping
+  - gaussian-splatting
+  - mapping
+  - slam
+  - vlm
+repo: https://github.com/UMich-SSI-Lab/latentam
+arxiv: https://arxiv.org/abs/2602.12314
+project_page: https://junwoonlee.github.io/projects/LatentAM/#
+date_added: 2026-08-15
