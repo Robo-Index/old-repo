@@ -1,0 +1,16 @@
+title: Touch-Ex
+venue: RA-L
+year: 2026
+authors: []
+abstract: A reproducible visuo-tactile classification pipeline for the Touch-Ex
+  dataset, supporting CNN and pretrained encoder baselines, unseen-set
+  evaluation, and experiment tracking.
+tags:
+  - classification
+  - cnn
+  - dataset
+  - digit
+  - tactile-sensor
+repo: https://github.com/gemixin/touch-ex
+arxiv: https://arxiv.org/abs/2209.13042
+date_added: 2026-08-18

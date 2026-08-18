@@ -1,0 +1,9 @@
+title: Human Navigation behavior Simulator (HuNavSim v2.0)
+venue: RA-L
+year: 2022
+authors: []
+abstract: A simulator of human navigation behaviors for Robotics based on ROS2
+tags: []
+repo: https://github.com/robotics-upo/hunav_sim
+arxiv: https://arxiv.org/abs/2305.01303
+date_added: 2026-08-18
