@@ -1,0 +1,16 @@
+title: Safe and Scalable Multi-Drone Payload Transport
+venue: RA-L
+year: 2025
+authors: []
+abstract: Official code for "Safe and Scalable Multi-Drone Payload Transport via
+  CBF-Based Reinforcement Learning With Zero-Shot Sim-to-Real Transfer" (IEEE
+  RA-L 2026)
+tags:
+  - aerial-robotics
+  - control-barrier-functions
+  - drones
+  - jax
+  - multi-agent-reinforcement-learning
+repo: https://github.com/JY-HIM4U/DGPPO_MRTransport
+project_page: https://doi.org/10.1109/LRA.2026.3715346
+date_added: 2026-08-20
