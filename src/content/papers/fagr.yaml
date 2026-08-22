@@ -1,0 +1,12 @@
+title: "FAGR: Feature-Action Generative Replay for Robotic Lifelong Imitation
+  Learning"
+venue: RA-L
+year: 2025
+authors: []
+abstract: Conventional imitation learning (IL) struggles with scalability and
+  catastrophic forgetting in sequential task learning, prompting the need for
+  Lifelong Imitation Learning (LIL) to enable sustainable knowledge
+  accumulation.
+tags: []
+repo: https://github.com/JadeYyang/FAGR
+date_added: 2026-08-22
