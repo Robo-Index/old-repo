@@ -1,0 +1,10 @@
+title: If you want to generate training data, you need to initialize the
+  submodules (SuperGlue)
+venue: RA-L
+year: 2026
+authors: []
+abstract: Data-driven keypoint detection and description in event streams.
+tags: []
+repo: https://github.com/ethz-mrl/SuperEvent
+arxiv: https://arxiv.org/abs/2504.00139
+date_added: 2026-08-26

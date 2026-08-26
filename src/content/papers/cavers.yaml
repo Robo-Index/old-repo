@@ -1,0 +1,15 @@
+title: CAVERS dataset
+venue: RA-L
+year: 2026
+authors: []
+abstract: Supplementary material for the CAVERS dataset
+tags:
+  - cave
+  - dataset
+  - exploration
+  - lidar
+  - navigation
+repo: https://github.com/spaceuma/cavers
+arxiv: https://arxiv.org/abs/2604.15052
+project_page: https://zenodo.org/records/19367714
+date_added: 2026-08-26
