@@ -1,0 +1,16 @@
+title: "🚁 🛸 **KQ-LMPC: Koopman LMPC for Quadrotors**"
+venue: RA-L
+year: 2025
+authors: []
+abstract: " A complete, hardware-ready Python package for Koopman-based Linear
+  Model Predictive Control (LMPC), delivering real-time trajectory tracking for
+  quadrotors using analytical Koopman lifting (no training data required)"
+tags:
+  - convex-optimization
+  - data-free-koopman
+  - drone
+  - dynamical-systems
+  - koopman-lmpc
+repo: https://github.com/santoshrajkumar/kq-lmpc-quadrotor
+arxiv: https://arxiv.org/abs/2409.12374
+date_added: 2026-08-30
