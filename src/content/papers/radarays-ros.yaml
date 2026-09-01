@@ -1,0 +1,10 @@
+title: RadaRays - ROS package
+venue: RA-L
+year: 2025
+authors: []
+abstract: Rotating FMCW radar simulation based on ray tracing (ROS 2 Jazzy
+  continuation, independent of uos/radarays_ros)
+tags: []
+repo: https://github.com/sotomotocross/radarays_ros
+arxiv: https://arxiv.org/abs/2310.03505
+date_added: 2026-09-01
