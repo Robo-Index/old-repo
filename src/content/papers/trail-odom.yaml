@@ -1,0 +1,11 @@
+title: TRaIL-Odom
+venue: RA-L
+year: 2026
+authors: []
+abstract: "[RA-L 2026] TRaIL-Odom: Tightly Coupled Continuous Time
+  Radar-IMU-LiDAR Odometry with Adaptive Doppler Weighting"
+tags: []
+repo: https://github.com/ChiyunNoh/TRaIL-Odom
+arxiv: https://arxiv.org/abs/2609.03561
+project_page: https://chiyunnoh.github.io/TRaIL-Odom/
+date_added: 2026-09-04
