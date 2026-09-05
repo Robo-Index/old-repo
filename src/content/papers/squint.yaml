@@ -1,0 +1,16 @@
+title: Squint
+venue: RA-L
+year: 2026
+authors: []
+abstract: " Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics
+  [PyTorch, SO-101 Robot Arm, ManiSkill3, Sim-to-Real] "
+tags:
+  - lerobot
+  - maniskill
+  - reinforcement-learning
+  - sim-to-real
+  - so-101
+repo: https://github.com/aalmuzairee/squint
+arxiv: https://arxiv.org/abs/2602.21203
+project_page: https://aalmuzairee.github.io/squint
+date_added: 2026-09-05
