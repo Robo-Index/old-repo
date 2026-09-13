@@ -1,0 +1,11 @@
+title: oct_levitation
+venue: RA-L
+year: 2026
+authors: []
+abstract: "Remote Magnetic Levitation Using Reduced Attitude Control and
+  Parametric Field Models: A control framework for achieving robust 5DoF
+  manipulation of objects with a magnetic dipole using the OctoMag eMNS"
+tags: []
+repo: https://github.com/NeelakshSingh/oct_levitation
+arxiv: https://arxiv.org/abs/2512.15207
+date_added: 2026-09-13
