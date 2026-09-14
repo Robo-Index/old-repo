@@ -1,0 +1,9 @@
+title: Human Navigation behavior Simulator (HuNavSim)
+venue: RA-L
+year: 2026
+authors: []
+abstract: HuNavSim ROS 2 Jazzy port and evaluator.
+tags: []
+repo: https://github.com/osamuzahid/hunav-sim-jazzy
+arxiv: https://arxiv.org/abs/2305.01303
+date_added: 2026-09-14
