@@ -1,0 +1,13 @@
+title: "AirIO: Learning Inertial Odometry with Enhanced IMU Feature Observability"
+venue: RA-L
+year: 2024
+authors: []
+abstract: "[IEEE RA-L] Air-IO: a learning-based IO framework targeted for UAV"
+tags:
+  - inertial
+  - learning
+  - uncertainty
+repo: https://github.com/Air-IO/Air-IO
+arxiv: https://arxiv.org/abs/2501.15659
+project_page: https://air-io.github.io
+date_added: 2026-09-16
