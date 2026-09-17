@@ -1,0 +1,11 @@
+title: Convex Cover of Collision-free Space
+venue: RA-L
+year: 2025
+authors: []
+abstract: Safe Flight Corridor Generation for Trajectory Planning (ROS 1&2)
+tags:
+  - safe-flight-corridors
+  - trajectory-optimization
+repo: https://github.com/KumarRobotics/kr_opt_sfc
+arxiv: https://arxiv.org/abs/2604.26626
+date_added: 2026-09-17
