@@ -1,0 +1,11 @@
+title: ellipselio
+venue: RA-L
+year: 2026
+authors: []
+abstract: EllipseLIO is an Adaptive LiDAR Inertial Odometry Approach with an
+  Ellipsoid Representation
+tags: []
+repo: https://github.com/v4rl-ucy/ellipselio
+arxiv: https://arxiv.org/abs/2605.21150
+project_page: https://v4rl-ucy.github.io/ellipselio/
+date_added: 2026-09-19
