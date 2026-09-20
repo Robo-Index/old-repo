@@ -1,0 +1,9 @@
+title: ORB-SLAM3
+venue: RA-L
+year: 2026
+authors: []
+abstract: ORB‑SLAM3 ARM移植版本，适配BM1688工控板，单目/双目/视觉惯性SLAM，支持EuRoC数据集
+tags: []
+repo: https://github.com/Benjaminelee/ORB-SLAM3
+arxiv: https://arxiv.org/abs/2007.11898
+date_added: 2026-09-20
