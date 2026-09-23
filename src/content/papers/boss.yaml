@@ -1,0 +1,10 @@
+title: "BOSS: Benchmark for Observation Space Shift in Long-Horizon Task"
+venue: RA-L
+year: 2025
+authors: []
+abstract: Codebase for BOSS benchmark, designed for Observation Space Shift
+  (OSS) in Skill Chaining
+tags: []
+repo: https://github.com/YY-GX/BOSS
+arxiv: https://arxiv.org/abs/2502.15679
+date_added: 2026-09-23

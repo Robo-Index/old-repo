@@ -1,0 +1,15 @@
+title: Multi-Sensor DRL Robot Navigation
+venue: RA-L
+year: 2026
+authors: []
+abstract: LiDAR-to-vision policy distillation for multi-robot navigation (TD3,
+  ROS Noetic, Gazebo, Docker).
+tags:
+  - deep-reinforcement-learning
+  - docker
+  - gazebo
+  - knowledge-distillation
+  - robot-navigation
+repo: https://github.com/am-amani/lidar-to-vision-distillation-nav
+project_page: https://doi.org/10.3390/machines14080936
+date_added: 2026-09-23
