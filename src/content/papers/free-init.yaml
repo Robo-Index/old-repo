@@ -1,0 +1,17 @@
+title: $\color{#FF577E}{𝙁𝙧𝙚𝙚\text{-}𝙄𝙣𝙞𝙩}$Scan-Free, Motion-Free, and
+  Correspondence-Free Initialization for Doppler LiDAR-Inertial Systems
+venue: RA-L
+year: 2026
+authors: []
+abstract: "Free-Init: Scan-Free, Motion-Free, and Correspondence-Free
+  Initialization for Doppler LiDAR-Inertial Systems [IEEE RA-L 2024]"
+tags:
+  - 4d
+  - doppler
+  - fmcw
+  - fmcw-lidar
+  - lidar
+repo: https://github.com/IMRL/Free-Init
+arxiv: https://arxiv.org/abs/2609.29375
+project_page: https://doi.org/10.1109/LRA.2024.3490395
+date_added: 2026-09-25

@@ -1,0 +1,10 @@
+title: 自平衡自行车：仿真与强化学习阶段报告
+venue: RA-L
+year: 2026
+authors: []
+abstract: "- **在平地、目标速度 2.5 m/s 的仿真中，PPO 已实现较高的 10
+  秒平衡成功率：两种不同reward方案的200集成功率分别为：G 为 192/200，H 为 195/200**"
+tags: []
+repo: https://github.com/Qin-songS/self-balanced-bike
+arxiv: https://arxiv.org/abs/2603.15013
+date_added: 2026-09-25

@@ -1,0 +1,16 @@
+title: $\color{#F1261D}{𝗙}\color{#FF9200}{𝗠}\color{#FDDB2A}{𝗖}\color{#4DE42B}{𝗪}\color{#0FF692}{\text{-}}\color{#0BD8F9}{𝗟}\color{#2C22FB}{𝗜}\color{#C32DF3}{𝗢}$A
+  Doppler LiDAR-Inertial Odometry
+venue: RA-L
+year: 2024
+authors: []
+abstract: "FMCW-LIO: A Doppler LiDAR-Inertial Odometry [IEEE RA-L 2024]"
+tags:
+  - 4d
+  - doppler
+  - fmcw
+  - fmcw-lidar
+  - lidar
+repo: https://github.com/IMRL/FMCW-LIO
+arxiv: https://arxiv.org/abs/2609.29374
+project_page: https://doi.org/10.1109/LRA.2024.3396636
+date_added: 2026-09-25
