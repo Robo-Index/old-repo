@@ -1,0 +1,10 @@
+title: IRM2 — PragmaBot on a Franka FR3
+venue: RA-L
+year: 2026
+authors: []
+abstract: PragmaBot (IEEE RAL 2026) reproduced on a Franka FR3 — perception,
+  grasp synthesis and ROS 2 execution layer.
+tags: []
+repo: https://github.com/HarishDeepak/irm2pragmabot
+arxiv: https://arxiv.org/abs/2507.16713
+date_added: 2026-09-29

@@ -1,0 +1,11 @@
+title: "EfficientGrasp: A Unified Data-Efficient Learning to Grasp Method for
+  Multi-fingered Robot Hands"
+venue: RA-L
+year: 2022
+authors: []
+abstract: "EfficientGrasp: workspace-based grasp synthesis and RL inverse
+  kinematics for novel multi-finger grippers incl."
+tags: []
+repo: https://github.com/KelinLi-ReCAST/EfficientGrasp
+arxiv: https://arxiv.org/abs/2206.15159
+date_added: 2026-09-29
