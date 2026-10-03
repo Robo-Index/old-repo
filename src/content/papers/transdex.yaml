@@ -1,0 +1,15 @@
+title: "TransDex: Interaction Geometry Enables Robust Visuo-Tactile Dexterous
+  Manipulation of Transparent Objects"
+venue: RA-L
+year: 2026
+authors: []
+abstract: "TransDex: a 3D visuo-tactile fusion motor policy based on point cloud
+  reconstruction pre-training."
+tags:
+  - dexterous-hand
+  - dexterous-manipulation
+  - robot-learning
+repo: https://github.com/LFGfg/TransDex
+arxiv: https://arxiv.org/abs/2603.13869
+project_page: https://TransDex.github.io
+date_added: 2026-10-03
