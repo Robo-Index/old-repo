@@ -1,0 +1,9 @@
+title: Traj-LO-IMU
+venue: RA-L
+year: 2024
+authors: []
+abstract: Traj-LO 的分段线性轨迹上加 IMU 预积分因子
+tags: []
+repo: https://github.com/qiyu-lu/Traj-LO-IMU
+arxiv: https://arxiv.org/abs/2402.09189
+date_added: 2026-10-05
