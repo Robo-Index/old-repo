@@ -1,0 +1,15 @@
+title: Cross-Entropy Optimization of Physically Grounded Task and Motion Plans
+  (MuJoCo Warp port)
+venue: RA-L
+year: 2026
+authors: []
+abstract: Cross-entropy optimization of physically grounded TAMP plans with
+  batched MuJoCo Warp rollouts (port of the RA-L 2026 paper code)
+tags:
+  - cross-entropy-method
+  - mujoco
+  - task-and-motion-planning
+repo: https://github.com/AndreuMatoses/tamp_ce_mjwarp
+arxiv: https://arxiv.org/abs/2512.11571
+project_page: https://andreumatoses.github.io/research/parallel-realization
+date_added: 2026-10-06
