@@ -1,0 +1,15 @@
+title: NarrowWide
+venue: RA-L
+year: 2025
+authors: []
+abstract: "NarrowWide: A LiDAR-inertial dataset with repeated transitions
+  between confined and open spaces (IEEE T-FR 2026)"
+tags:
+  - benchmark
+  - dataset
+  - disaster
+  - imu
+  - indoor
+repo: https://github.com/cocel-postech/NarrowWide
+arxiv: https://arxiv.org/abs/2603.16273
+date_added: 2026-10-08

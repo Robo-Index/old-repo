@@ -1,0 +1,14 @@
+title: GenZ-LIO
+venue: RA-L
+year: 2025
+authors: []
+abstract: "GenZ-LIO: SOTA robust LiDAR-inertial odometry (IEEE T-FR 2026)"
+tags:
+  - degeneracy
+  - disaster
+  - imu
+  - indoor
+  - indoor-outdoor
+repo: https://github.com/cocel-postech/genz-lio
+arxiv: https://arxiv.org/abs/2603.16273
+date_added: 2026-10-08
