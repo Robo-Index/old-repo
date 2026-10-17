@@ -1,0 +1,11 @@
+title: ROS bags and RealSense capture processing (only if working from raw bagfiles)
+venue: RA-L
+year: 2026
+authors: []
+abstract: "[IEEE RA-L 2026] The official repository for NEO: NeRF It Once, Edit
+  It Many Times for Continuous Object Manipulation"
+tags: []
+repo: https://github.com/csiro-robotics/NEO
+arxiv: https://arxiv.org/abs/2607.24538
+project_page: https://csiro-robotics.github.io/NEO/
+date_added: 2026-10-17

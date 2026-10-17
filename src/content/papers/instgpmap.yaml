@@ -1,0 +1,11 @@
+title: "InstGPMap: Real-Time Instance-Level Global Prior Mapping via Historical
+  Predictions Fusion"
+venue: RA-L
+year: 2026
+authors: []
+abstract: Online HD map construction methods infer local maps directly from
+  sensor observations, but suffer from a limited perception range, especially
+  under occlusion by large vehicles or poor visibility in rain.
+tags: []
+repo: https://github.com/CBQ-1223/InstGPMap
+date_added: 2026-10-17
