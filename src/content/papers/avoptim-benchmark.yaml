@@ -1,0 +1,16 @@
+title: avoptim-benchmark
+venue: RA-L
+year: 2026
+authors: []
+abstract: "Camera–LiDAR pose benchmark for KITTI-360, nuScenes, PandaSet and
+  Waymo: neural rendering, structure-from-motion and geometric evaluation."
+tags:
+  - autonomous-driving
+  - benchmark
+  - camera-lidar-calibration
+  - computer-vision
+  - gaussian-splatting
+repo: https://github.com/qherau/avoptim-benchmark
+arxiv: https://arxiv.org/abs/2504.15776
+project_page: https://qherau.github.io/AVoptim/
+date_added: 2026-10-18
