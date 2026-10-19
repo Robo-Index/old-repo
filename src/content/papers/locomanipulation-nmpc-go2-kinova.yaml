@@ -1,0 +1,9 @@
+title: NMPC for Quadrupedal Loco-Manipulation with Non-Negligible Manipulator Dynamics
+venue: RA-L
+year: 2026
+authors: []
+abstract: Code supporting the IEEE RAL Paper DOI- 10.
+tags: []
+repo: https://github.com/HDSRL/Locomanipulation_NMPC_Go2_Kinova
+arxiv: https://arxiv.org/abs/2507.22042
+date_added: 2026-10-19
