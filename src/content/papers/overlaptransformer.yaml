@@ -1,0 +1,15 @@
+title: OverlapTransformer
+venue: RA-L
+year: 2022
+authors: []
+abstract: "[RAL & ESI Highly Cited]  OverlapTransformer: An Efficient and
+  Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition"
+tags:
+  - global-localization
+  - lidar-place-recognition
+  - loop-closure-detection
+  - place-recognition
+  - slam
+repo: https://github.com/haomo-ai/OverlapTransformer
+arxiv: https://arxiv.org/abs/2402.17264
+date_added: 2026-10-21
