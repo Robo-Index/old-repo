@@ -1,0 +1,14 @@
+title: rl_rvo_nav
+venue: RA-L
+year: 2022
+authors: []
+abstract: "[RA-Letter 2022] Reinforcement Learned Distributed Multi-Robot
+  Navigation with Reciprocal Velocity Obstacle Shaped Rewards"
+tags:
+  - collision-avoidance
+  - ir-sim
+  - multi-agent
+  - reinforcement-learning
+repo: https://github.com/hanruihua/rl_rvo_nav
+arxiv: https://arxiv.org/abs/2606.08729
+date_added: 2026-10-22
