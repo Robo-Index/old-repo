@@ -1,0 +1,9 @@
+title: Predictive Graphs
+venue: RA-L
+year: 2026
+authors: []
+abstract: Object maps whose object–furniture relations are predicted over time
+  with Perpetua* estimators, so a robot can find objects that move.
+tags: []
+repo: https://github.com/montrealrobotics/pred-graphs
+date_added: 2026-10-23
