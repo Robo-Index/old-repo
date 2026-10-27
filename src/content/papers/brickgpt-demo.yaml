@@ -1,0 +1,10 @@
+title: "BrickGPT demo: text → physically stable LEGO structures"
+venue: RA-L
+year: 2024
+authors: []
+abstract: "BrickGPT (ICCV 2025) live demo: text to physically stable LEGO
+  structures, one-command install, Gurobi-free physics check (HiGHS)."
+tags: []
+repo: https://github.com/sauramt/brickgpt-demo
+arxiv: https://arxiv.org/abs/2505.05469
+date_added: 2026-10-27
