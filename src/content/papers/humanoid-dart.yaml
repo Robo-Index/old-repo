@@ -1,0 +1,14 @@
+title: Humanoid-DART
+venue: RA-L
+year: 2026
+authors: []
+abstract: Code for Humanoid-DART, accepted to IEEE-RAL 2026
+tags:
+  - diffusion-models
+  - humanoid-robot
+  - motion-tracking
+  - reinforcement-learning
+repo: https://github.com/Atarilab/humanoid-dart
+arxiv: https://arxiv.org/abs/2606.26855
+project_page: https://pran-d.github.io/Humanoid-DART/
+date_added: 2026-10-28
