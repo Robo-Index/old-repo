@@ -1,0 +1,10 @@
+title: Anytime Density-Adaptive Planning in ρPOMDPs
+venue: RA-L
+year: 2026
+authors: []
+abstract: "Code for “Anytime Density-Adaptive Planning in ρPOMDPs” (IEEE RA-L
+  2026): ADAPT, an anytime ρPOMDP planner that sizes each belief node’s particle
+  set with KLD sampling and updates information rewards incrementally."
+tags: []
+repo: https://github.com/ronbenc/adapt-rhopomdp
+date_added: 2026-11-01
