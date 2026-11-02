@@ -1,0 +1,11 @@
+title: VCS-SLAM
+venue: RA-L
+year: 2026
+authors: []
+abstract: Semantic 3D Gaussian SLAM commonly fuses 2D semantic priors into a
+  persistent 3D map using uniform optimization weights.
+tags: []
+repo: https://github.com/jhakrraman/VCS-SLAM
+arxiv: https://arxiv.org/abs/2606.29494
+project_page: https://arxiv.org/abs/2606.29494
+date_added: 2026-11-02

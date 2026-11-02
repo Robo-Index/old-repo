@@ -1,0 +1,15 @@
+title: StructASR
+venue: RA-L
+year: 2024
+authors: []
+abstract: Graph-Based Representation Learning for Assembly State Recognition
+  Using Synthetic-Driven Part Detection
+tags:
+  - artificial-intelligence
+  - computer-vision
+  - graph-neural-networks
+  - representation-learning
+  - transformers
+repo: https://github.com/mattia-toffolon/StructASR
+arxiv: https://arxiv.org/abs/2009.03294
+date_added: 2026-11-02
