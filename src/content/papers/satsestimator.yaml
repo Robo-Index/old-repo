@@ -1,0 +1,11 @@
+title: Spatial Accumulation and Temporal Statistics for Event Alignment and
+  Ego-Motion Estimation
+venue: RA-L
+year: 2026
+authors: []
+abstract: "This repository contains the official C++ implementation of the
+  paper:  Spatial Accumulation and Temporal Statistics for Event Alignment and
+  Ego-Motion Estimation."
+tags: []
+repo: https://github.com/BugBubbles/SatsEstimator
+date_added: 2026-11-03
