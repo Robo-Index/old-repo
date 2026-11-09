@@ -1,0 +1,17 @@
+title: "Swim2Real: Vision-Language Models for Simulator Calibration of a Soft
+  Robotic Fish"
+venue: RA-L
+year: 2026
+authors: []
+abstract: "[RA-L 2026] Swim2Real: Vision-Language Models for Simulator
+  Calibration of a Soft Robotic Fish"
+tags:
+  - mujoco
+  - robotic-fish
+  - sim-to-real
+  - simulator-calibration
+  - soft-robotics
+repo: https://github.com/kevinxqiu/swim2real
+arxiv: https://arxiv.org/abs/2603.20827
+project_page: https://swim2real.github.io
+date_added: 2026-11-09
