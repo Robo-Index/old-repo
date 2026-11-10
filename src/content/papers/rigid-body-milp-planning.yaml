@@ -1,0 +1,10 @@
+title: Rigid Body Path Planning using Mixed-Integer Linear Programming
+venue: RA-L
+year: 2026
+authors: []
+abstract: Official code for "Rigid Body Path Planning Using Mixed-Integer Linear
+  Programming" (IEEE RA-L 2024).
+tags: []
+repo: https://github.com/MIT-REALM/rigid-body-milp-planning
+arxiv: https://arxiv.org/abs/2409.11520
+date_added: 2026-11-10

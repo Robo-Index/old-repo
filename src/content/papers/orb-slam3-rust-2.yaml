@@ -1,0 +1,14 @@
+title: orb-slam3-rs (WORK IN PROGRESS)
+venue: RA-L
+year: 2026
+authors: []
+abstract: Rust reimplementation of ORB-SLAM3 — visual, visual-inertial and multi-map SLAM
+tags:
+  - computer-vision
+  - orb-slam3
+  - rgbd
+  - rust
+  - slam
+repo: https://github.com/jlu-lujing/orb-slam3-rust
+arxiv: https://arxiv.org/abs/2007.11898
+date_added: 2026-11-10
