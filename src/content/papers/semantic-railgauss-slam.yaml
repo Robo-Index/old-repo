@@ -1,0 +1,14 @@
+title: RailGauss-OSDaR23 — 铁路场景语义高斯 SLAM（OSDaR23 数据集专用）
+venue: RA-L
+year: 2023
+authors: []
+abstract: Rail-specific semantic Gaussian-splatting SLAM on OSDaR23
+tags:
+  - 3dgs
+  - gaussian-splatting
+  - osdar23
+  - railway-slam
+  - semantic-slam
+repo: https://github.com/Cenvoil/semantic-railgauss-slam
+arxiv: https://arxiv.org/abs/2305.03001
+date_added: 2026-11-19
