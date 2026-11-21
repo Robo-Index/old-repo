@@ -1,0 +1,17 @@
+title: "\"I'm Not Mad, Just Focused\": VLM Emotion Recognition for Human-Robot
+  Collaboration"
+venue: RA-L
+year: 2026
+authors: []
+abstract: "Code and results for \"I'm Not Mad, Just Focused\" (IEEE RA-L 2026):
+  VLM-based emotion recognition for human-robot collaboration."
+tags:
+  - affective-computing
+  - emotion-recognition
+  - gemini
+  - human-robot-interaction
+  - vision-language-models
+repo: https://github.com/scdhong/vlm-emotion-recognition-hrc
+arxiv: https://arxiv.org/abs/2605.16816
+project_page: https://doi.org/10.1109/LRA.2026.3694591
+date_added: 2026-11-21
