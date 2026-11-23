@@ -1,0 +1,10 @@
+title: Fast Diffusion Sampling for Stochastic Human Motion Prediction
+venue: RA-L
+year: 2024
+authors: []
+abstract: Masked DPM-Solver sampling with a Diffusion Transformer for fast
+  stochastic human motion prediction.
+tags: []
+repo: https://github.com/Quancoder260503/Human-Pose-Forecasting
+arxiv: https://arxiv.org/abs/2208.15001
+date_added: 2026-11-23
