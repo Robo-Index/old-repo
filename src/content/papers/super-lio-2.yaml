@@ -1,0 +1,10 @@
+title: Super-LIO
+venue: RA-L
+year: 2026
+authors: []
+abstract: 基于 Super-LIO ROS 2 的 Livox MID360 改进版，修正 LiDAR–IMU 帧末对齐与点云去畸变，以 Huber
+  降权提升点面配准的稳健性。
+tags: []
+repo: https://github.com/xhy-yyy/Super-Lio
+arxiv: https://arxiv.org/abs/2509.05723
+date_added: 2026-11-26
