@@ -1,0 +1,10 @@
+title: "MIGHTY: Hermite Spline-based Efficient Trajectory Planning"
+venue: RA-L
+year: 2026
+authors: []
+abstract: drone software system (based on PathCover, MIGHTY) combining simple
+  prompt to goal generation and other algorithms
+tags: []
+repo: https://github.com/howlong93/drone-sw-system
+arxiv: https://arxiv.org/abs/2511.10822
+date_added: 2026-11-27
